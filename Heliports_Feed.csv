@@ -1,0 +1,66 @@
+code,source,name,latitude,longitude,timezone,is_visible,is_major,iata_type,default_language,is_deleted,cities_id,is_active,is_military
+BHC,OAG,Bhurban Heliport,33.925,73.43333,500,t,NULL,NULL,en-us,f,NULL,f,NULL
+BOF,OAG,Washington Bolling AFB Heliport,38.91667,-77.01667,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+CCD,OAG,Los Angeles Century City Heliport,34.06667,-118.26667,-800,t,f,8,en-us,f,ecbaf5bc-81a2-4383-a2dd-2e35b547164a,f,NULL
+CHE,OAG,Tallinn Heliport,59.44806,24.75333,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+DIO,OAG,Diomede,65.75861,-168.95333,-900,t,f,8,en-us,f,56e98ee1-775e-41a3-9ee5-627e0e65efeb,t,NULL
+FEW,OAG,Cheyenne Warren AFB H/P,41.15,-104.81667,-700,t,NULL,NULL,en-us,f,NULL,f,NULL
+GFA,OAG,Great Falls Malmstrom AFB Heliport,47.5,-111.16667,-700,t,NULL,NULL,en-us,f,NULL,f,NULL
+GZM,OAG,Gozo Heliport,36.03389,14.20083,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+HCS,OAG,Johannesburg Randburg H/P,-26.25278,28.15278,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+HEN,OAG,Helsinki Hernesaari Heliport,60.14778,24.92444,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+HHP,OAG,Sheung Wan Heliport,22.28889,114.1525,800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HIC,OAG,Pretoria Iscor H/P,-25.65278,28.21944,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+HPR,OAG,Pretoria Central H/P,-25.73333,28.18333,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+JBP,OAG,Los Angeles Commerce Bus. Park H/P,33.98667,-118.15972,-800,t,f,8,en-us,f,795f3ba5-2ef9-4294-aa95-69728b045486,f,NULL
+JCA,OAG,Cannes Palm Beach Heliport,43.53528,7.03833,100,t,t,4,en-us,f,da900295-f140-44ac-9e4c-c504d8c7b7a1,f,NULL
+JCE,OAG,Oakland Convention Center H/P,37.73333,-122.2,-800,t,f,8,en-us,f,771ed4dc-b7fb-424e-bef2-1c8351b2e303,f,NULL
+JCH,OAG,Qasigiannguit,68.82056,-51.17222,-300,t,t,4,en-us,f,4eb3c619-53d6-47c9-ae6e-5b5b94204d96,t,NULL
+JCJ,OAG,Jeju Chuja Heliport,33.93333,126.31667,900,t,f,8,en-us,f,0ef42450-ec10-41c3-90a5-a120c597fa46,f,NULL
+JCO,OAG,Kemmuna Heliport,36.01667,14.33333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+JCU,OAG,Ceuta,35.89222,-5.30694,100,t,t,4,en-us,f,272f7d1e-14c9-468a-a759-2599cfed372b,f,NULL
+JDX,OAG,Houston First City Heliport,29.76667,-95.33333,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+JFM,OAG,Fremantle,-32.04333,115.73944,800,t,f,8,en-us,f,d926c18c-7d7d-4dce-ae28-8b10ce067d61,f,NULL
+JGO,OAG,Qeqertarsuaq,69.25083,-53.53806,-300,t,t,4,en-us,f,4f5cd7ac-b66c-46e4-b997-db2d287d7360,t,NULL
+JGQ,OAG,Houston Transco Tower Heliport,29.76667,-95.46667,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+JGR,OAG,Groennedal,61.33333,-48.1,-300,t,f,4,en-us,f,16781601-c813-498e-ac36-17d7e3368cc5,f,NULL
+JHE,OAG,Angelholm/Helsingborg Heliport,56.05,12.7,100,t,f,4,en-us,f,c2482b31-ac28-486f-8c21-14b0b1408f0d,f,NULL
+JID,OAG,Los Angeles City Of Industry H/P,34.02722,-117.95833,-800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JLD,OAG,Landskrona,55.95,12.86667,100,t,f,8,en-us,f,c3781d4d-9a6e-4c67-a54a-1dce7808217e,f,NULL
+JLX,OAG,Los Angeles Union Stn Annex H/P,33.95,-118.4,-800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JMH,OAG,Schaumburg,42.03333,-88.08333,-600,t,f,8,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc,f,NULL
+JMM,OAG,Malmo Harbor Heliport,55.61667,13,100,t,f,8,en-us,f,4ee665ce-d392-4604-a4ef-7ca1dbe75aa1,f,NULL
+JMY,OAG,Freetown Mammy Yoko Heliport,8.48333,-13.26667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+JPU,OAG,Paris La Defense H/P,48.73333,2.55,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+JRA,OAG,New York West 30th Street H/P,40.75444,-74.0075,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+JRB,OAG,New York Downtown Manhattan H/P,40.70111,-74.00889,-500,t,f,8,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9,f,NULL
+JRD,OAG,Riverside Metro Center H/P,33.95,-117.45,-800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JSG,OAG,San Rafael Heliport,37.98333,-122.51667,-800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JSL,OAG,Atlantic City Steel Pier Heliport,39.36667,-74.41667,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+JSO,OAG,Sodertalje,59.2,17.61667,100,t,f,8,en-us,f,f1114405-5843-4459-aa77-c9a72ff2d448,f,NULL
+JSP,OAG,Seogwipo Heliport,33.25,126.56667,900,t,f,8,en-us,f,9372a616-070b-4ec6-b156-12d61dc198e1,f,NULL
+JWC,OAG,Los Angeles Warner Center Plaza H/P,33.94167,-118.4,-800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JWH,OAG,Houston Westchase Heliport,29.73333,-95.55,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+KAH,OAG,Yarra Bank Heliport,-37.98333,144.96667,1000,t,NULL,NULL,en-us,f,NULL,f,NULL
+LPH,OAG,Lochgilphead,56.05,-5.43333,0,t,f,8,en-us,f,16af0b74-75a5-4a8c-9b06-a2361c6ef7a5,f,NULL
+LSD,OAG,Lexington Creech Heliport,38.03611,-84.6,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+MMR,OAG,Mabry ARNG Heliport,30.3,-97.7,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+PHJ,OAG,Newcastle Harbor Heliport,-32.91667,151.76667,1000,t,NULL,NULL,en-us,f,NULL,f,NULL
+QFG,OAG,Eqalugaarsuit Heliport,60.62472,-45.91333,-300,t,NULL,NULL,en-us,f,NULL,f,NULL
+QFN,OAG,Narsaq Kujalleq Heliport,60.00444,-44.65528,-300,t,NULL,NULL,en-us,f,NULL,t,NULL
+QFT,OAG,Qassiarsuk Heliport,61.14361,-45.51333,-300,t,NULL,NULL,en-us,f,NULL,f,NULL
+QFX,OAG,Igaliku Heliport,60.99111,-45.42111,-300,t,NULL,NULL,en-us,f,NULL,f,NULL
+QJH,OAG,Qassumiut Heliport,60.77944,-47.15222,-300,t,NULL,NULL,en-us,f,NULL,f,NULL
+QOQ,OAG,Saarloq Heliport,60.53806,-46.02472,-300,t,NULL,NULL,en-us,f,NULL,f,NULL
+QUV,OAG,Aappilattoq Nanortalik Heliport,60.14833,-44.28694,-300,t,NULL,NULL,en-us,f,NULL,t,NULL
+QUW,OAG,Ammassivik Heliport,60.59389,-45.38278,-300,t,NULL,NULL,en-us,f,NULL,f,NULL
+RAY,OAG,Rothesay,55.85,-5.05,0,t,f,8,en-us,f,f85e5db2-fac6-46cf-86e3-4daaf292f36b,f,NULL
+SBT,OAG,Sabetta,71.25111,72.10167,500,t,f,8,en-us,f,94234803-8b08-40ce-a384-c327e418d63e,f,NULL
+TQA,OAG,Tasiussaq Heliport,73.37306,-56.06028,-300,t,NULL,NULL,en-us,f,NULL,t,NULL
+TQI,OAG,Tiniteqilaaq Heliport,65.89194,-37.78333,-300,t,NULL,NULL,en-us,f,NULL,t,NULL
+TSO,OAG,Isles of Scilly Tresco Heliport,49.94556,-6.33139,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+TSS,OAG,New York East 34th Street H/P,40.7425,-73.97222,-500,t,f,8,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9,f,NULL
+UPK,OAG,Upernavik Kujalleq Heliport,72.15278,-55.53111,-300,t,NULL,NULL,en-us,f,NULL,t,NULL
+WKL,OAG,Waikoloa,19.91667,-155.86667,-1000,t,f,8,en-us,f,a911ac3d-4dc8-4bca-9e1f-cd1cc39daa1e,f,NULL
+YED,OAG,CFB Namao Heliport,53.31944,-113.6,-700,t,NULL,NULL,en-us,f,NULL,f,NULL
+YWF,OAG,Halifax Downtown Waterfront H/P,44.65,-63.6,-400,t,NULL,NULL,en-us,f,NULL,f,NULL

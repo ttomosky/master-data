@@ -1,0 +1,1908 @@
+code,source,name,latitude,longitude,timezone,is_visible,is_major,iata_type,default_language,is_deleted,cities_id,is_active,is_military
+ABE,TTX,Amtrak (Aberdeen),39.50946,-76.163009,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ABI,TTX,Amtrak (Abilene),32.454105,-99.73468,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ABN,TTX,Amtrak (Absecon NJ Transit Station),39.428695,-74.507537,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ABQ,TTX,Amtrak (Albuquerque),35.082935,-106.64698,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+ACA,TTX,Amtrak (Antioch-Pittsburg),38.018085,-121.815132,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ACE,TTX,Amtrak (Atlantic City Express Service Station),39.36,-74.435,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ACY,TTX,Amtrak (Atlantic City NJ Transit Station),39.363002,-74.439865,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ADE,TTX,Amtrak (Adelanto),34.558265,-117.404212,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ADM,TTX,Amtrak (Ardmore),34.171913,-97.125411,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+AEI,OAG,Algeciras Rail Station,36.1275,-5.45389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+AGA,TTX,Amtrak (Augusta),44.311,-69.779,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+AGY,OAG,Munich Augsburg Hbf Rail Station,48.36556,10.88639,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+AHA,TTX,Amtrak (Atlanta Hartsfield Airport),33.748995,-84.387982,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+AHL,TTX,Amtrak (Ashland),42.188117,-122.697021,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+AKO,TTX,Amtrak (Akron),41.080574,-81.515663,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+AKY,TTX,Amtrak (Ashland),38.48093,-82.639472,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALB,TTX,Amtrak (Albany-Rensselaer),42.641647,-73.741256,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALC,TTX,Amtrak (Alliance),40.921787,-81.095809,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALD,TTX,Amtrak (Alderson),37.724239,-80.644645,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALE,TTX,Amtrak (Alice),27.745412,-98.082351,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALI,TTX,Amtrak (Albion),42.247375,-84.756324,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALN,TTX,Amtrak (Alton),38.904491,-90.134948,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALP,TTX,Amtrak (Alpine),30.357158,-103.661041,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALT,TTX,Amtrak (Altoona),40.514781,-78.400993,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALV,TTX,Amtrak (Allentown Airport),40.652332,-75.440391,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALX,TTX,Amtrak (Alexandria),38.806243,-77.062644,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ALY,TTX,Amtrak (Albany),44.630756,-123.099647,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+AMM,TTX,Amtrak (Amherst),42.374858,-72.511924,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+AMR,OAG,Almeria Rail Station,36.83472,-2.45639,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+AMS,TTX,Amtrak (Amsterdam),42.953676,-74.219553,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ANA,TTX,Amtrak (Anaheim),33.80426,-117.884819,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ANW,TTX,Amtrak (Allentown - West),40.590431,-75.567192,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+APP,TTX,Amtrak (Appleton),44.265941,-88.405647,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ARB,TTX,Amtrak (Ann Arbor),42.288051,-83.744026,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ARC,TTX,Amtrak (Arcata),40.867572,-124.083938,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ARD,TTX,Amtrak (Ardmore),40.007263,-75.289443,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ARI,TTX,Amtrak (Astoria Mini Mart Bus Stop),46.18788,-123.8312,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ARK,TTX,Amtrak (Arkadelphia),34.114376,-93.052444,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ARN,TTX,Amtrak (Auburn),38.904182,-121.082031,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ART,TTX,Amtrak (Astoria Transit Center Bus Stop),46.19,-123.833,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ASD,TTX,Amtrak (Ashland),37.759235,-77.481674,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+AST,TTX,Amtrak (Aldershot Via Rail/GO Transit Train and Bus Station),40.817119,-91.103591,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ASX,TTX,Amtrak (Aspen Aspen Shuttle Door to Door Service),39.191,-106.818,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATA,TTX,Amtrak (Atascadero),35.489208,-120.66571,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATB,TTX,Amtrak (Bethlehem),40.652389,-75.413253,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATD,TTX,Amtrak (Atascadero Bus Stop),35.4894,-120.671,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATL,TTX,Amtrak (Atlanta),33.799564,-84.391784,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATN,TTX,Amtrak (Anniston),33.648998,-85.831886,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATO,TTX,Amtrak (Atco NJ Transit Station),39.7836,-74.9078,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ATR,TTX,Amtrak (Atmore),31.024328,-87.487335,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+AUS,TTX,Amtrak (Austin),30.269092,-97.755569,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+AVS,OAG,Avila Rail Station,40.65694,-4.68333,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAK,TTX,Amtrak (Baker City),44.782054,-117.811325,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAL,TTX,Amtrak (Baltimore Penn Station),39.30812,-76.617477,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAM,TTX,Amtrak (Bangor),42.314186,-86.111869,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAN,TTX,Amtrak (Bangor),44.801,-68.778,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAR,TTX,Amtrak (Barstow),34.9048,-117.025352,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAS,TTX,Amtrak (Bay St. Louis),30.3069,-89.337333,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAT,TTX,Amtrak (Bath),43.9106,-69.8206,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BAU,OAG,Bari Central Rail Station,41.11778,16.86944,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+BAY,TTX,Amtrak (Bay Minette),30.88092,-87.773033,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BBS,TTX,Amtrak (Barstow Bus Station (Thruway Motorcoach station)),34.9048,-117.0248,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BBY,TTX,Amtrak (Boston Back Bay - Acela Express - Regional - Lake Shore Limited),42.347305,-71.076354,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BCL,TTX,Amtrak (Bossier City),32.525558,-93.680152,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BDN,TTX,Amtrak (Brandon),43.799175,-73.089233,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BDR,TTX,Amtrak (Bend Riverhouse),44.0582,-121.3153,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BDT,TTX,Amtrak (Bradenton),27.490396,-82.470672,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BED,TTX,Amtrak (Bend),44.055339,-121.273406,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BEL,TTX,Amtrak (Bellingham),48.720485,-122.509887,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BEN,TTX,Amtrak (Benson),31.968168,-110.293983,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+BER,TTX,Amtrak (Berlin),41.635524,-72.765724,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BET,TTX,Amtrak (South Beloit),42.49884,-89.035491,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BEU,TTX,Amtrak (Beaumont),33.928047,-116.976509,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BFD,TTX,Amtrak (Bakersfield),35.371379,-119.02246,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BFT,TTX,Amtrak (Belfast),44.4259,-69.006,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BFX,TTX,Amtrak (Buffalo Exchange St.),42.878482,-78.875061,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BGP,TTX,Amtrak (Big Rapids),43.698318,-85.482048,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BGS,TTX,Amtrak (Big Spring),32.252571,-101.473014,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BHM,TTX,Amtrak (Birmingham),33.512393,-86.807029,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BIN,TTX,Amtrak (Berlin),44.468669,-71.185076,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BIX,TTX,Amtrak (Biloxi),30.39912,-88.891143,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BKR,TTX,Amtrak (Baker),35.2675,-116.0739,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BKY,TTX,Amtrak (Berkeley),37.867603,-122.299995,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BLD,TTX,Amtrak (Boulder),40.058395,-105.281181,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+BLE,TTX,Amtrak (Belen),34.664241,-106.774871,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+BLF,TTX,Amtrak (Bellows Falls),43.135826,-72.445449,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BLY,TTX,Amtrak (Buckley),44.504398,-85.676635,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BMM,TTX,Amtrak (Birmingham),42.545722,-83.195297,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BMT,TTX,Amtrak (Beaumont),30.076906,-94.122962,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BNB,TTX,Amtrak (Bethany Beach),38.5396,-75.0552,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BNC,TTX,Amtrak (Burlington),36.094177,-79.436286,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BNG,TTX,Amtrak (Bingen-White Salmon),45.715385,-121.469093,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BNL,TTX,Amtrak (Bloomington-Normal),40.508346,-88.984039,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BNS,TTX,Amtrak (Burns),43.5904,-119.05339,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BOI,TTX,Amtrak (Boise),43.619468,-116.206108,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+BON,TTX,Amtrak (Boston North Station - Maine service only),42.3661,-71.061,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BOR,TTX,Amtrak (Cheyenne(Borie)),41.09111,-104.9869,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+BOS,TTX,Amtrak (Boston South Station Downtown - Acela Express - Regional - Lake Shore Limited),42.351524,-71.055297,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BPO,OAG,Bo'ao Rail Station,19.13806,110.48278,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+BPR,OAG,Bristol Parkway Rail Station,51.51389,-2.54167,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+BQD,OAG,Brindisi Rail Station,40.63417,17.93889,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+BQZ,OAG,Badajoz Rail Station,38.89056,-6.98139,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRA,TTX,Amtrak (Brattleboro),42.838695,-72.550354,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRH,TTX,Amtrak (Brookhaven),31.578758,-90.442123,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRK,TTX,Amtrak (Brunswick),43.9113,-69.9657,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRL,TTX,Amtrak (Burlington),40.805942,-91.101982,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRM,TTX,Amtrak (Bryn Mawr),40.0218,-75.3163,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRN,TTX,Amtrak (Boron),34.999782,-117.656806,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRO,TTX,Amtrak (Browning),48.533294,-113.010841,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRP,TTX,Amtrak (Bridgeport),41.176746,-73.1874,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRT,TTX,Amtrak (Brampton),43.691055,-79.762321,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRV,TTX,Amtrak (Bartlesville),36.750633,-95.935363,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BRZ,OAG,Brescia Rail Station,45.53194,10.21278,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+BSB,TTX,Amtrak (Bethlehem - South),40.611354,-75.377868,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BSN,TTX,Amtrak (Branson),36.64439,-93.227203,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BSV,TTX,Amtrak (Brownsville),25.899885,-97.49945,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BTA,TTX,Amtrak (Brewton),31.104864,-87.070045,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BTF,TTX,Amtrak (Brantford),43.145729,-80.262359,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BTL,TTX,Amtrak (Battle Creek),42.316974,-85.185691,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BTR,TTX,Amtrak (Baton Rouge),30.449657,-91.176597,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BTS,TTX,Amtrak (Batesville),34.31602,-89.952384,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BTV,TTX,Amtrak (Burlington),44.476055,-73.214797,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BUF,TTX,Amtrak (Buffalo-Depew),42.906917,-78.726608,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BUL,TTX,Amtrak (Buellton),34.611339,-120.193382,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BUR,TTX,Amtrak (Burbank Airport),34.193832,-118.355911,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BUZ,TTX,Amtrak (Buzzards Bay),41.745296,-70.61753,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BVL,TTX,Amtrak (Belleville),38.520919,-89.991462,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+BVQ,OAG,Baoding Rail Station,38.86417,115.47889,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+BWC,TTX,Amtrak (Brunswick Bowdoin College),43.914,-69.967,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BWI,TTX,Amtrak (Baltimore BWI Airport Rail Station),39.189552,-76.693397,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BWW,TTX,Amtrak (Brewster),48.136,-119.722,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+BYC,TTX,Amtrak (Boyne City),45.204841,-85.026649,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BYF,TTX,Amtrak (Boyne Falls),45.168399,-84.916213,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BYN,TTX,Amtrak (Bryan),41.480346,-84.552749,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+BZQ,OAG,Bolzano/Bozen Rail Station,46.49639,11.35833,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+CAM,TTX,Amtrak (Camden),34.247348,-80.626159,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CAS,TTX,Amtrak (Casper Bus Stop),42.8666,-106.3131,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+CAT,TTX,Amtrak (Cattletsburg),38.438098,-82.608444,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CAY,TTX,Amtrak (Conway),43.9792,-71.1203,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CBO,TTX,Amtrak (Cannon Beach),45.8918,-123.9615,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CBR,TTX,Amtrak (Cleburne),32.348335,-97.38166,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CBS,TTX,Amtrak (Columbus),43.340667,-89.012481,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CBW,TTX,Amtrak (Capitol Beltway),38.9987,-76.8919,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CBY,TTX,Amtrak (Coos Bay),43.366645,-124.21199,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CCN,TTX,Amtrak (Carson City),39.166648,-119.765777,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CDL,TTX,Amtrak (Carbondale),37.724086,-89.216369,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CDN,TTX,Amtrak (Camden-Rockport),44.1948,-69.076,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CDZ,OAG,Cadiz Rail Station,36.52944,-6.28861,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+CED,TTX,Amtrak (Cedar City),37.6775,-113.062,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+CEJ,OAG,Cuenca Rail Station,40.0675,-2.13667,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+CEN,TTX,Amtrak (Centralia),38.52777,-89.136192,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CFW,OAG,Cardiff Rail Station,51.47583,-3.17917,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+CFX,TTX,Amtrak (Colfax),46.875926,-117.363655,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CGA,TTX,Amtrak (Calistoga),38.579868,-122.577812,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CHI,TTX,Amtrak (Chicago Union Station),41.87873,-87.639167,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CHM,TTX,Amtrak (Champaign-Urbana),40.116195,-88.240928,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CHS,TTX,Amtrak (Charleston),32.875534,-79.998901,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CHW,TTX,Amtrak (Charleston),38.351989,-81.64672,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CHY,TTX,Amtrak (Cheyenne Bus Stop),41.121582,-104.805183,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+CIA,TTX,Amtrak (Chillicothe),40.929954,-89.494216,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CIC,TTX,Amtrak (Chico),39.723308,-121.844718,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CIE,TTX,Amtrak (Caliente),37.612194,-114.515647,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CIG,TTX,Amtrak (Cincinnati Greyhound Bus),39.108,-84.504,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CIN,TTX,Amtrak (Cincinnati),39.102378,-84.536529,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CIP,TTX,Amtrak (Chipley),30.780727,-85.537612,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLA,TTX,Amtrak (Claremont),43.368785,-72.379302,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLB,TTX,Amtrak (Columbia),33.993717,-81.040573,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLC,TTX,Amtrak (Cadillac Bus Stop),44.268394,-85.406692,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLE,TTX,Amtrak (Cleveland),41.504417,-81.698173,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLF,TTX,Amtrak (Clifton Forge),37.811771,-79.836494,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLG,TTX,Amtrak (Cleveland - Greyhound Bus Station),41.5034,-81.682,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLJ,TTX,Amtrak (Camp Lejeune Bus Station),34.664,-77.354,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLL,TTX,Amtrak (College Station - Bryan),30.600336,-96.337127,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLM,TTX,Amtrak (Claremont),34.094528,-117.715507,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLP,TTX,Amtrak (Culpeper),38.472923,-77.993041,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLT,TTX,Amtrak (Charlotte),35.241146,-80.823638,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLV,TTX,Amtrak (Cloverdale),38.799896,-123.012077,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CLW,TTX,Amtrak (Clearwater),27.975515,-82.730926,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CML,TTX,Amtrak (Camarillo),34.216468,-119.033111,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CMO,TTX,Amtrak (Chemult),43.216903,-121.780662,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CNA,TTX,Amtrak (Corsicana),32.091606,-96.461959,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CNG,TTX,Amtrak (Corning),39.928478,-122.196929,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CNH,TTX,Amtrak (Concord),43.2081,-71.5376,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CNL,TTX,Amtrak (Allensworth – flag stop),35.8636,-119.389,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CNO,TTX,Amtrak (Chattanooga),35.030704,-85.194389,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+COC,TTX,Amtrak (Corcoran),36.098194,-119.556503,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+COG,TTX,Amtrak (Columbus),32.461334,-84.987426,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+COI,TTX,Amtrak (Connersville),39.646465,-85.13356,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+COL,TTX,Amtrak (Columbus),39.959079,-82.996696,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+COM,TTX,Amtrak (Commerce),33.990905,-118.143737,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+COO,TTX,Amtrak (Coolidge),32.977844,-111.515518,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+COS,TTX,Amtrak (Colorado Springs),38.831924,-104.819198,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+COT,TTX,Amtrak (Coatesville),39.985618,-75.820663,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+COV,TTX,Amtrak (Connellsville),40.0181,-79.592597,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+COX,TTX,Amtrak (Colfax),39.099456,-120.952705,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CPC,TTX,Amtrak (Cameron Park),38.660663,-120.968162,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CPJ,OAG,Castellon de la Plana Rail Station,39.98833,-0.05222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+CPN,TTX,Amtrak (Carpinteria),34.396003,-119.521316,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRB,TTX,Amtrak (Crawfordsville Bus Stop),40.0412,-86.874,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRF,TTX,Amtrak (Crawfordsville),40.044254,-86.899383,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRH,TTX,Amtrak (Cherry Hill NJ Transit Station),39.927482,-75.042434,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRM,TTX,Amtrak (Carmel),36.539318,-121.908042,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRN,TTX,Amtrak (Creston),41.057083,-94.361198,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRT,TTX,Amtrak (Croton-Harmon),41.192729,-73.883842,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CRV,TTX,Amtrak (Carlinville),39.279327,-89.888916,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CSN,TTX,Amtrak (Clemson),34.691177,-82.83348,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CSV,TTX,Amtrak (Crestview),30.757587,-86.56903,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CSW,TTX,Amtrak (Cashmere),47.5223,-120.47,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CTG,TTX,Amtrak (Cottage Grove),43.80474,-123.056396,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CTH,TTX,Amtrak (Chatham),42.40237,-82.185043,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CTJ,OAG,Caserta Rail Station,41.06889,14.32833,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+CTL,TTX,Amtrak (Centralia),46.717422,-122.951881,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CTN,TTX,Amtrak (Canton),32.61481,-90.040519,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CTV,TTX,Amtrak (Clintonville),44.622127,-88.760154,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+CUM,TTX,Amtrak (Cumberland),39.650585,-78.758476,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CUT,TTX,Amtrak (Cut Bank),48.63694,-112.330024,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+CVD,TTX,Amtrak (Camp Verde),34.625778,-111.880638,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+CVI,TTX,Amtrak (Corvallis),44.565238,-123.260597,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CVS,TTX,Amtrak (Charlottesville),38.032032,-78.492111,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CWB,TTX,Amtrak (Clearwater Beach),27.977247,-82.827781,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CWH,TTX,Amtrak (Cornwells Heights),40.071891,-74.950805,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CWT,TTX,Amtrak (Chatsworth),34.257118,-118.598731,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+CWY,TTX,Amtrak (Conway),33.835124,-79.04673,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+CXE,OAG,Chester Central Rail Station,53.19694,-2.87972,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+CXX,OAG,Carlisle Central Rail Station,54.89056,-2.93333,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+CYN,TTX,Amtrak (Cary),35.787708,-78.779678,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DAL,TTX,Amtrak (Dallas),32.775543,-96.807403,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DAM,TTX,Amtrak (Damariscotta),44.0329,-69.519,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DAN,TTX,Amtrak (Danville),36.583698,-79.384315,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DAV,TTX,Amtrak (Davis),38.544113,-121.737068,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+DBL,OAG,Dalianbei Rail Station,38.92361,121.63028,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+DBP,TTX,Amtrak (Dublin-Pleasanton),37.702,-121.9,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+DDE,TTX,Amtrak (Dade City),28.364189,-82.184822,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DDG,TTX,Amtrak (Dodge City),37.752597,-100.016578,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DDV,OAG,Changsha Rail Station,27.83778,113.15222,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+DEB,TTX,Amtrak (Denver Bus Station),39.738,-104.985,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+DEL,TTX,Amtrak (Del Mar),32.959426,-117.2667,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+DEM,TTX,Amtrak (Deming),32.271083,-107.760833,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+DEN,TTX,Amtrak (Denver),39.753223,-104.99961,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+DER,TTX,Amtrak (Dearborn),42.313049,-83.201179,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DET,TTX,Amtrak (Detroit),42.367881,-83.072097,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DFB,TTX,Amtrak (Deerfield Beach),26.317794,-80.121459,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DGS,TTX,Amtrak (Douglas Bus Stop),42.7597,-105.382,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+DHM,TTX,Amtrak (Durham),43.134,-70.926,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DHU,OAG,Zhuzhou Rail Station,27.84417,113.15417,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+DIA,TTX,Amtrak (Denver International Ap'T),39.858341,-104.666915,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+DIL,TTX,Amtrak (Dillon),34.418285,-79.371757,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DLB,TTX,Amtrak (Delray Beach),26.455179,-80.092529,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DLD,TTX,Amtrak (Deland),29.016834,-81.352455,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DLK,TTX,Amtrak (Detroit Lakes),46.819488,-95.845581,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DNC,TTX,Amtrak (Durham),35.997035,-78.907226,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DNK,TTX,Amtrak (Denmark),33.326145,-81.14315,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DOA,TTX,Amtrak (Dowagiac),41.981201,-86.108734,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DOV,TTX,Amtrak (Dover),43.1981,-70.878,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DOW,TTX,Amtrak (Downingtown),40.002536,-75.708122,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DQN,TTX,Amtrak (Du Quoin),38.011352,-89.240158,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DRD,TTX,Amtrak (Durand),42.909778,-83.982437,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DRT,TTX,Amtrak (Del Rio),29.36308,-100.901466,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DSY,TTX,Amtrak (Disneyland),33.810588,-117.922882,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+DTZ,OAG,Dortmund Hbf Rail Station,51.51778,7.45917,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+DUK,TTX,Amtrak (Dunkirk),42.485332,-79.331016,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DUL,TTX,Amtrak (Duluth Bus Station),46.766601,-92.124008,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DUN,TTX,Amtrak (Dunsmuir),41.211174,-122.269973,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+DUR,TTX,Amtrak (Durant),33.073753,-89.853485,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DVI,TTX,Amtrak (Danville),40.119426,-87.636116,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DVL,TTX,Amtrak (Devils Lake),48.110645,-98.861373,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DVP,TTX,Amtrak (Davenport),41.519737,-90.577423,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DVR,TTX,Amtrak (Dover),43.1979,-70.874,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DWT,TTX,Amtrak (Dwight),41.092048,-88.428321,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+DYA,TTX,Amtrak (Daytona Beach),29.228231,-81.009117,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DYE,TTX,Amtrak (Dyer),41.498527,-87.518188,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+DYN,OAG,Danyang Rail Station,32.00361,119.58694,800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EBG,TTX,Amtrak (Ellensburg),46.999576,-120.552757,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EDM,TTX,Amtrak (Edmonds),47.811294,-122.383071,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EDP,TTX,Amtrak (East Dublin-Pleasanton),37.699218,-121.893501,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EEL,OAG,Tudela Rail Station,42.05944,-1.5975,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+EEU,OAG,Leon Rail Station,42.59611,-5.58278,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+EFG,TTX,Amtrak (Effingham),39.119155,-88.545715,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+EGH,TTX,Amtrak (Egg Harbor City NJ Transit Station),39.5266,-74.648,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+EGL,TTX,Amtrak (Eagle),39.650707,-106.833053,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+EIZ,OAG,Eisenach Hbf Rail Station,50.97639,10.33139,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+EJJ,OAG,Jingzhou Rail Station,30.37278,112.2075,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+EJQ,OAG,Shiyan Rail Station,32.60361,110.78167,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+EKA,TTX,Amtrak (Eureka),40.803016,-124.158203,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EKH,TTX,Amtrak (Elkhart),41.680721,-85.971054,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ELB,TTX,Amtrak (El Paso Bus Station),31.77,-106.497,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ELK,TTX,Amtrak (Elko),40.836875,-115.753395,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ELP,TTX,Amtrak (El Paso),31.757724,-106.494888,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ELS,TTX,Amtrak (Elsie),45.866,-123.95,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ELT,TTX,Amtrak (Elizabethtown),40.147399,-76.614578,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ELY,TTX,Amtrak (Elyria),41.370052,-82.097007,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+EMC,TTX,Amtrak (El Monte),34.072597,-118.042495,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EMI,TTX,Amtrak (Escanaba),45.780368,-87.087356,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+EMP,TTX,Amtrak (Emporia),38.401851,-96.185539,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+EMY,TTX,Amtrak (Emeryville),37.840679,-122.290679,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EPH,TTX,Amtrak (Ephrata),47.320594,-119.548645,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EPL,TTX,Amtrak (El Portal),37.678543,-119.752891,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ERI,TTX,Amtrak (Erie),42.121128,-80.081039,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ESM,TTX,Amtrak (Essex),48.28086,-113.609481,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+ESX,TTX,Amtrak (Burlington),44.492572,-73.11045,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ESZ,OAG,Essen Hbf Rail Station,51.45167,7.01444,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+EUC,TTX,Amtrak (Eau Clare),44.814376,-91.499992,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+EUG,TTX,Amtrak (Eugene),44.055385,-123.091842,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EVE,TTX,Amtrak (Evergreen),31.432521,-86.956115,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+EVR,TTX,Amtrak (Everett),47.979282,-122.215621,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+EVT,TTX,Amtrak (Evanston),41.269214,-110.964294,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+EWR,TTX,Amtrak (Newark International Airport),40.697,-74.182,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+EWV,OAG,Enshi Rail Station,30.35194,109.47972,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+EXR,TTX,Amtrak (Exeter),42.981,-70.948,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+EXS,OAG,Exeter St. Thomas Rail Station,50.71722,-3.53917,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+EXT,TTX,Amtrak (Exton),40.01995,-75.623298,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FAR,TTX,Amtrak (Fargo),46.881076,-96.784614,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FAY,TTX,Amtrak (Fayetteville),35.054904,-78.885063,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FBG,TTX,Amtrak (Fredericksburg),38.298557,-77.456932,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FCC,TTX,Amtrak (Fort Collins),40.583782,-105.065917,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+FDL,TTX,Amtrak (Fond du Lac),43.752517,-88.450187,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FDN,TTX,Amtrak (Fredonia),42.445125,-79.340179,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FDR,TTX,Amtrak (Frederick),39.411792,-77.411064,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FED,TTX,Amtrak (Fort Edward - Glens Falls),43.269515,-73.580459,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FES,OAG,San Fernando Rail Station,36.46667,-6.2,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+FGG,TTX,Amtrak (Flagstaff Greyhound Bus),35.201,-111.639,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+FGR,OAG,Fuengirola Rail Station,36.53333,-4.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+FHD,TTX,Amtrak (Fort Hood),31.139959,-97.764312,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FHV,TTX,Amtrak (Fair Haven),43.590576,-73.262046,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FIL,TTX,Amtrak (Fillmore),34.396129,-118.91661,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FIR,OAG,Florence Firenze C.M. Rail Station,43.77611,11.24806,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+FIS,OAG,Kinshasa Central Rail Station,-4.30111,15.31778,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+FLC,TTX,Amtrak (Fond Du Lac),43.755531,-88.45079,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FLG,TTX,Amtrak (Flagstaff),35.198013,-111.650665,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+FLN,TTX,Amtrak (Flint),43.013633,-83.654838,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FLO,TTX,Amtrak (Florence),34.198818,-79.757095,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FMC,TTX,Amtrak (Farmer City),40.241554,-88.642707,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FMD,TTX,Amtrak (Fort Madison),40.623394,-91.333358,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FMG,TTX,Amtrak (Fort Morgan),40.247329,-103.80265,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+FMT,TTX,Amtrak (Fremont),37.558197,-122.006378,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FNO,TTX,Amtrak (Fresno),36.738628,-119.782249,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FOI,OAG,Foggia Rail Station,41.46583,15.55556,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+FOS,TTX,Amtrak (Fostoria),41.152534,-83.414268,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FOX,TTX,Amtrak (Foxwoods Casino),41.45766,-71.971939,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FRA,TTX,Amtrak (Framingham),42.276668,-71.417861,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FRO,TTX,Amtrak (Florence),44.01136,-124.100349,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FRS,TTX,Amtrak (Franconia-Springfield),38.765018,-77.170547,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FRT,TTX,Amtrak (Fremont Bus Station),37.539932,-121.922439,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FSC,TTX,Amtrak (Frisco),39.587104,-106.096282,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+FSH,TTX,Amtrak (Fish Camp),37.474628,-119.637191,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FTA,TTX,Amtrak (Fortuna),40.597496,-124.151893,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FTC,TTX,Amtrak (Ticonderoga),43.852993,-73.39064,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FTL,TTX,Amtrak (Fort Lauderdale),26.119613,-80.170188,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FTM,TTX,Amtrak (Fort Myers),26.68235,-81.884902,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FTN,TTX,Amtrak (Fulton),36.522521,-88.888008,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FTW,TTX,Amtrak (Fort Worth),32.749374,-97.323867,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+FUL,TTX,Amtrak (Fullerton),33.868946,-117.922836,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+FVS,OAG,St Petersburg Finlyandsky Rail Station,59.95556,30.35639,300,t,NULL,NULL,en-us,f,NULL,f,NULL
+FWA,TTX,Amtrak (Fort Wayne),41.07608,-85.138702,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+FWM,OAG,Fort William Rail Station,56.81667,-5.11667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+GAC,TTX,Amtrak (Santa Clara Great America),37.378509,-121.946411,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GAS,TTX,Amtrak (Gastonia),35.268356,-81.163978,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GBA,TTX,Amtrak (Galesburg (Ex-Atsf)),40.949619,-90.371025,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GBB,TTX,Amtrak (Galesburg - (ex-Burlington)),40.944049,-90.364105,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GBC,TTX,Amtrak (Garibaldi Highlands - Roadside Bus Stop),49.999244,-123.142219,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GBO,OAG,Baltimore Greenbelt Rail Station,39.18611,-76.68333,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+GBS,TTX,Amtrak (Galesburg - (ex-Santa Fe)),40.948,-90.371,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GBV,TTX,Amtrak (Garberville),40.101062,-123.793899,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GBY,TTX,Amtrak (Green Bay),44.514831,-88.005035,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GCB,TTX,Amtrak (Grand Canyon National Park Bus Stop),36.054,-112.14,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GCK,TTX,Amtrak (Garden City),37.964725,-100.872795,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GCN,TTX,Amtrak (Grand Canyon National Park),36.056716,-112.134941,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GCO,TTX,Amtrak (Glencoe),42.724559,-81.715858,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GDA,TTX,Amtrak (Grenada),33.783214,-89.798088,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GDL,TTX,Amtrak (Glendale),34.123638,-118.257957,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GDU,OAG,Guadalajara Rail Station,40.64389,-3.18222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+GEN,OAG,Puente Genil Rail Station,37.38333,-4.78333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+GEO,TTX,Amtrak (Georgetown),43.657279,-79.923683,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GFK,TTX,Amtrak (Grand Forks),47.918853,-97.110435,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GFV,TTX,Amtrak (Greenfield Village),42.304901,-83.241844,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GGW,TTX,Amtrak (Glasgow),48.194515,-106.634811,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GGZ,OAG,Graz Rail Station,47.07306,15.41611,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+GHT,TTX,Amtrak (Gearhart),46.024,-123.911,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GIA,OAG,Girona Rail Station,41.97917,2.81694,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+GIN,TTX,Amtrak (Garrett),41.353237,-85.136016,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GJN,OAG,Zhijiang Rail Station,30.45778,111.57278,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+GJT,TTX,Amtrak (Grand Junction),39.064819,-108.569923,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GKW,OAG,Guilin Rail Station,25.26139,110.28306,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+GLE,TTX,Amtrak (Gainesville),33.624423,-97.140266,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GLM,TTX,Amtrak (Gilman),40.762077,-87.994766,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GLN,TTX,Amtrak (Glenview),42.074195,-87.805343,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GLP,TTX,Amtrak (Gallup),35.529247,-108.739677,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GLS,TTX,Amtrak (Galveston),29.291208,-94.786071,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GLV,TTX,Amtrak (Galveston Bus Station),29.301,94.798,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GLY,TTX,Amtrak (Gilroy),37.005981,-121.567504,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GMS,TTX,Amtrak (Grimsby),43.187564,-79.553703,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GNB,TTX,Amtrak (Greensburg),40.304851,-79.547279,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GNF,TTX,Amtrak (Gainesville),29.651079,-82.323692,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GNR,TTX,Amtrak (Green River),41.527027,-109.465301,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GNS,TTX,Amtrak (Gainesville),34.283718,-83.826683,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GPK,TTX,Amtrak (East Glacier Park),48.443965,-113.218559,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRA,TTX,Amtrak (Granby),40.083915,-105.934837,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRB,TTX,Amtrak (Gary),41.593,-87.346,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRE,TTX,Amtrak (Greeley),40.423942,-104.688392,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRI,TTX,Amtrak (Green River),38.992443,-110.164596,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRN,TTX,Amtrak (Greenville Bus Station),35.613,-77.366,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRO,TTX,Amtrak (Greensboro),36.061203,-79.831352,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRR,TTX,Amtrak (Grand Rapids),42.956371,-85.678993,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRS,TTX,Amtrak (Grass Valley),39.219383,-121.057952,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRV,TTX,Amtrak (Greenville),34.856559,-82.414184,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GRY,TTX,Amtrak (Gary),41.593,-87.346,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GSC,TTX,Amtrak (Glenwood Springs),39.548118,-107.322677,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GSN,TTX,Amtrak (Goshen Junction),36.35,-119.428,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GSY,OAG,Grimsby Town Rail Station,53.58333,-0.03333,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+GTA,TTX,Amtrak (Goleta),34.437557,-119.841171,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GTP,TTX,Amtrak (Grants Pass),42.435459,-123.296333,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GUA,TTX,Amtrak (Guadalupe-Santa Maria),34.962604,-120.572944,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GUE,TTX,Amtrak (Guelph),43.551368,-80.254005,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+GUF,TTX,Amtrak (Gulfport),30.368608,-89.094978,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GVA,TTX,Amtrak (Greenville),31.825302,-86.630538,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+GVB,TTX,Amtrak (Grover Beach),35.122066,-120.628105,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+GVI,TTX,Amtrak (Grangeville),45.926506,-116.128936,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+GWD,TTX,Amtrak (Greenwood),33.517738,-90.176086,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAG,TTX,Amtrak (Hagerstown),39.568309,-77.730087,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAM,TTX,Amtrak (Hamlet),34.883071,-79.698455,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAR,TTX,Amtrak (Harrisburg),40.261562,-76.878196,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAS,TTX,Amtrak (Hastings),40.584133,-98.387329,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAV,TTX,Amtrak (Havre),48.554416,-109.678123,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAY,TTX,Amtrak (Hayward),37.666858,-122.097785,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HAZ,TTX,Amtrak (Hazlehurst),31.862897,-90.394279,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HBG,TTX,Amtrak (Hattiesburg),31.326719,-89.286186,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HBM,OAG,Macheng North Rail Station,31.14833,114.95861,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+HBP,OAG,Hengyang Rail Station,26.89278,112.62722,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+HBV,OAG,Harbinxi Rail Station,45.75944,126.62694,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+HCH,TTX,Amtrak (Hatch),32.665622,-107.155822,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+HEA,TTX,Amtrak (Healdsburg),38.610668,-122.869499,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HEC,OAG,Helsinki Central Rail Station,60.17194,24.94139,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+HEM,TTX,Amtrak (Hermann),38.707294,-91.432601,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HER,TTX,Amtrak (Helper),39.688198,-110.852577,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+HET,TTX,Amtrak (Hemet West Side - Coco's),40.816665,-111.683333,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HEV,OAG,Huelva Rail Station,37.25306,-6.95111,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+HFD,TTX,Amtrak (Hartford),41.767799,-72.682121,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HFH,OAG,Hereford Rail Station,52.06111,-2.70806,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+HFY,TTX,Amtrak (Harpers Ferry),39.325042,-77.733558,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HGD,TTX,Amtrak (Huntingdon),40.483493,-78.011833,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HGN,TTX,Amtrak (Harlingen),26.193433,-97.693901,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HHL,TTX,Amtrak (Haverhill),42.776,-71.078,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HIK,TTX,Amtrak (Hinkle),45.795864,-119.309295,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HIN,TTX,Amtrak (Hinton),37.67707,-80.888633,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HLD,TTX,Amtrak (Holdrege),40.436191,-99.370742,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMD,TTX,Amtrak (Hammond),30.511697,-90.463592,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMF,TTX,Amtrak (Homestead),25.468109,-80.474487,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMI,TTX,Amtrak (Hammond-Whiting),41.69308,-87.508743,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMN,TTX,Amtrak (Hamilton),39.394573,-84.559913,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMO,TTX,Amtrak (Hermiston),45.845336,-119.289337,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMT,TTX,Amtrak (Hemet),33.747173,-117.005477,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HMW,TTX,Amtrak (Homewood),41.562351,-87.66851,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HNF,TTX,Amtrak (Hanford),36.326213,-119.650779,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HOL,TTX,Amtrak (Hollywood),26.010686,-80.16854,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HOM,TTX,Amtrak (Holland),42.789314,-86.097778,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HOO,TTX,Amtrak (Hood River),45.70121,-121.522613,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+HOS,TTX,Amtrak (Houston),29.767189,-95.366973,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HPT,TTX,Amtrak (High Point),35.957508,-80.005836,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HRT,TTX,Amtrak (Harrington),38.924,-75.578,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HSD,OAG,Huangshi Rail Station,30.15639,114.93528,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+HSN,TTX,Amtrak (Hot Springs),34.509742,-93.053512,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HTN,TTX,Amtrak (Hammonton NJ Transit Station),37.133335,-79.933333,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HTR,TTX,Amtrak (Hunter Mountain),42.244983,-74.184082,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HUD,TTX,Amtrak (Hudson),42.253082,-73.798439,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HUN,TTX,Amtrak (Huntington),38.415405,-82.440841,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HUT,TTX,Amtrak (Hutchinson),38.055858,-97.930061,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+HVT,OAG,Helsinki Tikkurila Rail Station,60.29389,25.045,200,t,NULL,NULL,en-us,f,NULL,f,NULL
+HWC,TTX,Amtrak (Howard City),43.395729,-85.469924,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HWT,TTX,Amtrak (Hawthorne),29.596595,-82.087081,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HXN,OAG,Xingtai Rail Station,37.07028,114.49222,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+HYA,TTX,Amtrak (Hyannis),41.655136,-70.278816,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+HZC,OAG,Huzhou Rail Station,30.86556,120.01778,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+IAD,TTX,Amtrak (Chantilly),38.951618,-77.447914,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+IDA,TTX,Amtrak (Idaho Falls),43.496479,-112.047058,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+IDO,TTX,Amtrak (Indio),33.714752,-116.233169,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+IDP,TTX,Amtrak (Independence),39.086975,-94.429298,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+IND,TTX,Amtrak (Indianapolis),39.762153,-86.160308,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+IOB,OAG,"Innsbruck, Innsbruck Rail Station",47.26278,11.40111,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+IRV,TTX,Amtrak (Irvine),33.674766,-117.759193,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ISL,TTX,Amtrak (Islamorada),24.924608,-80.628784,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ISQ,TTX,Amtrak (Issaquah),47.530395,-122.036285,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+IUO,OAG,Xianning Rail Station,29.89417,114.29417,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JAN,TTX,Amtrak (Jackson),32.300643,-90.190597,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+JAX,TTX,Amtrak (Jacksonville),30.366577,-81.724601,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JEA,OAG,Jaen Rail Station,37.78,-3.79083,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+JEF,TTX,Amtrak (Jefferson City),38.579051,-92.170379,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+JFK,TTX,Amtrak (JFK Airport Bus Service),40.643756,-73.784187,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JLL,OAG,Jilin Rail Station,43.85806,126.58833,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JMN,TTX,Amtrak (Jamestown),42.096424,-79.240097,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JNC,TTX,Amtrak (Jacksonville Bus Station),34.754,-77.43,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JOL,TTX,Amtrak (Joliet),41.524875,-88.079139,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+JQF,OAG,Moscow Savelovsky Rail Station,55.79417,37.58806,300,t,NULL,NULL,en-us,f,NULL,f,NULL
+JQJ,OAG,Qianjiang Rail Station,29.44333,108.79056,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+JSP,TTX,Amtrak (Jesup),31.605909,-81.882202,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JST,TTX,Amtrak (Johnstown),40.330101,-78.922424,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JVI,TTX,Amtrak (Janesville),42.663967,-88.973312,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+JVL,TTX,Amtrak (Janesville Bus Service),42.720355,-88.996925,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+JXN,TTX,Amtrak (Jackson),42.24805,-84.400291,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+JXS,OAG,Jiaxing Rail Station,30.69278,120.79583,800,t,NULL,NULL,en-us,f,NULL,t,NULL
+JYQ,OAG,Yingkou Bayuquan Rail Station,40.18778,122.09472,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+KAL,TTX,Amtrak (Kalamazoo),42.295452,-85.583587,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KAN,TTX,Amtrak (Kannapolis),35.501266,-80.62181,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KCY,TTX,Amtrak (Kansas City),39.086151,-94.583946,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+KEE,TTX,Amtrak (Kewanee),41.245624,-89.927421,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+KEL,TTX,Amtrak (Kelso-Longview),46.142623,-122.911766,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+KFI,OAG,Hefei Rail Station,31.88694,117.31194,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+KFS,TTX,Amtrak (Klamath Falls),42.225879,-121.770919,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+KGC,TTX,Amtrak (King City),36.20351,-121.1287,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+KGG,TTX,Amtrak (Kingman Greyhound Bus),35.189,-114.053,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+KGS,TTX,Amtrak (Kingsley Bus Station),44.585,-85.536,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KGV,OAG,Klagenfurt Rail Station,46.61556,14.31333,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+KIL,TTX,Amtrak (Killeen Bus Stop),31.121297,-97.729484,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+KIN,TTX,Amtrak (Kingston),41.48394,-71.562286,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KIS,TTX,Amtrak (Kissimmee),28.29327,-81.404869,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KJR,OAG,Karlsruhe/Baden-Baden Hbf Rail Station,48.99361,8.40222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+KKI,TTX,Amtrak (Kankakee),41.119132,-87.86576,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+KLJ,OAG,Xiangyang Rail Station,32.05917,112.15056,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+KLK,TTX,Amtrak (Kalkaska),44.74995,-85.171691,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KLT,OAG,Kaiserslautern Rail Station,49.44778,7.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+KNC,TTX,Amtrak (Kinston Bus Station),35.263,-77.582,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KNG,TTX,Amtrak (Kingman),35.188358,-114.05207,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+KOT,TTX,Amtrak (Kitchner),43.457019,-80.493423,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KTC,TTX,Amtrak (Kettleman City),35.984176,-119.959487,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+KTR,TTX,Amtrak (Kingstree),33.664379,-79.829063,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KVN,OAG,Kunshan Rail Station,31.355,120.94694,800,t,NULL,NULL,en-us,f,NULL,t,NULL
+KWA,TTX,Amtrak (Key West),24.555934,-81.75946,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KWD,TTX,Amtrak (Kirkwood),38.580883,-90.407592,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+KWQ,OAG,Kassel Wilhelmshoehe Rail Station,51.31306,9.44667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+KWS,TTX,Amtrak (Key West - Downtown),24.552179,-81.792137,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+KXN,OAG,Kendal Oxenholme Rail Station,54.30528,-2.72194,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+KYL,TTX,Amtrak (Key Largo),25.135585,-80.404235,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAB,TTX,Amtrak (Latrobe),40.31834,-79.385223,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAE,TTX,Amtrak (La Grande),45.32592,-118.078018,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAF,TTX,Amtrak (Lafayette),40.421089,-86.895034,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAG,TTX,Amtrak (La Grange Road),41.815902,-87.86972,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAJ,TTX,Amtrak (La Junta),37.988067,-103.542495,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAK,TTX,Amtrak (Lakeland Departure 92 North Arrival 91 South To/From Points North),28.045654,-81.951614,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAP,TTX,Amtrak (La Plata),40.031406,-92.485305,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAR,TTX,Amtrak (Laramie),41.296123,-105.530952,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAS,TTX,Amtrak (Las Vegas Airport Bus),36.115,-115.173,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAU,TTX,Amtrak (Laurel),31.69239,-89.127838,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LAX,TTX,Amtrak (Los Angeles Union Station),34.056297,-118.236534,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LBC,TTX,Amtrak (Long Beach),33.774177,-118.18856,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LBQ,TTX,Amtrak (Long Beach - Queen Mary),33.77,-118.194,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LBV,TTX,Amtrak (Lake Buena Vista),28.38327,-81.5065,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCA,TTX,Amtrak (La Crescenta),34.230686,-118.265327,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCH,TTX,Amtrak (Lake Charles),30.238084,-93.214996,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCN,TTX,Amtrak (Lincoln),40.147537,-89.363304,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCR,TTX,Amtrak (Las Cruces),32.309154,-106.794715,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCS,TTX,Amtrak (Lancaster),34.69551,-118.136177,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCV,TTX,Amtrak (Lincolnville),44.281,-69.009,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LCZ,OAG,Lecce Rail Station,40.34556,18.16556,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+LDB,TTX,Amtrak (Lordsburg),32.350589,-108.706321,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LDO,TTX,Amtrak (Laredo),27.506174,-99.503906,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LDW,TTX,Amtrak (Lindenwold NJ Transit Station),39.835056,-75.001876,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LEC,TTX,Amtrak (Lake City),30.196611,-82.6511,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LEE,TTX,Amtrak (Lees Summit),38.912944,-94.377647,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LEG,TTX,Amtrak (Leggett),39.850399,-123.711174,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LEV,TTX,Amtrak (Leavenworth),47.5965,-120.660324,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LEW,TTX,Amtrak (Lewistown),40.588584,-77.579216,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LEX,TTX,Amtrak (Lexington Barbecue Festival),35.824,-80.253,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LFT,TTX,Amtrak (Lafayette),30.227344,-92.014595,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LGA,TTX,Amtrak (LaGuardia Airport Bus Service),40.771953,-73.86972,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LGM,TTX,Amtrak (Longmont),40.169349,-105.101463,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LGV,OAG,Logrono Rail Station,42.4575,-2.44222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+LHA,TTX,Amtrak (Lake Havasu City),34.466091,-114.334526,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LHC,OAG,Linhai Rail Station,28.88278,121.24278,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+LHV,TTX,Amtrak (Lee Hall),37.192024,-76.571922,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LIB,TTX,Amtrak (Libby),48.395149,-115.548622,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LIV,TTX,Amtrak (Livermore),37.703983,-121.736625,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LJR,OAG,Ljubljana Rail Station,46.05889,14.51306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+LJV,TTX,Amtrak (Louisville/Jeffersonville),38.30117,-85.750785,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LKL,TTX,Amtrak (Lakeland Departure 91 North Arrival 92 South To/From Points South),28.039,-81.95,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LLD,TTX,Amtrak (Loveland),40.407363,-105.060012,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LMC,TTX,Amtrak (Lemoore),36.286655,-119.797546,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LMN,TTX,Amtrak (Lemoore Bus Stop),36.261,-119.892,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LMQ,TTX,Amtrak (La Marque),29.373268,-94.963737,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LMR,TTX,Amtrak (Lamar),38.0895,-102.618293,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LMY,TTX,Amtrak (Lamy),35.477485,-105.884757,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LNC,TTX,Amtrak (Lancaster),40.053806,-76.307586,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LNK,TTX,Amtrak (Lincoln),40.81467,-96.710815,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LNN,TTX,Amtrak (Lincoln),44.038,-71.673,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LNS,TTX,Amtrak (East Lansing),42.719081,-84.493545,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LNV,TTX,Amtrak (Laughlin),35.157066,-114.573852,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LOD,TTX,Amtrak (Lodi),38.134,-121.272,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LOL,TTX,Amtrak (Lovelock),40.184906,-118.47071,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LOM,TTX,Amtrak (Lompoc),34.643878,-120.456832,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LOP,TTX,Amtrak (Lake Of The Pines Jct.),39.020393,-121.057441,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LOR,TTX,Amtrak (Lorton Auto Train only),38.705963,-77.221374,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LOT,TTX,Amtrak (London),42.988311,-81.235572,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LPD,TTX,Amtrak (Lake Placid),44.282169,-73.984542,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LPE,TTX,Amtrak (Lapeer),43.049629,-83.305648,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LPN,TTX,Amtrak (La Pine),43.67464,-121.499145,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LPS,TTX,Amtrak (Lompoc),34.684459,-120.602516,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LQP,OAG,Chenzhou Rail Station,25.80861,113.03389,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+LQQ,OAG,Liaoyang Rail Station,41.27944,123.16194,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+LQS,OAG,Lingshui Rail Station,18.53806,110.02917,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+LRC,TTX,Amtrak (Lawrence),38.972217,-95.231719,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LRK,TTX,Amtrak (Little Rock),34.75035,-92.286376,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LSE,TTX,Amtrak (La Crosse - Empire Builder),43.833618,-91.247596,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LSV,TTX,Amtrak (Las Vegas),35.593299,-105.212142,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LTL,TTX,Amtrak (Littleton),44.306,-71.77,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LTR,TTX,Amtrak (Littlerock),34.521,-117.984,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LTV,TTX,Amtrak (Laytonville),39.685653,-123.479415,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LTZ,OAG,Lamezia Terme Central Rail Station,38.92139,16.25528,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+LUN,TTX,Amtrak (Laguna Beach),33.5438,-117.783073,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LUY,OAG,Lugo Rail Station,43.015,-7.55194,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+LVL,TTX,Amtrak (Louisville Bus Service),38.252002,-85.763397,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LVS,TTX,Amtrak (Las Vegas Bus Service),36.166812,-115.148605,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+LVW,TTX,Amtrak (Longview),32.495872,-94.725265,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+LWN,TTX,Amtrak (Lewiston),46.431369,-116.983512,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+LXC,OAG,Liverpool Central Rail Station,53.40472,-2.98,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+LXL,OAG,Liverpool Lime Street Rail Station,53.40778,-2.9775,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+LYH,TTX,Amtrak (Lynchburg),37.407024,-79.157463,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+LZS,OAG,Linz Rail Station,48.29056,14.29111,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+LZX,OAG,Lanzhou West Rail Station,36.06722,103.75028,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+MAC,TTX,Amtrak (Macomb),40.461132,-90.672279,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MAK,TTX,Amtrak (Mackinaw City),45.781681,-84.72528,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MAL,TTX,Amtrak (Malta),48.359882,-107.872444,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MAR,TTX,Amtrak (Marceline),39.716194,-92.946578,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MAS,TTX,Amtrak (Madras),44.627105,-121.12854,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MAT,TTX,Amtrak (Mattoon),39.482421,-88.375526,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MAY,TTX,Amtrak (Maysville),38.651622,-83.771072,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MBS,TTX,Amtrak (Myrtle Beach),33.681629,-78.922172,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MBY,TTX,Amtrak (Middlebury),44.012985,-73.165695,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCA,TTX,Amtrak (McCall),44.921661,-116.089538,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCB,TTX,Amtrak (McComb),31.249292,-90.452941,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCD,TTX,Amtrak (Merced),37.307041,-120.475891,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCG,TTX,Amtrak (McGregor),31.437921,-97.401725,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCI,TTX,Amtrak (Michigan City),41.721359,-86.90522,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCK,TTX,Amtrak (McCook),40.197563,-100.625343,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MCN,TTX,Amtrak (Macon),32.843528,-83.630096,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MDN,TTX,Amtrak (Meriden),41.538997,-72.801216,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MDO,TTX,Amtrak (Madison),30.45911,-83.413337,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MDP,TTX,Amtrak (Midpines),37.559455,-119.932067,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MDR,TTX,Amtrak (Madera),36.974517,-120.018943,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MDT,TTX,Amtrak (Mendota),41.550041,-89.117286,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MEI,TTX,Amtrak (Meridian),32.363822,-88.696166,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MEM,TTX,Amtrak (Memphis),35.132431,-90.058876,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MEN,TTX,Amtrak (McAllen),26.203092,-98.236412,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MET,TTX,Amtrak (Metropark),40.567752,-74.327857,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MEW,TTX,Amtrak (Monroe),47.859222,-121.968574,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MFD,TTX,Amtrak (Milford),38.394931,-113.009101,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MFG,TTX,Amtrak (Medford Bus Stop),42.326515,-122.875594,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MFR,TTX,Amtrak (Medford),42.328861,-122.871864,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MGM,TTX,Amtrak (Montgomery),32.326507,-86.330398,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MHC,TTX,Amtrak (Morgan Hill),37.126625,-121.645843,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MHJ,OAG,Mannheim Hbf Rail Station,49.47944,8.46917,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+MHL,TTX,Amtrak (Marshall),32.551349,-94.366844,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MHT,TTX,Amtrak (Manchester),42.996,-71.455,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MIA,TTX,Amtrak (Miami),25.849847,-80.258071,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MID,TTX,Amtrak (Middletown),40.192947,-76.731613,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MII,TTX,Amtrak (Miami Int'L Airport),25.790039,-80.287521,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MIN,TTX,Amtrak (Mineola),32.66188,-95.490135,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MIO,TTX,Amtrak (Marion),44.682266,-88.888763,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MJY,TTX,Amtrak (Mount Joy),40.108917,-76.502914,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MKA,TTX,Amtrak (Milwaukee Airport),43.039,-87.906,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MKE,TTX,Amtrak (Milwaukee),43.034015,-87.916481,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MKV,TTX,Amtrak (McKinleyville),40.975505,-124.110946,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MLB,TTX,Amtrak (Millbrae),37.599048,-122.385177,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MLI,TTX,Amtrak (Moline),41.454727,-90.505737,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MLK,TTX,Amtrak (Moses Lake),47.101943,-119.245216,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MLN,TTX,Amtrak (Mancelona),44.90483,-85.057327,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MLV,TTX,Amtrak (Malvern),40.035785,-75.515205,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MNG,TTX,Amtrak (Montgomery),38.180702,-81.324073,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MNI,TTX,Amtrak (Manning),45.664,-123.165,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MNT,TTX,Amtrak (Montreal Windsor Station),45.498,-73.569,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOC,TTX,Amtrak (Moscow),46.730041,-117.001609,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOD,TTX,Amtrak (Modesto),37.66814,-120.911598,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOE,TTX,Amtrak (Mobile),30.69045,-88.038101,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOG,TTX,Amtrak (Mobile Greyhound Bus),20.51667,-99.2633,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOJ,TTX,Amtrak (Mojave),35.052288,-118.172447,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MON,TTX,Amtrak (Malton),43.707019,-79.629089,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOT,TTX,Amtrak (Minot),48.235733,-101.297904,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MOV,TTX,Amtrak (Moreno Valley),33.915824,-117.287658,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MPK,TTX,Amtrak (Moorpark),34.285194,-118.876953,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MPR,TTX,Amtrak (Montpelier-Barre),44.257362,-72.60868,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MQN,TTX,Amtrak (Mesquite),36.806,-114.067,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MQT,TTX,Amtrak (Marquette),46.542007,-87.395301,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRB,TTX,Amtrak (Martinsburg),39.458271,-77.961502,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRC,TTX,Amtrak (Maricopa),33.058437,-112.047927,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRD,TTX,Amtrak (Meredith),43.658,-71.5,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRP,TTX,Amtrak (Mariposa),37.489658,-119.969543,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRV,TTX,Amtrak (Marysville),39.142028,-121.583427,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRX,TTX,Amtrak (Marks),34.254287,-90.272865,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MRY,TTX,Amtrak (Monterey Downtown Transit Center),36.598011,-121.892562,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MSK,TTX,Amtrak (Mesick),44.403823,-85.699165,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MSN,TTX,Amtrak (Madison UW Memorial Union),43.07587,-89.398757,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MSP,TTX,Amtrak (Minneapolis/St. Paul Midway Station - Empire Builder),44.963329,-93.186325,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MSS,TTX,Amtrak (Manassas),38.750034,-77.473846,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTC,TTX,Amtrak (Manitowoc),44.079841,-87.69699,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTH,TTX,Amtrak (Marathon),24.727207,-81.041252,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTJ,TTX,Amtrak (Mt. Joy),40.11,-76.503,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTM,TTX,Amtrak (Mountain Home),43.133,-115.691,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTO,TTX,Amtrak (Manton Bus Station),44.411,-85.399,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTP,TTX,Amtrak (Mount Pleasant),40.971305,-91.551239,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTR,TTX,Amtrak (Montreal - Via Rail/Amtrak/AMT train station (Central Station)),45.454216,-73.665237,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MTZ,TTX,Amtrak (Martinez),38.019733,-122.136352,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MUN,TTX,Amtrak (Munds Park),34.941123,-111.653945,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+MVN,TTX,Amtrak (Malvern),34.365917,-92.812355,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MVW,TTX,Amtrak (Mount Vernon),48.435588,-122.32978,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MWI,TTX,Amtrak (Marinette),45.085411,-87.643432,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+MYA,TTX,Amtrak (Monterey Monterey Bay Aquarium),36.878,-121.947,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MYH,TTX,Amtrak (Monterey Hyatt Hotel),36.593,-121.874,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MYM,TTX,Amtrak (Monterey Marriot Hotel),36.601,-121.895,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+MYS,TTX,Amtrak (Mystic - Regional),41.349201,-71.959785,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+MYT,TTX,Amtrak (Monterey Travelodge Motel),25.35417,-97.2989,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NAM,TTX,Amtrak (Nampa),43.57632,-116.557159,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+NAP,TTX,Amtrak (Napa Vine Transit Bus Stop),38.304309,-122.284004,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NAV,TTX,Amtrak (Nashville),38.34893,-89.381584,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NBK,TTX,Amtrak (New Brunswick),40.495353,-74.448501,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NBM,TTX,Amtrak (New Buffalo),41.787948,-86.739875,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NBN,TTX,Amtrak (Newbern),36.112449,-89.262962,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NBU,TTX,Amtrak (New Buffalo),41.797,-86.746,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NCG,TTX,Amtrak (Nacogdoches),31.618301,-94.639671,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NCM,TTX,Amtrak (Necanicum Jct.),45.902,-123.76,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NCR,TTX,Amtrak (New Carrollton),38.95333,-76.864433,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NDL,TTX,Amtrak (Needles),34.840278,-114.604873,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NDO,OAG,La Palma Del Condada Rail Station,37.38333,-6.55,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+NEV,TTX,Amtrak (Nevada City),39.259159,-121.017036,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NEW,TTX,Amtrak (Newton),38.047309,-97.344604,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NFK,TTX,Amtrak (Norfolk),36.858283,-76.287574,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NFL,TTX,Amtrak (Niagara Falls),43.113601,-79.030662,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NFS,TTX,Amtrak (Niagara Falls Via Rail/GO Transit train station (last stop before crossing to US)),43.121395,-79.078041,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NHD,TTX,Amtrak (North Highlands),38.637981,-121.404151,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NHG,OAG,Nanchang Rail Station,28.66222,115.91972,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+NHL,TTX,Amtrak (Newhall),34.385,-118.531,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NHN,TTX,Amtrak (New Hampton),43.605,-71.653,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NHT,TTX,Amtrak (Northampton),42.318351,-72.627922,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NHV,TTX,Amtrak (New Haven),41.298667,-72.925994,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NIB,TTX,Amtrak (New Iberia),30.008487,-91.823516,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NKJ,OAG,Nanjing Rail Station,31.97111,118.79222,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+NLC,TTX,Amtrak (New London),41.354331,-72.093887,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NLS,TTX,Amtrak (Niles),41.836574,-86.253616,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NLW,TTX,Amtrak (New London),44.389183,-88.739433,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NNE,OAG,Narbonne Rail Station,43.19111,3.005,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+NNI,TTX,Amtrak (Nanaimo Via Rail Station),49.182605,-123.951416,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+NOB,TTX,Amtrak (Norfolk Naval),36.943271,-76.315605,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NOL,TTX,Amtrak (New Orleans),29.946796,-90.079597,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NOR,TTX,Amtrak (Norman),35.219627,-97.442169,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPB,TTX,Amtrak (Newport Beach),33.612537,-117.869644,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPI,TTX,Amtrak (Nappanee),41.441207,-86.000762,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPL,TTX,Amtrak (Naples),26.161378,-81.686088,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPN,TTX,Amtrak (Newport News),37.019355,-76.451049,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPO,TTX,Amtrak (Newport),44.626014,-124.059524,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPR,TTX,Amtrak (New Port Richie),28.231424,-82.730392,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPT,TTX,Amtrak (Newport),35.606578,-91.28302,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPV,TTX,Amtrak (Naperville),41.779506,-88.14505,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NPW,TTX,Amtrak (Napa Wine Train Bus Stop),38.302,-122.284,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+NRK,TTX,Amtrak (Newark),39.670322,-75.753349,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NRO,TTX,Amtrak (New Rochelle),40.913921,-73.782005,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NVL,TTX,Amtrak (Nashville),36.16014,-86.783012,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+NWK,TTX,Amtrak (Newark Penn Station),40.734279,-74.164886,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NWP,TTX,Amtrak (Newport),41.486938,-71.315658,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NYF,TTX,Amtrak (Syracuse New York State Fair),43.048,-76.147,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+NYG,TTX,Amtrak (New York Grand Central (formerly used for Empire Service)),40.753,-73.977,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OAC,TTX,Amtrak (Oakland Coliseum Airport),37.754,-122.197,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OAH,TTX,Amtrak (Oakhurst),37.336807,-119.644256,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OBK,TTX,Amtrak (Overbrook Philadelphia),39.984,-75.242,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OCA,TTX,Amtrak (Ocala),29.192228,-82.13639,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OCM,TTX,Amtrak (Ocean City),38.337,-75.085,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ODE,TTX,Amtrak (Odessa),31.864253,-102.331474,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+OGD,TTX,Amtrak (Ogden),41.221572,-111.978904,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+OGW,TTX,Amtrak (Okanogan),48.361,-119.583,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OKC,TTX,Amtrak (Oklahoma City),35.466144,-97.512634,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+OKE,TTX,Amtrak (Okeechobee),27.251218,-80.830307,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OKJ,TTX,Amtrak (Oakland Jack London Sq),37.794647,-122.270744,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OKL,TTX,Amtrak (Oakville),43.452602,-79.673706,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OKO,TTX,Amtrak (Okemo),43.400619,-72.708351,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OLT,TTX,Amtrak (San Diego Old Town),32.756,-117.198,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OLW,TTX,Amtrak (Olympia-Lacey),46.990661,-122.795806,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OMA,TTX,Amtrak (Omaha),41.250167,-95.927421,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+OMW,TTX,Amtrak (Omak),48.411,-119.528,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ONA,TTX,Amtrak (Ontario),34.061706,-117.647857,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ONT,TTX,Amtrak (Ontario),44.031089,-116.960639,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OPE,TTX,Amtrak (Opelika),32.647445,-85.379806,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+ORB,TTX,Amtrak (Old Orchard Beach),43.514,-70.384,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ORC,TTX,Amtrak (Oregon City),45.366,-122.596,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ORL,TTX,Amtrak (Orlando),28.525693,-81.381744,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ORO,TTX,Amtrak (Orono),44.883,-68.672,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ORP,TTX,Amtrak (Orient Point),41.154354,-72.241729,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ORV,TTX,Amtrak (Oroville),39.519866,-121.570182,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OSB,TTX,Amtrak (Old Saybrook - Regional),41.300533,-72.376022,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+OSC,TTX,Amtrak (Osceola),41.037445,-93.765747,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+OSD,TTX,Amtrak (Oceanside),33.192581,-117.378623,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OSH,TTX,Amtrak (Oshkosh),44.015018,-88.537338,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+OSQ,OAG,Siping Rail Station,43.18222,124.36889,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+OTM,TTX,Amtrak (Ottumwa),41.019641,-92.415672,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+OUQ,OAG,Ourense Rail Station,42.35056,-7.87306,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+OVI,OAG,Oviedo Rail Station,43.36611,-5.85472,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+OXN,TTX,Amtrak (Oxnard),34.198833,-119.174865,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+OXQ,OAG,Oxford Rail Station,51.75361,-1.27028,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+OZI,OAG,Bobadilla Rail Station,37.05,-4.7,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+OZU,OAG,Montilla Rail Station,37.58333,-4.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+PAG,TTX,Amtrak (Pascagoula),30.367174,-88.55857,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PAK,TTX,Amtrak (Palatka),29.649309,-81.640541,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PAO,TTX,Amtrak (Paoli),40.042285,-75.483749,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PAR,TTX,Amtrak (Parkesburg),39.959182,-75.921775,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PAS,TTX,Amtrak (Pasadena),34.143329,-118.140426,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PBF,TTX,Amtrak (Poplar Bluff),36.753986,-90.393432,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PBT,TTX,Amtrak (Pemberton - Greyhound Bus Stop),50.331531,-122.789962,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PCH,TTX,Amtrak (Port Charlotte),27.01243,-82.052658,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PCI,OAG,Palencia Rail Station,42.01556,-4.53361,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+PCT,TTX,Amtrak (Princeton),41.386905,-89.461677,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PCV,TTX,Amtrak (Placerville),38.727832,-120.801589,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PCW,OAG,Par Rail Station,50.35611,-4.70444,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+PDC,TTX,Amtrak (Palm Desert),33.722972,-116.390251,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PDX,TTX,Amtrak (Portland),45.528682,-122.675025,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PEN,TTX,Amtrak (Pendleton),45.671852,-118.789505,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PGH,TTX,Amtrak (Pittsburgh),40.445041,-79.993255,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PHA,TTX,Amtrak (Phoenix Sky Harbor Airport),33.43753,-112.009048,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PHG,TTX,Amtrak (Phoenix Greyhound Station),33.824,-112.148,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PHL,TTX,Amtrak (Philadelphia - 30th Street Station),39.954608,-75.183189,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PHN,TTX,Amtrak (Philadelphia - North Philadelphia Station),39.996906,-75.154365,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PHS,TTX,Amtrak (Philadelphia - Suburban Station),39.954,-75.168,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PHX,TTX,Amtrak (Phoenix),33.444541,-112.078292,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PIA,TTX,Amtrak (Peoria Airport),40.670082,-89.688232,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PIC,TTX,Amtrak (Picayune),30.524711,-89.680137,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PIT,TTX,Amtrak (Pittsfield),42.450401,-73.256042,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PJC,TTX,Amtrak (Princeton Junction),40.317218,-74.623229,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PLB,TTX,Amtrak (Plattsburgh),44.69699,-73.447456,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PLO,TTX,Amtrak (Plano),41.662155,-88.537422,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PMD,TTX,Amtrak (Palmdale),34.579143,-118.127899,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PMM,TTX,Amtrak (Primm),35.611022,-115.390708,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PMO,TTX,Amtrak (Plymouth),43.757,-71.688,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PNS,TTX,Amtrak (Pensacola),30.417932,-87.20449,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PNT,TTX,Amtrak (Pontiac - Pere Marquette),42.635848,-83.294166,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+POC,TTX,Amtrak (Pocatello),42.854682,-112.436683,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+POG,TTX,Amtrak (Portage),43.546611,-89.469139,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+POH,TTX,Amtrak (Port Henry),44.033065,-73.461929,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+POK,OAG,St Polton Rail Station,48.20833,15.62444,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+PON,TTX,Amtrak (Pontiac),40.87944,-88.636497,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+POR,TTX,Amtrak (Portland),43.635486,-70.294921,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+POS,TTX,Amtrak (Pomona),34.059394,-117.750633,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+POT,TTX,Amtrak (Porterville),36.068225,-119.01863,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+POU,TTX,Amtrak (Poughkeepsie),41.705673,-73.93901,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRB,TTX,Amtrak (Paso Robles),35.622924,-120.686935,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRC,TTX,Amtrak (Prince),37.858707,-81.054222,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRI,TTX,Amtrak (Perris),33.791393,-117.216636,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRK,TTX,Amtrak (Port Kent),44.578041,-73.444274,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRN,TTX,Amtrak (Prineville),44.305923,-120.835609,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRO,TTX,Amtrak (Provo),40.225868,-111.662719,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PRT,TTX,Amtrak (Reedsport),43.69923,-124.109329,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PSB,TTX,Amtrak (Pismo Beach),35.135417,-120.620918,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PSC,TTX,Amtrak (Pasco),46.233596,-119.084243,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PSK,TTX,Amtrak (Petoskey),45.373908,-84.963706,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PSN,TTX,Amtrak (Palm Springs),33.895942,-116.545013,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PSP,TTX,Amtrak (Palm Springs Bus Stop),33.826698,-116.544914,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PST,TTX,Amtrak (Pellston),45.55064,-84.784584,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PSW,TTX,Amtrak (Peshastin),47.557556,-120.588302,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PTB,TTX,Amtrak (Petersburg),37.241619,-77.42897,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PTC,TTX,Amtrak (Petaluma),38.243007,-122.630485,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PTE,OAG,Pontevedra Rail Station,42.42167,-8.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+PTH,TTX,Amtrak (Port Huron),42.960788,-82.44181,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PUB,TTX,Amtrak (Pueblo),38.307826,-104.615058,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PUL,TTX,Amtrak (Pullman),46.738769,-117.173744,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+PUR,TTX,Amtrak (Purcell),35.011974,-97.356338,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PVD,TTX,Amtrak (Providence),41.82563,-71.415992,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+PVL,TTX,Amtrak (Pauls Valley),34.741466,-97.219001,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+PXG,OAG,Pingxiang Rail Station,27.64639,113.84194,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+PXN,TTX,Amtrak (Phoenix Metro Center),33.555942,-112.111274,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+PXS,OAG,Puerto De Santa Maria Rail Station,36.6,-6.23333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+PZC,OAG,Penzance Rail Station,50.12222,-5.53222,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+QAN,TTX,Amtrak (Quantico),38.52201,-77.293045,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+QAZ,OAG,Zakopane Rail Station,49.28333,19.9,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QBO,OAG,Bochum Rail Station,51.47917,7.22278,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QCY,TTX,Amtrak (Quincy),39.957443,-91.366348,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+QEQ,OAG,Embrach/Rorbas Rail Station,47.5,8.6,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QEW,OAG,Leicester Rail Station,52.63111,-1.12472,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+QFB,OAG,Freiburg Rail Station,48,7.85,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QFV,OAG,Bergen Rail Station,60.38333,5.33333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QGL,OAG,St Gallen Rail Station,47.46667,9.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QGN,OAG,Tarragona/Camp Rail Station,41.19194,1.27278,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QGV,OAG,Frankfurt Neu Isenburg Rail Station,50.05,8.7,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QHD,OAG,Heidelberg Rail Station,49.40389,8.67583,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QHX,OAG,Qionghai Rail Station,19.24167,110.48778,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+QIJ,OAG,Gijon Rail Station,43.5375,-5.67611,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QKU,OAG,Cologne/Bonn Messe/Deutz Rail Station,50.94056,6.97444,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QLJ,OAG,Lucerne Rail Station,47.04944,8.31056,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QLQ,OAG,Lleida Rail Station,41.62083,0.63306,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QLS,OAG,Lausanne Rail Station,46.51722,6.62917,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QMO,OAG,Mons Rail Station,50.45,3.93333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QMZ,OAG,Mainz Rail Station,50.00167,8.25917,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QNC,OAG,Neuchatel Rail Station,47,6.96667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QNM,OAG,Namur Rail Station,50.46667,4.86667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QOB,OAG,Ansbach Rail Station,49.3,10.58333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QPA,OAG,Padova Central Rail Station,45.4175,11.88028,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QPP,OAG,Berlin HBF Rail Station,52.525,13.36944,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QQD,OAG,Dover Priory Rail Station,51.13333,1.31667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+QQR,OAG,Ramsgate Rail Station,51.33333,1.41667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+QSG,OAG,Sonderborg Rail Station,54.96444,9.79167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QSJ,OAG,Shijiazhuang Rail Station,38.01083,114.48444,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+QUC,TTX,Amtrak (Quincy),47.239688,-119.850181,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+QUL,OAG,Ulm Rail Station,48.39972,9.98333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QUQ,OAG,Caceres Rail Station,39.46139,-6.38583,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QVL,OAG,Villach Rail Station,46.61889,13.84889,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QWB,OAG,Berlin Ostbhf Rail Station,52.51667,13.41667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QWC,OAG,Berlin Zoo Rail Station,52.50806,13.33139,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QWU,OAG,Wuerzburg Rail Station,49.78778,9.93611,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QWX,OAG,Merida Rail Station,38.92167,-6.34333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QXB,OAG,Aix-en-Provence TGV Rail Station,43.52306,5.44528,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QXV,OAG,Svendborg Rail Station,55.05,10.61667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYE,OAG,Enschede Rail Station,52.2,6.88333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYF,TTX,German Railway Service,50.02,8.34,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QYG,OAG,German Rail Zone G,54,13,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QYH,OAG,Hengelo Rail Station,52.25,6.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYI,OAG,Hilversum Rail Station,52.23333,5.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYJ,OAG,German Rail Zone J,49,8,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYL,OAG,Almelo Rail Station,52.35,6.65,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYM,OAG,Amersfoort Rail Station,52.15,5.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYO,OAG,Olsztyn Glowny Rail Station,53.8,20.48333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYP,OAG,Apeldoorn Rail Station,52.21667,5.96667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYV,OAG,Deventer Rail Station,52.25,6.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+QYX,OAG,Uppsala C Rail Station,59.85889,17.64611,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+QZB,OAG,Zermatt Rail Station,46.01667,7.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+RAT,TTX,Amtrak (Raton),36.900749,-104.437522,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+RBC,TTX,Amtrak (Richmond - St. Edwards Drive (Sandman Signature Hotel) Bus Stop),49.173332,-123.140403,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+RBF,TTX,Amtrak (Red Bluff),40.186008,-122.210968,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RBG,TTX,Amtrak (Roseburg),43.20726,-123.346382,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RCC,OAG,Reggio di Calabria Central Rail Station,38.10389,15.63556,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+RCD,TTX,Amtrak (Rancho Cordova),38.588466,-121.303398,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RCK,TTX,Amtrak (Rockford),42.268138,-88.979896,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+RDD,TTX,Amtrak (Redding),40.582832,-122.391921,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RDM,TTX,Amtrak (Redmond Airport),44.254,-121.151,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RDR,TTX,Amtrak (Redding RABA Bus Station),40.584,-122.393,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RDS,TTX,Amtrak (Rio Dell-Scotia),40.484577,-124.09996,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RDW,TTX,Amtrak (Red Wing),44.56454,-92.541839,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+RED,TTX,Amtrak (Redmond),44.24794,-121.185798,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+REE,TTX,Amtrak (Reed City),43.874599,-85.51007,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+REN,TTX,Amtrak (Rensselaer),40.943038,-87.154479,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RGD,OAG,Gdansk Glowny Rail Station,54.35556,18.64444,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+RGH,TTX,Amtrak (Raleigh),35.77375,-78.644485,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RHB,TTX,Amtrak (Rehoboth Beach),38.721,-75.076,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RHD,TTX,Amtrak (Richland),46.285713,-119.272972,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RHI,TTX,Amtrak (Rhinecliff),41.92089,-73.952072,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RIA,TTX,Amtrak (Rialto),34.106,-117.37,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RIC,TTX,Amtrak (Richmond),37.936084,-122.35305,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RII,OAG,Soria Rail Station,41.755,-2.47667,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+RIV,TTX,Amtrak (Riverside),33.97652,-117.369621,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RKF,TTX,Amtrak (Rockford),43.119094,-85.559654,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RKV,TTX,Amtrak (Rockville),39.085449,-77.146965,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RLN,TTX,Amtrak (Rocklin),38.791545,-121.236274,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RLS,TTX,Amtrak (La Sierra),33.9,-117.471,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RLZ,OAG,Liuzhou Rail Station,24.3075,109.38889,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+RMT,TTX,Amtrak (Rocky Mount),35.938152,-77.797897,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RNK,TTX,Amtrak (Roanoke - Sheraton Inn),37.307712,-79.9803,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RNO,TTX,Amtrak (Reno),39.52864,-119.811233,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RNX,OAG,Shaoxing Rail Station,30.01722,120.57583,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+ROC,TTX,Amtrak (Rochester),43.162605,-77.609527,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ROD,TTX,Amtrak (Rockland),44.104,-69.109,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ROM,TTX,Amtrak (Rome),43.199226,-75.451438,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ROY,TTX,Amtrak (Royal Oak),42.489044,-83.147842,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RPC,TTX,Amtrak (Rohnert Park),38.347698,-122.715583,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RPH,TTX,Amtrak (Randolph),43.922855,-72.665847,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RPT,TTX,Amtrak (Reedsport),43.702,-124.097,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RPZ,OAG,Poznan Glowny Rail Station,52.40194,16.91083,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+RRA,OAG,Ronda Rail Station,36.73333,-5.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+RRM,TTX,Amtrak (Rapid River),45.926696,-86.974349,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RSG,TTX,Amtrak (Rock Springs),41.587062,-109.219116,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+RSM,TTX,Amtrak (Rosamond),34.859493,-118.166679,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RSP,TTX,Amtrak (Rouses Point),44.9948,-73.371093,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RSV,TTX,Amtrak (Roseville),38.750564,-121.284461,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RTE,TTX,Amtrak (Boston Route-128 - Acela Express - Regional),42.207874,-71.14994,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RTL,TTX,Amtrak (Rantoul),40.312,-88.159019,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+RTZ,TTX,Amtrak (Ritzville),47.127,-118.38,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RUD,TTX,Amtrak (Rutland),43.607257,-72.982246,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RUG,TTX,Amtrak (Rugby),48.369285,-99.997627,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+RVB,TTX,Amtrak (Riverbank),37.729118,-120.936737,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+RVM,TTX,Amtrak (Richmond Main Street Station),37.535,-77.429,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RVR,TTX,Amtrak (Richmond),37.61425,-77.496582,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+RWA,OAG,Warsaw Central Rail Station,52.22889,21.00361,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+RWL,TTX,Amtrak (Rawlins),41.78675,-107.238227,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+RYE,TTX,Amtrak (Rye),40.981,-73.684,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAB,TTX,Amtrak (St. Albans),44.810951,-73.08641,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAC,TTX,Amtrak (Sacramento 'I' Street Station),38.58403,-121.499549,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAD,TTX,Amtrak (Seaford),38.641,-75.611,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAF,TTX,Amtrak (Santa Fe),35.685897,-105.925018,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAL,TTX,Amtrak (Salisbury),35.673419,-80.45742,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAM,TTX,Amtrak (San Antonio - (ex-MoPac)),29.419,-98.478,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAN,TTX,Amtrak (San Diego),32.716163,-117.168563,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAO,TTX,Amtrak (Saco),43.496,-70.449,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAP,TTX,Amtrak (Santa Paula),34.347713,-119.069442,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAR,TTX,Amtrak (Saratoga Springs),43.082115,-73.810157,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAS,TTX,Amtrak (San Antonio - (ex-SP)),29.419103,-98.478134,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAT,TTX,Amtrak (Santa Maria),34.951129,-120.415252,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SAV,TTX,Amtrak (Savannah),32.078506,-81.144157,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SBA,TTX,Amtrak (Santa Barbara),34.413925,-119.690719,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SBB,TTX,Amtrak (San Bernardino - Bus Stop),34.104,-117.31,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SBG,TTX,Amtrak (Sebring),27.497257,-81.434745,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SBY,TTX,Amtrak (Shelby),48.505313,-111.853225,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SCA,TTX,Amtrak (St. Catharines),43.156555,-79.236259,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SCC,TTX,Amtrak (Santa Clara),37.353,-121.937,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SCD,TTX,Amtrak (St. Cloud),45.56689,-94.147789,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SCH,TTX,Amtrak (Schriever),29.746908,-90.812652,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SCS,TTX,Amtrak (Sacramento State Capitol Drop Off Only),38.584,-121.5,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SCZ,TTX,Amtrak (Santa Cruz),36.9705,-122.023941,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDD,TTX,Amtrak (Soledad),36.423423,-121.323204,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDE,TTX,Amtrak (Sunnyside),46.309158,-119.977638,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDL,TTX,Amtrak (Slidell),30.278232,-89.782432,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDW,TTX,Amtrak (Sandwich),41.759643,-70.493316,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDX,TTX,Amtrak (Sedona),34.876506,-111.753265,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDY,TTX,Amtrak (Schenectady),42.815265,-73.942825,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SDZ,TTX,Amtrak (San Diego Zoo Bus Stop),32.734,-117.148,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SEA,TTX,Amtrak (Seattle),47.598911,-122.32843,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SED,TTX,Amtrak (Sedalia),38.711872,-93.228378,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SEJ,OAG,Salamanca Rail Station,40.97167,-5.64833,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+SES,TTX,Amtrak (Seaside),36.617198,-121.847221,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFA,TTX,Amtrak (Sanford Auto Train Only),28.807592,-81.288581,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFC,TTX,Amtrak (San Francisco Ferry Bldg),37.795253,-122.393188,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFD,TTX,Amtrak (Sanford Regular Trains),28.805772,-81.288543,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFF,TTX,Amtrak (San Francisco Financial Ctr),37.793907,-122.395187,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFM,TTX,Amtrak (San Francisco Moscone Center),37.784,-122.401,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFO,TTX,Amtrak (San Francisco Int'L Airpo),37.618396,-122.382194,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFP,TTX,Amtrak (San Francisco Peninsula Line),37.777015,-122.393722,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFS,TTX,Amtrak (San Francisco Union Square),37.784759,-122.406318,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SFW,TTX,Amtrak (San Francisco Fisherman's Wharf),37.808593,-122.40892,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SGC,TTX,Amtrak (Santa Clarita),34.359535,-118.555519,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SHL,TTX,Amtrak (St. Helena),38.499267,-122.461143,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SHO,TTX,Amtrak (Shoshone),42.936595,-114.407546,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SHR,TTX,Amtrak (Shreveport),32.512302,-93.742309,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SHS,TTX,Amtrak (South Houston),29.653795,-95.2481,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SIA,TTX,Amtrak (Sarnia),42.973079,-82.400123,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SIM,TTX,Amtrak (Simi Valley),34.269947,-118.693717,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SJC,TTX,Amtrak (San Jose),37.331069,-121.901206,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SJM,TTX,Amtrak (St. Joseph),42.106616,-86.486747,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SJO,TTX,Amtrak (St. Joseph),39.77684,-94.792266,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SKN,TTX,Amtrak (Stockton),37.94601,-121.284271,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SKT,TTX,Amtrak (Stockton - ACE Station),37.957,-121.279,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SKW,TTX,Amtrak (Skykomish),47.711524,-121.359283,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SKY,TTX,Amtrak (Sandusky),41.440124,-82.711891,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLC,TTX,Amtrak (Salt Lake City),40.762016,-111.902381,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLG,TTX,Amtrak (Salem Greyhound Station),44.933,-123.028,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLH,TTX,Amtrak (Stateline - Harvey's),38.959495,-119.941162,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLM,TTX,Amtrak (Salem),44.93217,-123.026237,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLN,TTX,Amtrak (Stateline),38.959495,-119.941162,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLO,TTX,Amtrak (San Luis Obispo),35.277416,-120.653945,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLP,TTX,Amtrak (San Luis Obispo Cal Poly),35.292579,-120.651847,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLQ,TTX,Amtrak (St. Lambert),45.50278,-73.487945,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLT,TTX,Amtrak (South Lake Tahoe),38.914707,-120.00222,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLV,TTX,Amtrak (Solvang),34.595947,-120.137306,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SLY,TTX,Amtrak (Salisbury),38.376,-75.507,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SMA,TTX,Amtrak (St. Marys),43.270111,-81.135704,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SMC,TTX,Amtrak (San Marcos),29.879232,-97.935676,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SMD,TTX,Amtrak (Madison - South),43.048,-89.312492,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SMT,TTX,Amtrak (Summit),41.792163,-87.813179,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNA,TTX,Amtrak (Santa Ana),33.753166,-117.855041,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNB,TTX,Amtrak (San Bernardino),34.104362,-117.30693,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNC,TTX,Amtrak (San Juan Capistrano),33.501483,-117.663261,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SND,TTX,Amtrak (Sanderson),30.140098,-102.399055,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNM,TTX,Amtrak (Santa Monica),34.020797,-118.495414,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNP,TTX,Amtrak (San Clemente),33.419158,-117.61901,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNS,TTX,Amtrak (Salinas),36.679363,-121.656188,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SNT,TTX,Amtrak (San Clemente),33.432876,-117.632308,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SOB,TTX,Amtrak (South Bend),41.679008,-86.289146,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SOD,TTX,Amtrak (Soda Springs),39.323589,-120.370788,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SOL,TTX,Amtrak (Solana Beach),32.992053,-117.270072,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SOP,TTX,Amtrak (Southern Pines),35.174098,-79.391899,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPB,TTX,Amtrak (Spartanburg),34.953769,-81.935737,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPD,TTX,Amtrak (San Pedro),33.748416,-118.276603,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPG,TTX,Amtrak (Springfield),42.10596,-72.593589,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPH,TTX,Amtrak (Spring Hill),28.477579,-82.611663,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPI,TTX,Amtrak (Springfield),39.801586,-89.651672,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPK,TTX,Amtrak (Spokane),47.656986,-117.413063,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPL,TTX,Amtrak (Staples),46.354587,-94.795112,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPM,TTX,Amtrak (South Portsmouth),38.720912,-82.964286,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPO,OAG,San Pablo Rail Station,36.46667,-5.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+SPR,TTX,Amtrak (Sparks),39.535,-119.753,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPT,TTX,Amtrak (Sandpoint),48.251758,-116.608222,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SPX,TTX,Amtrak (Sparks Bus Station),39.533649,-119.755416,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SQA,TTX,Amtrak (Squamish),49.748363,-123.128501,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SRA,TTX,Amtrak (Sarasota),27.270141,-82.44699,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SRC,TTX,Amtrak (Santa Rosa),38.436725,-122.717193,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SRO,TTX,Amtrak (Socorro),34.04412,-106.890792,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SRT,TTX,Amtrak (Searsport),44.458,-68.924,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SRY,TTX,Amtrak (Strathroy),42.958744,-81.618141,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SSD,TTX,Amtrak (Seaside),45.993,-123.923,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SSM,TTX,Amtrak (Selma-Smithfield),35.532203,-78.28144,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+SSW,TTX,Amtrak (Stevens Pass),47.713771,-121.144378,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+STA,TTX,Amtrak (Staunton),38.147781,-79.072723,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+STF,TTX,Amtrak (Stratford),43.370998,-80.984451,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+STG,TTX,Amtrak (St. George),37.096,-113.568,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+STI,TTX,Amtrak (St. Ignace),45.869964,-84.730407,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+STL,TTX,Amtrak (St. Louis),38.624275,-90.203461,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+STM,TTX,Amtrak (Stamford - Acela Express - Regional - Vermonter),41.04618,-73.542678,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+STN,TTX,Amtrak (Stanley),48.319362,-102.390777,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+STP,TTX,Amtrak (St. Petersburg),27.839639,-82.684677,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+STR,TTX,Amtrak (Streator),41.122253,-88.824607,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SUI,TTX,Amtrak (Suisun-Fairfield),38.243465,-122.039543,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SUN,TTX,Amtrak (Sunriver),43.856254,-121.463157,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SUY,TTX,Amtrak (Surrey),49.155506,-122.84645,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SVF,TTX,Amtrak (Seattle Ferry Pier 69),47.614,-122.354,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SVR,TTX,Amtrak (Silverthorne),39.63414,-106.071937,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+SVT,TTX,Amtrak (Sturtevant),42.699676,-87.905158,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+SVY,TTX,Amtrak (Scotts Valley),37.049,-122.028,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+SYG,OAG,Shaoyang Rail Station,27.57417,111.50444,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+SYR,TTX,Amtrak (Syracuse),43.07719,-76.16983,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TAC,TTX,Amtrak (Tacoma),47.241828,-122.418472,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TAU,TTX,Amtrak (Taunton),41.901966,-71.10173,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TAY,TTX,Amtrak (Taylor),30.567436,-97.408798,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TCA,TTX,Amtrak (Toccoa),34.578533,-83.331367,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TCL,TTX,Amtrak (Tuscaloosa),33.192256,-87.56015,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TDO,TTX,Amtrak (Toledo),44.646549,-123.919013,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TEH,TTX,Amtrak (Tehachapi),35.132732,-118.452308,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TEJ,OAG,Teruel Rail Station,40.34083,-1.11028,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+TEM,TTX,Amtrak (Tempe),33.427364,-111.942153,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TFI,TTX,Amtrak (Twin Falls),42.563,-114.461,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TGR,TTX,Amtrak (Tigerton),44.738559,-89.053413,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TGX,OAG,Tongcheng Rail Station,31.05083,116.97861,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+THD,TTX,Amtrak (The Dalles),45.600807,-121.179664,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+THN,TTX,Amtrak (Thurmond),37.956665,-81.078056,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+THO,TTX,Amtrak (Thousand Oaks),34.187511,-118.909927,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TIF,TTX,Amtrak (Treasure Island),27.769355,-82.768882,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TLH,TTX,Amtrak (Tallahassee),30.433015,-84.289535,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TLS,TTX,Amtrak (Tulsa),36.15398,-95.986831,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TLT,TTX,Amtrak (Tilton),43.456,-71.566,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TMV,OAG,Tianmen South Rail Station,30.42167,113.37889,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+TOA,TTX,Amtrak (Torrance),33.831169,-118.351585,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TOC,TTX,Amtrak (Truth or Consequences),33.132991,-107.241699,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TOH,TTX,Amtrak (Tomah),43.985725,-90.504165,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TOL,TTX,Amtrak (Toledo),41.638183,-83.541267,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TOP,TTX,Amtrak (Topeka),39.051345,-95.664894,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TOS,TTX,Amtrak (Thompson),38.971752,-109.72013,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TPA,TTX,Amtrak (Tampa),27.952264,-82.450912,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TPB,OAG,Bristol Temple Meads Rail Station,51.44917,-2.58083,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+TPL,TTX,Amtrak (Temple),31.095378,-97.344802,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TPS,TTX,Amtrak (Tarpon Springs),28.130798,-82.740013,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TPY,OAG,Turin Porta Nuova Rail Station,45.06222,7.67889,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+TRA,TTX,Amtrak (Tracy),37.761749,-121.434631,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TRE,TTX,Amtrak (Trenton),40.21825,-74.754562,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TRI,TTX,Amtrak (Trinidad),37.172801,-104.50727,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TRK,TTX,Amtrak (Turlock-Denair),37.530311,-120.798797,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TRU,TTX,Amtrak (Truckee),39.327915,-120.182571,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TRV,TTX,Amtrak (Traverse City),44.734546,-85.624824,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TSY,TTX,Amtrak (Tusayan),35.974,-112.127,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TTK,OAG,Tottenham Hale Rail Station,51.58333,-0.06667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+TTV,OAG,Tieling Rail Station,42.23056,123.66583,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+TTZ,OAG,Zhengzhou Rail Station,34.74722,113.66,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+TUA,TTX,Amtrak (Tulare),36.208,-119.347,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TUK,TTX,Amtrak (Tukwila),47.461,-122.243,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TUS,TTX,Amtrak (Tucson),32.22306,-110.965934,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+TVX,OAG,Tongxiang Rail Station,30.53917,120.56333,800,t,NULL,NULL,en-us,f,NULL,t,NULL
+TWO,TTX,Amtrak (Toronto Union Station),43.646556,-79.424179,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+TXA,TTX,Amtrak (Texarkana),33.420074,-94.042442,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+TXB,OAG,Trieste Rail Station,45.65722,13.77222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+TXQ,OAG,Toulouse Matabiau Rail Station,43.61139,1.45389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+TYR,TTX,Amtrak (Tyrone),40.670322,-78.24105,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+UBW,OAG,Bridgwater Rail Station,51.12778,-2.99028,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+UCA,TTX,Amtrak (Utica),43.104072,-75.223937,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+UER,OAG,Puertollano Rail Station,38.69139,-4.11194,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+UFM,OAG,Falmouth Rail Station,50.14833,-5.06444,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+UGR,OAG,Burgos Rail Station,42.37083,-3.66611,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+UKH,TTX,Amtrak (Ukiah),39.151531,-123.195701,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+USX,OAG,St Austell Rail Station,50.33972,-4.78944,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+UTL,OAG,Torremolinos Rail Station,36.61667,-4.5,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+UWC,OAG,Worcester Rail Station,52.19528,-2.22167,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+UWE,OAG,Wiesbaden Hbf Rail Station,50.07,8.24389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+UWP,OAG,Wuppertal Rail Station,51.255,7.15,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+UWS,TTX,Amtrak (Winston-Salem State University),36.089,-80.225,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAB,TTX,Amtrak (Virginia Beach),36.84703,-75.976509,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAC,TTX,Amtrak (Vancouver),49.229747,-123.017349,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAE,TTX,Amtrak (Vale),43.981918,-117.246879,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAI,TTX,Amtrak (Vail),39.642677,-106.344299,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAL,TTX,Amtrak (Vallejo City Stop),38.136,-122.257,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAM,TTX,Railway Station,3.2814,72.504,530,t,NULL,NULL,en-us,f,NULL,t,NULL
+VAN,TTX,Amtrak (Vancouver),45.629802,-122.684722,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VBC,TTX,Amtrak (Victoria),48.444107,-123.372802,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+VBL,OAG,Anshanxi Rail Station,41.11639,122.90944,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+VBR,OAG,Vyborg Rail Station,60.72111,28.74556,300,t,NULL,NULL,en-us,f,NULL,f,NULL
+VBX,TTX,Amtrak (Vail - Shuttle Door to Door Service),39.64,-106.374,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+VEC,TTX,Amtrak (Ventura),34.276752,-119.296577,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VEN,TTX,Amtrak (Venice),27.108781,-82.385322,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+VIF,TTX,Amtrak (Victoria Harbour Ferry Pier),48.422,-123.375,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+VIO,OAG,Vitoria Rail Station,42.84139,-2.6725,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+VIS,TTX,Amtrak (Visalia Goshen Junction),36.327274,-119.277709,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VKR,OAG,Krakow Glowny Rail Station,50.0675,19.94722,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+VMW,TTX,Amtrak (Vallejo Marine World Bus Stop),38.134326,-122.227943,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VNC,TTX,Amtrak (Van Nuys Metrolink),34.210979,-118.447921,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VNF,TTX,Amtrak (Van Nuys Flyaway Terminal),34.208469,-118.482833,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VNZ,OAG,Vicenza Rail Station,45.54139,11.54056,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+VRN,TTX,Amtrak (Vergennes),44.171352,-73.239204,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+VRV,TTX,Amtrak (Victorville),34.536628,-117.292129,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+VWA,OAG,Shenyangbei Rail Station,41.81694,123.42806,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+VWB,OAG,Changchun Rail Station,43.91,125.31861,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+WAB,TTX,Amtrak (Waterbury-Stowe),44.335071,-72.752471,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WAC,TTX,Amtrak (Wasco),35.594272,-119.331352,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WAH,TTX,Amtrak (Washington),38.561374,-91.012222,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WAR,TTX,Amtrak (Warrensburg),38.763172,-93.740455,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WAS,TTX,Amtrak (Washington Union Station),38.897304,-77.00637,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WBG,TTX,Amtrak (Williamsburg),37.275726,-76.708053,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WBP,TTX,Amtrak (The Pottery Factory),37.343688,-76.755699,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WBR,TTX,Amtrak (West Barnstable),41.706924,-70.373435,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WCE,TTX,Amtrak (Wallace),34.742271,-77.996147,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WCO,TTX,Amtrak (West Corona),33.886,-117.614,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WCT,TTX,Amtrak (White City),42.433,-122.834,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WCY,TTX,Amtrak (West Quincy),39.925914,-91.439804,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WDB,TTX,Amtrak (Woodbridge),38.657444,-77.248275,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WDL,TTX,Amtrak (Wisconsin Dells),43.624786,-89.775077,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WDO,TTX,Amtrak (Waldo),29.79017,-82.167419,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WDR,TTX,Amtrak (Waldoboro),44.095,-69.376,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WDS,TTX,Amtrak (Windsor),42.314929,-82.931373,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WEC,OAG,Wenchang Rail Station,19.6075,110.73306,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+WEM,TTX,Amtrak (Wells),43.341,-70.638,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WEN,TTX,Amtrak (Wenatchee),47.421623,-120.305839,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WFD,TTX,Amtrak (Wallingford),41.457069,-72.825355,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WFH,TTX,Amtrak (Whitefish),48.41357,-114.335159,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WGL,TTX,Amtrak (West Glacier),48.498733,-113.971641,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WHE,TTX,Amtrak (Wheeling),40.066993,-80.721488,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WHI,TTX,Amtrak (Whitford),40.014602,-75.638519,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WHL,TTX,Amtrak (Whitehall),43.554965,-73.403106,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WHR,TTX,Amtrak (Whittier),33.953033,-118.028839,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WHT,TTX,Amtrak (Wheatland Bus Stop),42.054,-104.953,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WHZ,OAG,Wuhan Rail Station,30.61028,114.41861,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+WIH,TTX,Amtrak (Wishram),45.65731,-120.966316,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WIL,TTX,Amtrak (Wilmington),39.736915,-75.552177,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WIM,TTX,Amtrak (Willimantic),41.712589,-72.219619,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WIN,TTX,Amtrak (Winona - Empire Builder),44.044937,-91.641746,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WIP,TTX,Amtrak (Fraser),39.948696,-105.817367,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WIT,TTX,Amtrak (Wittenberg),44.827053,-89.169151,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WLA,TTX,Amtrak (West L.A.),34.026561,-118.366615,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WLI,OAG,Wenling Rail Station,28.48222,121.32056,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+WLN,TTX,Amtrak (Wilson),35.723068,-77.908294,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WLO,TTX,Amtrak (Winslow),35.020908,-110.693084,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WLY,TTX,Amtrak (Westerly),41.381015,-71.830688,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WMA,TTX,Amtrak (Williams),35.249149,-112.191459,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WMJ,TTX,Amtrak (Williams Junction),35.252391,-112.188667,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WMN,TTX,Amtrak (Wilmington),34.246349,-77.949127,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNA,TTX,Amtrak (Winona),33.48286,-89.727424,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WND,TTX,Amtrak (Windsor),41.851917,-72.64376,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNH,TTX,Amtrak (Windham),42.300586,-74.257369,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNK,TTX,Amtrak (Walloon Lake),45.273731,-84.928085,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNL,TTX,Amtrak (Windsor Locks),41.927246,-72.628562,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNM,TTX,Amtrak (Windsor),43.480442,-72.385452,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNN,TTX,Amtrak (Winnemucca),40.969543,-117.731567,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNR,TTX,Amtrak (Walnut Ridge),36.068317,-90.956161,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNS,TTX,Amtrak (Winston-Salem City Transfer Ctr.),36.092933,-80.246208,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WNT,TTX,Amtrak (Warrenton),46.165,-123.924,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WOB,TTX,Amtrak (Woburn),42.479,-71.152,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WOL,TTX,Amtrak (Woodland),38.675086,-121.765029,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WON,TTX,Amtrak (Warrenton),38.684738,-77.789192,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WOR,TTX,Amtrak (Worcester),42.261379,-71.793327,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WPB,TTX,Amtrak (West Palm Beach),26.712341,-80.062461,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WPK,TTX,Amtrak (Winter Park),28.597131,-81.351982,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WPT,TTX,Amtrak (Wolf Point),48.090782,-105.640357,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WRC,TTX,Amtrak (West Richland),46.298271,-119.34008,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WRE,TTX,Amtrak (Wareham),41.758415,-70.715438,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WRJ,TTX,Amtrak (White River Junction),43.648555,-72.317955,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WSL,TTX,Amtrak (Whistler),50.164108,-122.912841,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+WSP,TTX,Amtrak (Westport),44.187095,-73.452896,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WSS,OAG,Swansea Rail Station,53.62583,-3.94028,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+WST,TTX,Amtrak (Wiscasset),44.003,-69.666,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WSU,TTX,Amtrak (Wausau),44.963481,-89.655143,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WTH,TTX,Amtrak (Winter Haven),28.00225,-81.73426,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WTI,TTX,Amtrak (Waterloo),41.431705,-85.025192,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WTN,TTX,Amtrak (Williston),48.142765,-103.620376,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WTS,TTX,Amtrak (Willits),39.412197,-123.349807,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WTV,TTX,Amtrak (Watsonville),36.91064,-121.759056,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+WWD,TTX,Amtrak (Wildwood),28.866037,-82.039581,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WWR,TTX,Amtrak (Walworth),42.534877,-88.595443,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+WXF,OAG,Watford Junction Rail Station,51.66389,-0.39667,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+WXJ,OAG,Wanning Rail Station,18.80944,110.37694,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+WYN,TTX,Amtrak (Wynnewood),39.996,-75.273,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+WZE,OAG,Yichang Railway Station,30.66028,111.365,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XAH,OAG,Silkeborg Rail Station,56.16667,9.56667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XAK,OAG,Herning Rail Station,56.13333,8.98333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XCC,OAG,Le Creusot/Montceau TGV Rail Station,46.76528,4.49972,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XDT,TTX,C. de. G./TGV Rail Service,48.5,2.2,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XEX,TTX,Railway Station,48.5,2.39,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XFA,OAG,Lille Flandres Rail Station,50.63639,3.07083,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XFC,TTX,Fredericton Junction Rail Service,45.58,-66.39,-400,t,NULL,NULL,en-us,f,NULL,t,NULL
+XFH,OAG,Strangnas Rail Station,59.36667,17.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XGH,OAG,Flam Rail Station,60.86278,7.11306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XGS,OAG,Gjerstad Rail Station,58.87,9.01667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XGZ,OAG,Bregenz Rail Station,47.50639,9.74861,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XHJ,OAG,Aachen Hbf Rail Station,50.76833,6.09111,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XHL,OAG,Nelaug Rail Station,58.6575,8.62944,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XHP,OAG,Paris Gare de l'Est Rail Station,48.87694,2.35917,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XHT,OAG,Arna Rail Station,60.41944,5.46389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XHU,OAG,Huntingdon Rail Station,52.33333,-0.2,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XHW,OAG,Alice Springs Rail Station,-23.6975,133.87389,930,t,NULL,NULL,en-us,f,NULL,f,NULL
+XHX,OAG,Adelaide Keswick Rail Station,-34.93806,138.58139,930,t,NULL,NULL,en-us,f,NULL,t,NULL
+XIR,OAG,Dresden Rail Station,51.06583,13.74056,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XIX,OAG,Verona Porta Nuova Rail Station,45.45,11,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJA,OAG,Alvdal Rail Station,62.10944,10.63889,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJC,OAG,Olomouc Main Rail Station,49.5925,17.27778,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJE,OAG,Vojens Rail Station,55.25,9.31667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJG,OAG,Darwin Rail Station,-12.4725,130.90417,930,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJI,OAG,Ciudad Real Rail Station,38.985,-3.91333,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XJP,OAG,Pardubice Main Rail Station,50.0325,15.75667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJS,OAG,Kitzbuehel Rail Station,47.45556,12.39306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJT,OAG,Tours Rail Station,47.38333,0.68333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJV,OAG,Ostrava Main Rail Station,49.85083,18.2675,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XJW,OAG,Xiaogan North Rail Station,31.58972,114.21972,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XKL,OAG,Kuala Lumpur Sentral Rail Station,3.13444,101.68667,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XKW,OAG,Tonsberg Rail Station,59.27222,10.40889,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XMZ,OAG,Macclesfield Rail Station,53.26667,-2.11667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XNE,OAG,Newport Rail Station,51.58889,-3.00056,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+XNK,OAG,Newark North Gate Rail Station,53.08333,-0.01361,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XOB,OAG,Bryne Rail Station,58.73417,5.64861,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XOC,OAG,Madrid Atocha Rail Station,40.40583,-3.69083,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XOF,OAG,London Stratford Intl Rail Station,51.54417,0.00694,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XOL,OAG,Myrdal Rail Station,60.73556,7.12333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XOU,OAG,Segovia Guiomar Rail Station,40.91,-4.09472,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XPW,OAG,Didcot Parkway Rail Station,51.61667,-1.25,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQB,OAG,Basingstoke Rail Station,51.26667,-1.08333,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQD,OAG,Bedford Rail Station,52.13333,-0.48333,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQH,OAG,Derby Rail Station,52.91667,-1.5,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQI,OAG,Loughborough Rail Station,52.78333,-1.18333,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQM,OAG,Market Harborough Rail Station,52.48333,-0.91667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQT,OAG,Lichfield Rail Station,51.3,-1.33333,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XQW,OAG,Motherwell Rail Station,55.8,-4,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XRE,OAG,Reading Rail Station,51.45917,-0.97278,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+XRG,OAG,Rugeley Rail Station,52.76667,-1.91667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XRJ,OAG,Rome Termini Rail Station,41.90111,12.50194,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XRK,OAG,Moscow Paveletsky Rail Station,55.73306,37.64972,300,t,NULL,NULL,en-us,f,NULL,f,NULL
+XRL,OAG,Reggio nell'Emilia Mediopadana Rail Station,44.69667,10.64917,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XTA,OAG,Tianjin Econ/Tech Dev.Area RR Stn,39.13528,117.20444,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XTI,OAG,Madrid Chamartin Rail Station,40.47389,-3.6825,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XTJ,OAG,Toledo Rail Station,39.8625,-4.01111,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XTQ,OAG,Xiantao West Rail Station,30.42778,113.14,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUA,OAG,Huesca Rail Station,42.13333,-0.41,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XUB,OAG,Berkak Rail Station,62.82222,10.01472,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUC,OAG,Elverum Rail Station,60.88444,11.54528,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUE,OAG,Heimdal Rail Station,63.35083,10.35722,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUF,OAG,Cartagena Rail Station,37.60472,-0.97389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUG,OAG,Holmestrand Rail Station,59.49194,10.31222,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUH,OAG,Levanger Rail Station,63.74528,11.30167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUI,OAG,Lysaker Rail Station,59.91306,10.63694,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUJ,OAG,Moelv Rail Station,60.92944,10.6975,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUK,OAG,Xuzhou Dong Rail Station,34.26639,117.20167,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUL,OAG,Nesbyen Rail Station,60.57667,9.11306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUM,OAG,Neslandsvatn Rail Station,58.97111,9.15583,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUO,OAG,Nordagutu Rail Station,59.41806,9.3225,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUQ,OAG,Ringebu Rail Station,61.52889,10.13861,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUR,OAG,Skoppum Rail Station,59.39111,10.41194,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUS,OAG,Snartemo Rail Station,58.33194,7.21167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUU,OAG,Stjordal Rail Station,63.47111,10.9125,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUV,OAG,Storekvina Rail Station,58.37917,6.95806,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUW,OAG,Storen Rail Station,63.05306,10.28417,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XUX,OAG,Ustaoset Rail Station,60.49611,8.045,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XVS,OAG,Valenciennes Rail Station,50.35,3.53333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XVX,OAG,Vejle Rail Station,55.7,9.53333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWB,OAG,Stirling Rail Station,56.11667,-3.95,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWC,OAG,Vienna Hauptbahnhof Rail Station,48.18528,16.37667,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XWE,OAG,Wellingborough Rail Station,52.31667,-0.7,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWF,OAG,Borlange/Falun C Rail Station,60.60361,15.64222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XWI,OAG,Wigan North Western Rail Station,53.55,-2.63333,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWK,OAG,Ronneby/Karlskrona C Rail Station,56.1675,15.58556,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWO,OAG,Woking Rail Station,51.33333,-0.56667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWS,OAG,Swindon Rail Station,51.56583,-1.78583,0,t,NULL,NULL,en-us,f,NULL,t,NULL
+XWT,OAG,Vienna Mitte CAT Rail Station,48.20722,-16.38611,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWW,OAG,Vienna Westbahnhof Rail Station,48.19667,16.33722,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XWX,OAG,Nassjo Rail Station,57.65194,14.69472,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XWZ,OAG,Nykoping C Rail Station,58.75556,16.99472,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXA,OAG,Alvesta Rail Station,56.89889,14.55778,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXC,OAG,Bo Rail Station,59.40889,9.06917,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXE,OAG,Vennesla Rail Station,58.25278,7.96778,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXG,OAG,Verdal Rail Station,63.79083,11.48472,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXI,OAG,Koping Rail Station,59.50667,16.00417,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXJ,OAG,Budapest Deli Rail Station,47.49944,19.025,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXK,OAG,Katrineholm C Rail Station,58.99694,16.20833,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXN,OAG,Kil Rail Station,59.505,13.31583,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXQ,OAG,Budapest Keleti Rail Station,47.50028,19.08389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXR,OAG,Al Rail Station,60.62583,8.56167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXT,OAG,Arboga Rail Station,59.39722,15.84111,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXV,OAG,Kumla Rail Station,59.12667,15.14111,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XXW,OAG,Generic Rail Poland,51.91917,19.145,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XYG,OAG,Prague Main Rail Station,50.08333,14.46667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XYI,OAG,Flen Rail Station,59.0575,16.58806,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+XYJ,OAG,Prague Holesovice Rail Station,50.08333,14.46667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XYL,OAG,Lyon Perrache Rail Station,45.74833,4.82556,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XYQ,OAG,Angelholm Rail Station,56.24528,12.85417,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XYV,OAG,Lyon Satolas Rail Station,45.75,4.85,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XYW,OAG,Xinyang East Rail Station,32.12389,114.17556,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+XZD,OAG,Kongsvinger Rail Station,60.1875,12.00167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XZE,OAG,Rail (Generic) Rail Station,50,10,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XZJ,OAG,Rail (Generic) Rail Station,35.66667,139.75,900,t,NULL,NULL,en-us,f,NULL,t,NULL
+XZP,OAG,Pass (Generic) Rail Station,46.80333,-71.25222,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+XZQ,OAG,Rail (Generic) Rail Station,59.35,18.08333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+XZR,OAG,Rail (Generic) Rail Station,46.80361,-71.25056,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+XZU,OAG,Rail (Generic) Rail Station,43.35722,-74.22389,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+XZX,OAG,Rail (Generic) Rail Station,-33.91667,151.16667,1000,t,NULL,NULL,en-us,f,NULL,f,NULL
+YAZ,TTX,Amtrak (Yazoo City),32.848083,-90.415039,-600,t,NULL,NULL,en-us,f,NULL,t,NULL
+YDD,OAG,Yingkou Dong Rail Station,40.62611,122.42472,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+YEM,TTX,Amtrak (Yemassee),32.688144,-80.847145,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+YIU,OAG,Yiwu Rail Station,29.38056,120.03861,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+YJB,OAG,Barcelona Sants Rail Station,41.37917,2.14,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YJC,OAG,A Coruna Rail Station,43.35278,-8.41056,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+YJD,OAG,Barcelona Franca Rail Station,41.38417,2.18611,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YJG,OAG,Granada Rail Station,37.18417,-3.60917,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YJH,OAG,San Sebastian Rail Station,43.31806,-1.97694,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YJI,OAG,Bilbao Abando Rail Station,43.26083,-2.9275,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YJL,OAG,Santander Rail Station,43.45778,-3.81222,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YJR,OAG,Vigo Rail Station,42.23444,-8.71306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+YJW,OAG,Jerez Rail Station,36.68,-6.12639,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+YKM,TTX,Amtrak (Yakima),46.605735,-120.481681,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+YNY,TTX,Amtrak (Yonkers),40.936096,-73.902885,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+YOS,TTX,Amtrak (Yosemite),37.742004,-119.582939,-800,t,NULL,NULL,en-us,f,NULL,t,NULL
+YTO,TTX,Amtrak (Youngstown),41.102096,-80.65731,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+YUG,OAG,Yueyanng Rail Station,29.37944,113.11417,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+YUM,TTX,Amtrak (Yuma),32.722023,-114.615135,-700,t,NULL,NULL,en-us,f,NULL,t,NULL
+YUQ,OAG,Suzhou Suzhouyuanqu Rail Station,31.34306,120.70611,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+YVH,OAG,Hjerkinn Rail Station,62.21972,9.54083,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+YVK,OAG,Koppang Rail Station,61.57333,11.04306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+YVS,OAG,Ski Rail Station,59.72083,10.83417,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+YYP,OAG,Yuyao North Rail Station,30.055,121.16111,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZAF,OAG,Arles Rail Station,43.66667,4.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZAP,OAG,Appenzell Rail Station,47.33333,9.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZAU,OAG,Aue Rail Station,50.58333,12.7,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZBB,OAG,Esbjerg Rail Station,55.46667,8.45,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZBH,OAG,Severac-le-Chateau Rail Station,44.31667,3.06667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZBJ,OAG,Fredericia Rail Station,55.58333,9.76667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZBP,OAG,Baltimore Penn Rail Station,39.3075,-76.61583,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZBT,OAG,Kolding Rail Station,55.51667,9.48333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZCB,OAG,Aschaffenburg Hbf Rail Station,49.98028,9.14389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZCC,OAG,Karlsruhe/Baden-Baden Rail Station,48.79056,8.19083,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZDA,OAG,Aarau Rail Station,47.38333,8.05,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDC,OAG,Aigle Rail Station,46.31667,6.96667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDD,OAG,Arbon Rail Station,47.51667,9.43333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDE,OAG,Arosa Rail Station,46.78333,9.66667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDG,OAG,Baden Rail Station,47.46667,8.3,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDI,OAG,Bellinzona Rail Station,46.2,9.01667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDK,OAG,Biel/Bienne Rail Station,47.16667,7.25,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDL,OAG,Brig Rail Station,46.31667,7.98333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDO,OAG,Buchs SG Rail Station,47.16667,9.46667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDP,OAG,Burgdorf Rail Station,47.05,7.61667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDQ,OAG,Champery Rail Station,46.18333,6.86667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDR,OAG,Chateau-d'Oex Rail Station,46.46667,7.13333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDS,OAG,Chiasso Rail Station,45.83333,9.03333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDT,OAG,Chur Rail Station,46.85,9.5,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDV,OAG,Davos Dorf Rail Station,46.81667,9.83333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDW,OAG,Delemont Rail Station,47.36667,7.33333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDX,OAG,Dietikon Rail Station,47.41667,8.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZDY,TTX,Ronne Rail Station,55.06,14.41,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZDZ,OAG,Einsiedeln Rail Station,47.11667,8.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZEE,OAG,Fulda Rail Station,50.55389,9.68389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZEI,OAG,Garmisch-Partenkirchen Rail Station,47.5,11.1,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZEJ,OAG,Gelsenkirchen Hbf Rail Station,51.50528,7.1025,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZEU,OAG,Goettingen Rail Station,51.53333,9.93333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZEX,OAG,Guetersloh Hbf Rail Station,51.9,8.38333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZEY,OAG,Hagen Hbf Rail Station,51.36306,7.46083,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZFR,OAG,Frankfurt (Oder) Rail Station,52.35,14.55,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZFT,OAG,Fort Lauderdale Tri-Rail Station,26.06944,-80.16944,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZFV,OAG,Philadelphia 30th Street Rail Station,39.95583,-75.18222,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZFZ,OAG,Buffalo-Depew Rail Station,42.90639,-78.72639,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZGA,OAG,Gera Hbf Rail Station,50.86667,12.08333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZGD,OAG,Groton/New London Rail Station,41.35417,-72.09361,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZGE,OAG,Goerlitz Rail Station,50.33333,11.96667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZGJ,OAG,Oostende/Brugge Rail Station,51.21667,3.23333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZGO,OAG,Gotha Rail Station,50.93944,10.71278,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZGP,OAG,Mechelen Railway Station,51.03028,4.49028,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZGW,OAG,Greifswald Rail Station,54.1,13.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZGX,OAG,Viborg Rail Station,56.43333,9.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZGZ,OAG,Fict Point/AA2 German Rail Pass,50.66667,10,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHB,OAG,Engelberg Rail Station,46.98333,8.41667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHC,OAG,Philadelphia North Rail Station,40.08611,-75.01667,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHD,OAG,Fluelen Rail Station,46.9,8.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHE,OAG,Frauenfeld Rail Station,47.55,8.9,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHF,OAG,Fribourg Rail Station,46.8,7.15,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHG,OAG,Glarus Rail Station,47.03333,9.06667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHH,OAG,Gossau SG Rail Station,47.41667,9.25,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHI,OAG,Grenchen Sued Rail Station,47.18333,7.38333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHJ,OAG,Grindelwald Rail Station,46.61667,8.05,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHK,OAG,Gstaad Rail Station,46.46667,7.28333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHL,OAG,Heerbrugg Rail Station,47.4,9.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHN,OAG,Herzogenbuchsee Rail Station,47.18333,7.7,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHR,OAG,Kandersteg Rail Station,46.48333,7.66667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHS,OAG,Klosters Rail Station,46.88333,9.86667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHT,OAG,Geneva Rail Station,46.2,6.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHU,OAG,Kreuzlingen Rail Station,47.65,9.18333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHV,OAG,La Chaux-de-Fonds Rail Station,47.13333,6.85,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHW,OAG,Langenthal Rail Station,47.21667,7.78333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZHZ,OAG,Leipzig/Halle Rail Station,51.47722,11.98778,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZIB,OAG,Nyborg Rail Station,55.31667,10.8,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZIF,OAG,Ottawa Fallowfield Rail Station,52.94361,-91.31306,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZIJ,OAG,Nykoing Sjaelland Rail Station,55.91667,11.66667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZIN,OAG,Interlaken Ost Rail Station,46.68333,7.85,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZIO,OAG,Solingen Rail Station,51.16083,7.00389,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZIR,OAG,Randers Rail Station,56.46667,10.05,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZIT,OAG,Zittau Rail Station,50.91667,14.83333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJA,OAG,Le Locle Rail Station,47.06667,6.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJC,OAG,Lenzburg Rail Station,47.38333,8.18333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJH,OAG,Aarhus H Rail Station,56.15,10.21667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJI,OAG,Locarno Rail Station,46.16667,8.8,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJL,OAG,Lyss Rail Station,47.06667,7.3,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJM,OAG,Martigny Rail Station,46.08333,7.08333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJP,OAG,Montreux Rail Station,46.43333,6.91667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJQ,OAG,Morges Rail Station,46.51667,6.5,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJS,OAG,Jena Rail Station,50.93333,11.58333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJU,OAG,Olten Rail Station,47.35,7.91667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJV,OAG,Pontresina Rail Station,46.48333,9.9,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJW,OAG,Rapperswil Rail Station,47.21667,8.81667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZJZ,OAG,Rorschach Rail Station,47.46667,9.51667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKA,OAG,Sargans Rail Station,46.5,9.43333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKC,OAG,Sarnen Rail Station,46.9,8.23333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKD,OAG,Moscow Leningradsky Rail Station,55.78056,37.65,300,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKF,OAG,St Margrethen Rail Station,47.45,9.61667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKH,OAG,St Moritz Rail Station,46.5,9.83333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKJ,OAG,Schaffhausen Rail Station,47.7,8.63333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKK,OAG,Schwyz Rail Station,47.01667,8.65,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKN,OAG,Skive Rail Station,56.63333,9.01667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKO,OAG,Sierre/Siders Rail Station,46.3,7.53333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKS,OAG,Solothurn Rail Station,47.23333,7.51667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKU,OAG,Sursee Rail Station,47.16667,8.1,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKV,OAG,Thalwil Rail Station,47.28333,8.56667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKW,OAG,Wetzikon Rail Station,47.31667,8.78333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKX,OAG,Uzwil Rail Station,47.43333,9.13333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZKZ,OAG,Vevey Rail Station,46.45,6.85,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLA,OAG,Villars-sur-Ollon Rail Station,46.3,7.05,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLB,OAG,Visp Rail Station,46.28333,7.86667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLC,OAG,Waedenswil Rail Station,47.23333,8.66667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLD,OAG,Weinfelden Rail Station,47.56667,9.1,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLE,OAG,Wengen Rail Station,46.6,7.91667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLF,OAG,Wettingen Rail Station,47.46667,8.31667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLH,OAG,Wil Rail Station,47.46667,9.05,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLI,OAG,Winterthur Rail Station,47.5,8.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLJ,OAG,Yverdon-les-Bains Rail Station,46.78333,6.65,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLK,OAG,St Petersburg Moskovsky Rail Station,59.92972,30.36222,300,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLL,OAG,Zofingen Rail Station,47.28333,7.93333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLM,OAG,Zug Rail Station,47.16667,8.51667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLQ,OAG,Zurich Oerlikon Rail Station,47.41667,8.55,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLU,OAG,Ludwigslust Rail Station,53.33333,11.5,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZLY,OAG,Albany Rensselaer Rail Station,42.64111,-73.74111,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZME,OAG,Iselin Metropark Rail Station,40.56833,-74.32972,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZMG,OAG,Magdeburg Rail Station,52.13083,11.62694,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZMI,OAG,Naples Mergellina Rail Station,40.83333,14.25,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZML,OAG,Milwaukee Intermodal Station,42.95278,-87.90278,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZMQ,OAG,Raufoss Rail Station,60.72333,10.61444,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZMX,OAG,Tynset Rail Station,62.27611,10.77194,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZMZ,OAG,Bjerka Rail Station,66.14944,13.83167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZNB,OAG,Hamm Rail Station,51.68333,7.8,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZNG,OAG,Nanning Rail Station,22.82944,108.31111,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZNQ,OAG,Ingolstadt Rail Station,48.74444,11.43694,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZNV,TTX,Amtrak (Zanesville),39.950302,-82.006813,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZNW,OAG,Limburg Rail Station,50.38333,8.05,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZOB,OAG,Zamora Rail Station,41.51611,-5.73972,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZOG,OAG,Lueneburg Rail Station,53.25,10.4,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZOM,OAG,Minden Rail Station,52.28333,8.91667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZOO,OAG,Muehlheim An Der Ruhr Rail Station,51.43333,6.88333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZOY,OAG,Oberhausen Rail Station,51.46667,6.85,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPA,OAG,Offenburg Rail Station,48.47611,7.94639,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPD,OAG,Oldenburg Rail Station,53.14361,8.2225,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPE,OAG,Muenster/Osnabrueck Rail Station,52.27278,8.06056,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPF,OAG,Passau Rail Station,48.57417,13.45083,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPL,OAG,Recklinghausen Rail Station,51.61667,7.2,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPM,OAG,Regensburg Rail Station,49.01222,12.09972,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZPY,OAG,Siegburg Rail Station,50.8,7.2,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZQF,OAG,Trier Rail Station,49.75639,6.65222,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZQU,OAG,Braunschwieg/Wolfsburg Rail Station,52.43333,10.8,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZQV,OAG,Worms Rail Station,49.63556,8.35972,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZRA,OAG,Atlantic City Rail Station,39.36944,-74.45,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZRD,OAG,Richmond Rail Station,37.6175,-77.49694,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZRL,OAG,Lancaster Rail Station,40.05361,-76.3075,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZRN,OAG,Nyon Rail Station,46.38333,6.25,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZRQ,TTX,Zone 1 SBB Rail,47.35,7.3,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZRT,OAG,Hartford CT Rail Station,41.76917,-72.68111,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZRU,OAG,Boston RT128 Rail Station,42.23694,-71.13278,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZRV,OAG,Providence Rail Station,41.82917,-71.41389,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZRX,OAG,Riesa Rail Station,51.3,13.3,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZRZ,OAG,Washington New Carrolton Rail Station,38.94722,-76.86972,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSB,OAG,Salzburg Hbf Rail Station,47.81306,13.04583,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZSC,OAG,Schoena Rail Station,54,13.33333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSD,OAG,Schwanheide Rail Station,53.43333,10.68333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSF,OAG,Springfield Rail Station,42.10583,-72.59361,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZSG,OAG,Sonneberg Rail Station,50.35,11.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSI,OAG,Sassnitz Rail Station,54.53333,13.66667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSK,OAG,Pasewalk Rail Station,53.5,14,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSN,OAG,Stendal Rail Station,52.59528,11.85472,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSO,OAG,Suhl Rail Station,50.61667,10.71667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSQ,OAG,Salzwedel Rail Station,52.85,11.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSR,OAG,Schwerin Rail Station,53.63333,11.38333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSU,OAG,Dessau Rail Station,51.83333,12.25,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSV,OAG,St Louis Rail Station,38.61944,-90.18611,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSX,OAG,Stralsund Rail Station,54.30917,13.07806,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZSZ,OAG,Swakopmund Rail Station,-22.66944,14.56667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZTD,OAG,Schenectady Rail Station,42.81528,-73.94333,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTE,OAG,Rochester NY Rail Station,43.16278,-77.60917,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTF,OAG,Stamford Rail Station,41.04694,-73.54194,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTG,OAG,Aalborg Rail Station,57.05,9.93333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZTJ,OAG,Princeton/Rocky Hill Jct Rail Station,40.31639,-74.62472,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTK,OAG,Thun Rail Station,46.75,7.61667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZTN,OAG,Philadelphia Trenton Rail Station,40.21861,-74.73306,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTO,OAG,Boston South Rail Station,42.35194,-71.05583,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTQ,TTX,Zone 2 SBB Rail,47.353,7.303,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTT,OAG,Cottbus Rail Station,51.71667,14.35,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZTV,OAG,Sturtevant Rail Station,42.69944,-87.91444,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZTW,OAG,Tsuen Wan Rail Station,22.36667,114.1,800,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZTY,OAG,Boston BKbay Rail Station,42.3475,-71.07694,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZTZ,OAG,Chemnitz Rail Station,50.83333,12.91667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZUA,OAG,Utica Rail Station,43.10389,-75.22444,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZUG,OAG,Harrisburg Rail Station,40.26167,-76.87861,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZUJ,OAG,Zhenjiang Rail Station,32.19889,119.4275,800,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZUK,OAG,Lake Cook Road Rail Station,42.25778,-87.83806,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZUN,OAG,Chicago Rail Station,41.87778,-87.64167,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZVB,OAG,Brumunddal Rail Station,60.8825,10.93639,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZVD,OAG,Drangedal Rail Station,59.09444,9.06417,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZVM,OAG,Hannover Messe/Laatzen RR Stn,52.31667,9.8,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWB,OAG,Newport News/Williamsburg Willb. RR Stn,37.27611,-76.70861,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZWC,OAG,Stavanger Rail Station,58.96722,5.73222,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWD,OAG,Warnemuende Rail Station,54.2,12.08333,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWH,OAG,Windhoek Rail Station,-22.56944,17.10278,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWI,OAG,Wilmington Rail Station,39.73694,-75.55111,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZWJ,OAG,Haugastol Rail Station,60.51139,7.86917,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWM,OAG,Wismar Rail Station,53.9,11.46667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWN,OAG,Wittenberge Rail Station,52.98333,11.75,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWP,OAG,West Palm Beach Tri-Rail Station,26.68611,-80.10278,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWT,OAG,Lutherstadt Wittenberg Rail Station,51.81222,12.80528,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWU,OAG,Washington DC Rail Station,38.8975,-77.00639,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZWV,OAG,Glenview Rail Station,42.12833,-87.81472,-600,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZWW,OAG,Newport News/Williamsburg Newp. RR Stn,37.0225,-76.45167,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZWY,OAG,Rail (Generic) - Belgium,50.83333,4.48333,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZXP,OAG,Perth Rail Station,56.46667,-3.46667,0,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZXS,OAG,Buffalo Xchange St Rail Station,42.93611,-78.73611,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZXU,OAG,Rygge Rail Station,59.38083,10.74972,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZXX,OAG,Rade Rail Station,59.34806,10.86639,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZXY,OAG,The Hague Holland Spoor Rail Station,52.06972,4.32167,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZYB,TTX,SNCB Rail Network,50,4.29,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZYG,OAG,Gjovik Rail Station,60.79722,10.69444,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZYH,OAG,Hague Centraal Rail Station,52.08167,4.32917,100,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZYQ,OAG,Syracuse NY Rail Station,43.07028,-76.03694,-500,t,NULL,NULL,en-us,f,NULL,t,NULL
+ZYS,OAG,Sandefjord Rail Station,59.13333,10.22472,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZYV,OAG,Vegarshei Rail Station,58.75972,8.85306,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZYW,OAG,Sandvika Rail Station,59.88778,10.525,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZYY,OAG,Marnardal Rail Station,58.22139,7.52056,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZZC,OAG,New Carrollton Rail Station,38.96667,-76.86667,-500,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZZG,OAG,Fict Point/AA German Rail Station,50.83333,10.16667,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+ZZN,OAG,Oslo Nationaltheatret Rail Station,59.91472,10.75583,100,t,NULL,NULL,en-us,f,NULL,f,NULL
+BNJ,OAG,"Cologne/Bonn, Bonn Hbf Rail Station",50.73333,7.1,100,t,f,6,en-us,f,fcfcdd66-c5f6-418c-adfa-3e3096e925ce,f,NULL
+BRF,OAG,Leeds/Bradford Forster Sq Rail Station,53.80278,-1.75,0,t,f,6,en-us,f,d795199f-efc1-4a0d-85c7-0418e8302438,f,NULL
+BSH,OAG,Brighton Rail Station,50.82917,-0.14083,0,t,f,6,en-us,f,785749ab-dff8-4ddc-8cd0-01c193321f5d,t,NULL
+DUI,OAG,Duisburg Hbf Rail Station,51.43,6.77389,100,t,t,6,en-us,f,11c9d143-dfd2-47bb-a68b-101a2eb32910,t,NULL
+EEM,OAG,Albacete Rail Station,38.99944,-1.84833,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+EEP,OAG,Pamplona Rail Station,42.82528,-1.66167,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+EER,OAG,Reus Rail Station,41.16056,1.10028,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+HLY,OAG,Holyhead Rail Station,53.31667,-4.63333,0,t,f,6,en-us,f,e9158a94-10a9-4cf9-8d2d-eb9b3d50cde2,f,NULL
+IBT,OAG,Bologna Central Rail Station,44.50611,11.34333,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+IMR,OAG,Milan Rogoredo Rail Station,45.43333,9.23833,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+INP,OAG,Naples Central Rail Station,40.85222,14.27306,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+IPR,OAG,Milan Porta Garibaldi Rail Station,45.48472,9.18778,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+IPW,OAG,Ipswich Rail Station,52.03333,1.2,0,t,f,6,en-us,f,73e6b49e-3f29-404f-a2bd-a35f62099b3b,f,NULL
+IRR,OAG,Rome Ostiense Rail Station,41.87222,12.48472,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+IRT,OAG,Rome Tiburtina Rail Station,41.91056,12.53056,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+ISR,OAG,Salerno Rail Station,40.67528,14.77222,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+ITT,OAG,Turin Porta Susa Rail Station,45.06194,7.67833,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+JQO,OAG,Moscow Belorussky Rail Station,55.77639,37.58028,300,t,f,6,en-us,f,7a3bddba-f50b-4c9c-a602-1a4e0bc5b479,f,NULL
+KYN,OAG,Milton Keynes Central Rail Station,52.03417,-0.77444,0,t,f,6,en-us,f,56ecdf6d-b26b-457a-9f17-4a68b12d96fc,t,NULL
+NYP,TTX,Amtrak (New York Penn Station),40.749679,-73.991867,-500,t,f,6,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9,t,NULL
+QDU,OAG,Duesseldorf Hbf Rail Station,51.22028,6.79306,100,t,t,6,en-us,f,56762a25-9b52-4c1e-b9a5-a8b86fda7b69,t,NULL
+QFZ,OAG,Saarbruecken HBF Rail Station,49.24083,6.99083,100,t,f,6,en-us,f,01a0a4bf-a77a-4bae-aba5-81447fb41257,f,NULL
+QJZ,OAG,Nantes Rail Station,47.21778,-1.54194,100,t,t,6,en-us,f,904c727e-d4e7-49d3-ab13-1addb7a8f15b,t,NULL
+QKL,OAG,"Cologne/Bonn, Cologne Hbf Rail Station",50.94333,6.95833,100,t,t,6,en-us,f,331f6dbc-37cb-4e43-80eb-598c535868fd,t,NULL
+QNQ,OAG,Nijmegen Rail Station,51.84333,5.8525,100,t,t,6,en-us,f,2d11342e-9efa-4caa-b422-a108e3301f00,t,NULL
+QQH,OAG,Harwich Town Rail Station,51.95,1.28333,0,t,f,6,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,f,NULL
+QQK,OAG,London Kings Cross Rail Station,51.53333,-0.11667,0,t,f,6,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,f,NULL
+QQM,OAG,Manchester Piccadilly Rail Station,53.46667,-2.23333,0,t,f,6,en-us,f,e5d34f60-dbed-4954-8275-4ee4034fc82d,f,NULL
+QQN,OAG,Birmingham New Street Rail Station,52.46667,-1.91667,0,t,f,6,en-us,f,003d9b52-bcdc-4731-9e3e-c99cb265cd0b,f,NULL
+QQP,OAG,London Paddington Rail Station,51.51722,-0.17778,0,t,f,6,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,t,NULL
+QQU,OAG,London Euston Rail Station,51.52917,-0.13472,0,t,f,6,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,t,NULL
+QQW,OAG,London Waterloo Rail Station,51.5,-0.11667,0,t,f,6,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,f,NULL
+QQX,OAG,Bath Spa Rail Station,51.37778,-2.35722,0,t,f,6,en-us,f,6f6dcfe8-8530-48b9-999f-ba0311a3ade1,t,NULL
+QQY,OAG,York Rail Station,53.96667,-1.08333,0,t,f,6,en-us,f,9a45d9ca-941d-4813-95d1-ce448a9cf24d,f,NULL
+QRH,OAG,Rotterdam Centraal Rail Station,51.92417,4.47028,100,t,t,6,en-us,f,dc1e00a9-f776-4cf8-bf79-5d38a7b75518,t,NULL
+QXG,OAG,Angers Rail Station,47.46472,-0.55694,100,t,t,6,en-us,f,526713d2-66de-48ff-963d-a235b0455b52,t,NULL
+QYU,OAG,Gavle C Rail Station,60.67611,17.15083,100,t,f,6,en-us,f,11ee5bad-4e6f-4b3b-9120-2f7f55ddeaa8,t,NULL
+XAD,OAG,Churchill Rail Station,58.76694,-94.1725,-600,t,f,6,en-us,f,a6d5e51e-3115-4910-9ab4-0298d28becb5,t,NULL
+XAW,OAG,Capreol Rail Station,46.71083,-80.92833,-500,t,f,6,en-us,f,4fe5b613-0fb5-4128-bcb1-97731f80f4dd,f,NULL
+XAX,OAG,Montreal Dorval Rail Station,45.44889,-73.74139,-500,t,f,6,en-us,f,eaddadf6-9085-4b25-9129-e47efcf9fe82,t,NULL
+XAZ,OAG,Campbellton Rail Station,48.00361,-66.68833,-400,t,f,6,en-us,f,dc88a363-b83a-4e54-8d60-fce878ede274,f,NULL
+XCI,OAG,Chambord Rail Station,48.43333,-72.06667,-500,t,f,6,en-us,f,a8002a73-80fd-40ae-bdb2-7591e3951b6a,f,NULL
+XDB,OAG,Lille Europe Rail Station,50.63889,3.07611,100,t,t,6,en-us,f,f092ddc6-97a9-4cb6-9e8f-5651868f799c,t,NULL
+XDD,OAG,Gaspe Rail Station,48.86667,-64.5,-500,t,f,6,en-us,f,f26a8ce6-a719-4a0b-a1e1-0d0667ad75a6,f,NULL
+XDG,OAG,Halifax Rail Station,44.63889,-63.56833,-400,t,f,6,en-us,f,b0bdbc37-93dc-4ead-a4ba-437500a070bb,t,NULL
+XDH,OAG,Jasper Rail Station,52.87639,-118.07889,-700,t,f,6,en-us,f,df238326-31dc-408c-98f8-d422cd5af7b1,t,NULL
+XDL,OAG,Chandler Rail Station,48.35,-64.68333,-500,t,f,6,en-us,f,72863074-892e-4a83-985e-03dd7f2f0078,f,NULL
+XDM,OAG,Drummondville Rail Station,45.8825,-72.4875,-500,t,f,6,en-us,f,efec2734-3b81-41cc-b6f3-6d42122341cc,f,NULL
+XDO,OAG,Grande-Riviere Rail Station,48.4,-64.5,-500,t,f,6,en-us,f,397299d7-ff50-4915-8e1d-bfa3773ec5fb,f,NULL
+XDP,OAG,Moncton Rail Station,46.08361,-64.78556,-400,t,f,6,en-us,f,dd63864d-6ebb-4890-8469-c54a5983e09a,t,NULL
+XDQ,OAG,London Rail Station,43.03611,-81.15278,-500,t,f,6,en-us,f,f7c0fc12-cd68-4fbd-afef-dadc12e6041b,t,NULL
+XDS,OAG,Ottawa Rail Station,45.31944,-75.66944,-500,t,t,6,en-us,f,69def18a-7a88-4538-9889-544b2f80e88c,t,NULL
+XDU,OAG,Hervey Rail Station,45.85,-72.46667,-500,t,f,6,en-us,f,4f7e2665-5101-45bb-8951-6e232dc6bdd1,f,NULL
+XDV,OAG,Prince George Rail Station,53.92167,-122.75306,-800,t,f,6,en-us,f,53ebd49c-1a48-44b4-8cf0-385b22c49c78,t,NULL
+XDW,OAG,Prince Rupert Rail Station,54.30778,-130.33444,-800,t,f,6,en-us,f,c5770a68-5b27-4760-b79d-ad8274de6810,t,NULL
+XDX,OAG,Sarnia Rail Station,42.9575,-82.38917,-500,t,f,6,en-us,f,cbfb4cab-0f1b-473a-b3bc-83e7989c098e,t,NULL
+XDY,OAG,Sudbury Jct Rail Station,46.61944,-80.80278,-500,t,f,6,en-us,f,c4fe11e7-ea12-4051-bc92-e32ad054f1bc,t,NULL
+XDZ,OAG,The Pas Rail Station,53.825,-101.24778,-600,t,f,6,en-us,f,faab922c-342e-4f72-823e-08e65a2a2564,t,NULL
+XEA,OAG,Vancouver Rail Station,49.27167,-123.09833,-800,t,f,6,en-us,f,ce4a9fc3-4b71-4cf7-a885-96e17794597f,t,NULL
+XEC,OAG,Windsor Rail Station,42.32528,-83.00833,-500,t,f,6,en-us,f,6d5932c4-3af0-4915-a159-c6e58fbea613,t,NULL
+XEE,OAG,Lac Edouard Rail Station,47.65,-72.26667,-500,t,f,6,en-us,f,4d374c3d-cf6b-4f52-975a-44e964626db9,f,NULL
+XEF,OAG,Winnipeg Union Rail Station,49.88917,-97.13444,-600,t,f,6,en-us,f,9d76845c-e27d-4614-81bd-95240232f123,t,NULL
+XEG,OAG,Kingston Rail Station,44.25722,-76.53694,-500,t,f,6,en-us,f,ce79370e-1924-4ecd-a5cf-696df6711190,t,NULL
+XEH,TTX,Ladysmith Rail Station,48.98333,-123.800003,-800,t,f,6,en-us,f,c83ac9d0-3929-484a-bad5-d19762b99fef,t,NULL
+XEJ,TTX,Langford Rail Station,48.433331,-123.48333,-800,t,f,6,en-us,f,59f6f76c-ee58-4609-b3a4-3ef9ccea0734,t,NULL
+XEK,OAG,Melville Rail Station,50.92278,-102.80278,-600,t,f,6,en-us,f,180c8d1d-b2bc-4110-8fbe-b11a4199cb8f,f,NULL
+XEL,OAG,New Carlisle Rail Station,48.01667,-65.33333,-500,t,f,6,en-us,f,216e218a-36e7-4ba8-87d2-86b5d8e05855,f,NULL
+XEM,OAG,New Richmond Rail Station,48.33333,-65.83333,-500,t,f,6,en-us,f,42ea7109-e3de-423f-9e29-096ab82f94d3,f,NULL
+XEV,OAG,Stockholm C Rail Station,59.33056,18.05889,100,t,f,6,en-us,f,2b2ee19f-823a-4f23-8ede-51cec33b11d7,t,NULL
+XEW,OAG,Stockholm Flemingsberg Rail Station,59.21667,17.95,100,t,f,6,en-us,f,2b2ee19f-823a-4f23-8ede-51cec33b11d7,f,NULL
+XEY,OAG,Miramichi Rail Station,47,-65.56667,-400,t,f,6,en-us,f,0ac1c7ed-cf58-4bf2-8f69-77630e761449,f,NULL
+XEZ,OAG,Sodertalje S Rail Station,59.15,17.63333,100,t,f,6,en-us,f,f1114405-5843-4459-aa77-c9a72ff2d448,f,NULL
+XFD,OAG,Stratford Rail Station,43.36472,-80.97667,-500,t,f,6,en-us,f,8acf8258-3ddc-4485-87e0-2f6f23aef3e2,f,NULL
+XFE,OAG,Parent Rail Station,47.91667,-74.61667,-500,t,f,6,en-us,f,9038b3e3-a43f-4ffa-bab4-b0f7656f0b5b,f,NULL
+XFG,OAG,Perce Rail Station,48.46667,-64.31667,-500,t,f,6,en-us,f,61d5db49-bd73-4c7f-b6fb-19168a2d2d50,f,NULL
+XFI,OAG,Port-Daniel Rail Station,48.18333,-64.96667,-500,t,f,6,en-us,f,ff68ed7c-11b9-44bd-b6b5-e89cf9d40c82,f,NULL
+XFJ,OAG,Eskilstuna C Rail Station,59.36944,16.50639,100,t,f,6,en-us,f,f666dc2b-109c-4811-9251-899b8ae10b88,f,NULL
+XFK,OAG,Senneterre Rail Station,48.39333,-77.24722,-500,t,f,6,en-us,f,6be2ce2c-d69c-4a47-95c8-96462c65de89,t,NULL
+XFL,OAG,Shawinigan Rail Station,46.55,-72.75,-500,t,f,6,en-us,f,6e40e057-071c-4e68-b14a-319d53cdf89e,f,NULL
+XFM,TTX,Shawnigan Rail Station,48.650002,-123.616669,-800,t,f,6,en-us,f,98812fd6-86e7-48fe-90da-b9d8aae0b39f,t,NULL
+XFO,TTX,Taschereau Rail Service,48.4,-78.4,-500,t,f,6,en-us,f,ec40ea55-9232-4ace-9d12-8f5041f71548,t,NULL
+XFP,OAG,Malmo C Rail Station,55.60917,12.99972,100,t,f,6,en-us,f,4ee665ce-d392-4604-a4ef-7ca1dbe75aa1,f,NULL
+XFQ,OAG,Weymont Rail Station,47.9,-73.75,-500,t,f,6,en-us,f,2e01dac7-e798-498c-a61b-82f5fcb85b9c,f,NULL
+XFR,OAG,Malmo Syd Rail Station,55.54833,12.99111,100,t,f,6,en-us,f,4ee665ce-d392-4604-a4ef-7ca1dbe75aa1,f,NULL
+XFS,OAG,Alexandria Rail Station,45.31806,-74.63972,-500,t,f,6,en-us,f,f16e33f3-a213-4b8f-a199-059944020a41,f,NULL
+XFU,OAG,Tierp Rail Station,60.33333,17.5,100,t,f,6,en-us,f,11ee5bad-4e6f-4b3b-9120-2f7f55ddeaa8,f,NULL
+XFV,OAG,Brantford Rail Station,43.14667,-80.26583,-500,t,f,6,en-us,f,84d8abef-748a-4080-bcfb-2a82c9844ca8,f,NULL
+XFY,OAG,Quebec Ste Foy Rail Station,46.75444,-71.29778,-500,t,f,6,en-us,f,8e60f5f9-823a-468e-bf50-8f06c674dea6,t,NULL
+XFZ,OAG,Quebec Charny Rail Station,46.71667,-71.26667,-500,t,f,6,en-us,f,8e60f5f9-823a-468e-bf50-8f06c674dea6,f,NULL
+XGC,OAG,Lund C Rail Station,55.70528,13.18722,100,t,f,6,en-us,f,ed043aa2-4d21-4c35-94b8-1477e7bd032a,f,NULL
+XGD,OAG,Arendal Rail Station,58.465,8.77056,100,t,f,6,en-us,f,67a1546b-3da7-4d3d-8733-69f6b9203c4a,f,NULL
+XGI,OAG,Andalsnes Rail Station,62.56694,7.69028,100,t,f,6,en-us,f,e4fdbf3a-83d8-4b14-9601-c6e738e3469c,f,NULL
+XGJ,OAG,Cobourg Rail Station,43.96806,-78.17083,-500,t,f,6,en-us,f,d84d3740-ade8-4595-9ee3-f0b4ac431f81,t,NULL
+XGK,OAG,Coteau Rail Station,45.27472,-74.23306,-500,t,f,6,en-us,f,69b763ce-1ab7-4d10-9638-08bd9958a238,f,NULL
+XGM,OAG,Grantham Rail Station,52.91667,-0.65,0,t,f,6,en-us,f,78403770-3d65-43a0-a945-dec2e358457b,f,NULL
+XGP,OAG,Dombas Rail Station,62.06833,9.12556,100,t,f,6,en-us,f,c008ea45-8c4d-4651-8a03-9cbd74bce14a,f,NULL
+XGU,OAG,Asker Rail Station,59.83361,10.43222,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XGW,OAG,Gananoque Rail Station,44.36667,-76.16667,-500,t,f,6,en-us,f,a97bc79b-7ee2-4ca9-8fdb-53e3f85b34a4,f,NULL
+XGY,OAG,Grimsby Rail Station,43.19639,-79.55833,-500,t,f,6,en-us,f,cb4f73f3-0e2b-48ae-a004-d80e9c230b2c,f,NULL
+XHF,OAG,Honefoss Rail Station,60.16889,10.24722,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XHK,OAG,Valence TGV Rail Station,44.99167,4.97861,100,t,t,6,en-us,f,ff887bd3-b99d-4bd1-8b14-69a6db541cf9,t,NULL
+XHM,OAG,Georgetown Rail Station,43.65556,-79.91917,-500,t,f,6,en-us,f,33f55479-502d-4ee6-b2ca-ba92e1e1db90,f,NULL
+XHN,OAG,Liege Guillemins Rail Station,50.62444,5.56667,100,t,t,6,en-us,f,ff887bd3-b99d-4bd1-8b14-69a6db541cf9,t,NULL
+XHS,OAG,Chemainus Rail Station,48.92139,-123.71833,-800,t,f,6,en-us,f,69f9a832-c468-404d-bf88-039e88323f85,f,NULL
+XIA,OAG,Guelph Central Rail Station,43.55,-80.25,-500,t,f,6,en-us,f,a0e6f2ad-33f8-4071-9384-a89b9c9130cf,f,NULL
+XIB,OAG,Ingersoll Rail Station,43.03333,-80.88333,-500,t,f,6,en-us,f,867b9d95-bc2f-4a09-a933-c81b79c8c27d,f,NULL
+XID,TTX,Maxville Rail Station,45.283329,-74.849998,-500,t,f,6,en-us,f,2001a156-e065-4d58-bee6-02a3729b8960,t,NULL
+XIF,OAG,Napanee Rail Station,44.25,-76.95,-500,t,f,6,en-us,f,4b2caf9d-3118-48cf-92fc-7eca9e1788af,f,NULL
+XII,TTX,Prescott Rail Service,44.43,-75.31,-500,t,f,6,en-us,f,fa4afb59-00c5-4c6a-afff-d2b62ed430f1,t,NULL
+XIK,OAG,Milan Centrale Rail Station,45.48583,9.20444,100,t,f,6,en-us,f,c282e420-3e17-4966-9698-38210ea86d7d,t,NULL
+XIM,OAG,St Hyacinthe Rail Station,45.62778,-72.94917,-500,t,f,6,en-us,f,cbde5b12-238f-42c7-8210-1d0edb89f54b,f,NULL
+XIO,OAG,St Marys Rail Station,43.25,-81.13333,-500,t,f,6,en-us,f,4e692b18-9a8d-4b2d-bf15-7be6474b86e4,f,NULL
+XIP,OAG,Woodstock Rail Station,43.13333,-80.75,-500,t,f,6,en-us,f,095872ac-a9c2-49f5-9c86-81f2fac8b150,f,NULL
+XIT,OAG,Leipzig/Halle Rail Station,51.34583,12.38167,100,t,f,6,en-us,f,11c9d143-dfd2-47bb-a68b-101a2eb32910,f,NULL
+XIU,OAG,Erfurt Rail Station,50.98333,11.03333,100,t,f,6,en-us,f,11c9d143-dfd2-47bb-a68b-101a2eb32910,f,NULL
+XIV,OAG,Valladolid Campo Grande Rail Station,41.64194,-4.72694,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+XIZ,OAG,Reims Champagne-Ardenne TGV Rail Station,49.215,3.99472,100,t,t,6,en-us,f,ff887bd3-b99d-4bd1-8b14-69a6db541cf9,t,NULL
+XJL,OAG,Joliette Rail Station,46.01667,-73.45,-500,t,f,6,en-us,f,718756ba-f0b4-4a02-b58a-07695d8daf41,f,NULL
+XJQ,OAG,Jonquiere Rail Station,48.41222,-71.25444,-500,t,f,6,en-us,f,727682a9-3019-4730-8653-b1e8431d81b8,t,NULL
+XJY,OAG,Paris Massy TGV Rail Station,48.725,2.26056,100,t,t,6,en-us,f,02c9f77e-bb33-40a4-a821-82b2151f8dae,t,NULL
+XKB,OAG,Kongsberg Rail Station,59.67222,9.65,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKC,OAG,Sandnes Rail Station,58.84778,5.73389,100,t,f,6,en-us,f,a8c905ee-7fcb-4a3c-9915-2c6e8c3628fb,f,NULL
+XKD,OAG,Halden Rail Station,59.12,11.38389,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKE,OAG,Rena Rail Station,61.13417,11.36889,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKF,OAG,Fredrikstad Rail Station,59.20889,10.95083,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKG,OAG,Grong Rail Station,64.45833,12.33694,100,t,f,6,en-us,f,634b58e3-078e-4fb8-8d0e-8a6a7401ed48,f,NULL
+XKI,OAG,Lillestrom Rail Station,59.9525,11.04444,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKJ,OAG,Steinkjer Rail Station,64.0125,11.49417,100,t,f,6,en-us,f,634b58e3-078e-4fb8-8d0e-8a6a7401ed48,f,NULL
+XKK,OAG,Larvik Rail Station,59.05,10.02972,100,t,f,6,en-us,f,41c24072-5c93-4cbf-81f6-519dcc9d2ece,f,NULL
+XKM,OAG,Moss Rail Station,59.43194,10.65694,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKN,OAG,Finse Rail Station,60.60194,7.50389,100,t,f,6,en-us,f,e2bccae9-3112-4adf-8288-3f1ca3322d6f,f,NULL
+XKP,OAG,Porsgrunn Rail Station,59.14028,9.65806,100,t,f,6,en-us,f,41c24072-5c93-4cbf-81f6-519dcc9d2ece,f,NULL
+XKQ,OAG,Sarpsborg Rail Station,59.28583,11.11806,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XKR,OAG,Kristiansand Rail Station,58.13861,7.99667,100,t,f,6,en-us,f,67a1546b-3da7-4d3d-8733-69f6b9203c4a,f,NULL
+XKV,OAG,Sackville Rail Station,45.88944,-64.36861,-400,t,f,6,en-us,f,d61ee84a-1227-41a1-9634-4a1ab029555b,t,NULL
+XKZ,OAG,Vinstra Rail Station,61.595,9.74667,100,t,f,6,en-us,f,c008ea45-8c4d-4651-8a03-9cbd74bce14a,f,NULL
+XLJ,OAG,Quebec Rail Station,46.8175,-71.21389,-500,t,f,6,en-us,f,8e60f5f9-823a-468e-bf50-8f06c674dea6,t,NULL
+XLK,OAG,Quebec Levis Rail Station,46.8,-71.18333,-500,t,f,6,en-us,f,8e60f5f9-823a-468e-bf50-8f06c674dea6,f,NULL
+XLM,OAG,St Lambert Rail Station,45.49917,-73.5075,-500,t,f,6,en-us,f,eaddadf6-9085-4b25-9129-e47efcf9fe82,f,NULL
+XLP,OAG,Matapedia Rail Station,47.96667,-66.95,-500,t,f,6,en-us,f,0d2d1c17-3b82-427e-9f74-834ca5e1d7c1,f,NULL
+XLQ,OAG,Guildwood Rail Station,43.755,-79.19833,-500,t,f,6,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b,t,NULL
+XLV,OAG,Niagara Falls Rail Station,43.10889,-79.06361,-500,t,f,6,en-us,f,57985e1f-0c73-4f2c-b713-6e33b234ae46,t,NULL
+XLY,OAG,Aldershot Rail Station,43.31333,-79.85583,-500,t,f,6,en-us,f,fbbe7228-fefe-49a8-a746-719a5fa4c10b,t,NULL
+XLZ,OAG,Truro Rail Station,45.36278,-63.27611,-400,t,f,6,en-us,f,1928129b-a4e0-4f8b-a53e-7f66f90ddfa0,t,NULL
+XNC,OAG,Milan Cadorna Rail Station,45.76667,9.33333,100,t,f,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+XND,OAG,Drammen Rail Station,59.74028,10.20278,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XNM,OAG,Nottingham Rail Station,52.96944,-1.16667,0,t,f,6,en-us,f,1529a3f1-59a5-4349-a9e0-af76e91c6868,f,NULL
+XNO,OAG,Northallerton Rail Station,54.33333,-1.43333,0,t,f,6,en-us,f,15c90c5f-4d2a-4d1c-9908-5e018225783e,f,NULL
+XNV,OAG,Nuneaton Rail Station,52.52611,-1.46472,0,t,f,6,en-us,f,003d9b52-bcdc-4731-9e3e-c99cb265cd0b,f,NULL
+XOD,OAG,Oppdal Rail Station,62.5925,9.69361,100,t,f,6,en-us,f,66b432c6-0ae1-432d-8ad9-4fe917fb7b73,f,NULL
+XOJ,OAG,Cordoba Central Rail Station,37.88833,-4.78944,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+XOK,OAG,Oakville Rail Station,43.45528,-79.68278,-500,t,f,6,en-us,f,ad0380c1-a55c-423f-934b-0ae4fd269726,t,NULL
+XON,OAG,Carleton Rail Station,48.11667,-66.13333,-500,t,f,6,en-us,f,bd288290-95a3-4c6e-8430-4a079aef1e09,f,NULL
+XOP,OAG,Poitiers Rail Station,46.58222,0.33306,100,t,t,6,en-us,f,233e44ed-edce-49a0-a464-257a89ec6b2d,t,NULL
+XOQ,OAG,Sira Rail Station,58.41722,6.66028,100,t,f,6,en-us,f,a8c905ee-7fcb-4a3c-9915-2c6e8c3628fb,f,NULL
+XOR,OAG,Otta Rail Station,61.77194,9.53667,100,t,f,6,en-us,f,c008ea45-8c4d-4651-8a03-9cbd74bce14a,f,NULL
+XPB,TTX,Parksville Rail Station,49.299999,-124.316673,-800,t,f,6,en-us,f,c54c93cf-ec08-423a-821d-fadf40c515c4,t,NULL
+XPF,OAG,Penrith Rail Station,54.66667,-2.73333,0,t,f,6,en-us,f,ab5bd8b2-d46b-4b06-af81-08034f658eb2,f,NULL
+XPG,OAG,Paris Gare du Nord Rail Station,48.88083,2.35528,100,t,t,6,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4,t,NULL
+XPH,OAG,Port Hope Rail Station,43.95,-78.3,-500,t,f,6,en-us,f,4e6bcdc9-342d-4d9e-8cf1-4cb179c18159,f,NULL
+XPJ,OAG,Montpellier St-Roch Rail Station,43.60472,3.88111,100,t,t,6,en-us,f,b387bc2c-a61d-4d34-bb65-55e2b8a2d3ea,t,NULL
+XPN,OAG,Brampton Rail Station,43.68333,-79.76667,-500,t,f,6,en-us,f,0e400595-8a7d-4e3e-9c89-226a21cdf727,f,NULL
+XPT,OAG,Preston Rail Station,53.75556,-2.70722,0,t,f,6,en-us,f,08119df5-f937-451f-b2f1-cc980bc35a96,t,NULL
+XPX,OAG,Pointe-Aux-Trembles Rail Station,45.65,-73.5,-500,t,f,6,en-us,f,85be157a-2f77-4435-b779-7a6ea8977c59,f,NULL
+XQA,OAG,Sevilla Santa Justa Rail Station,37.39417,-5.97417,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+XQG,OAG,Berwick-Upon-Tweed Rail Station,55.76667,-2,0,t,f,6,en-us,f,9b7f00aa-ea71-4c55-ab9d-a9003ef8dd99,f,NULL
+XQL,OAG,Lancaster Rail Station,54.04889,-2.80778,0,t,f,6,en-us,f,35994d37-da2f-4cd8-ae89-76a480c8bfc8,t,NULL
+XRC,OAG,Runcorn Rail Station,53.33333,-2.73333,0,t,f,6,en-us,f,cbe33167-a083-45ae-9e37-d3691f5f8a0a,f,NULL
+XRD,OAG,Egersund Rail Station,58.46083,6.00306,100,t,f,6,en-us,f,a8c905ee-7fcb-4a3c-9915-2c6e8c3628fb,f,NULL
+XRF,OAG,Marseille St Charles Rail Station,43.30278,5.38083,100,t,t,6,en-us,f,82604466-43a9-480b-a889-6131ca938b19,t,NULL
+XRP,OAG,Riviere-A-Pierre Rail Station,46.98333,-72.18333,-500,t,f,6,en-us,f,6c0650c4-f00a-486a-bf22-b1dfcff7eb6a,f,NULL
+XRU,OAG,Rugby Rail Station,52.38333,-1.25,0,t,f,6,en-us,f,28056c3d-ace4-4a2f-bf6c-5423b2356f8c,f,NULL
+XSH,OAG,Tours St-Pierre-Corps Rail Station,47.38944,0.69389,100,t,t,6,en-us,f,dafc8bd0-5ca7-41bd-8718-902c5a8a6f54,t,NULL
+XSR,OAG,Salisbury Rail Station,51.08333,-1.8,0,t,f,6,en-us,f,cd161d5f-83c8-4bac-9d23-1312c074787f,f,NULL
+XTK,OAG,Thirsk Rail Station,54.23333,-1.33333,0,t,f,6,en-us,f,da1c215b-4e20-40e1-a639-00c4a7eb92f0,f,NULL
+XTY,OAG,Strathroy Rail Station,42.95,-81.63333,-500,t,f,6,en-us,f,6a7a7795-7206-43a6-9bc1-c6632a34452d,f,NULL
+XUT,OAG,Murcia Rail Station,37.975,-1.13167,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+XVA,OAG,Stockport Rail Station,53.41667,-2.16667,0,t,f,6,en-us,f,4fb0307d-0c8b-4c92-a13e-bab43fb99162,f,NULL
+XVB,OAG,Stafford Rail Station,52.8,-2.11667,0,t,f,6,en-us,f,003d9b52-bcdc-4731-9e3e-c99cb265cd0b,f,NULL
+XVC,OAG,Crewe Rail Station,53.08944,-2.43306,0,t,f,6,en-us,f,e5d34f60-dbed-4954-8275-4ee4034fc82d,t,NULL
+XVG,OAG,Darlington Rail Station,54.51667,-1.56667,0,t,f,6,en-us,f,15c90c5f-4d2a-4d1c-9908-5e018225783e,f,NULL
+XVH,OAG,Peterborough Rail Station,52.58333,-1.25,0,t,f,6,en-us,f,d94ea114-b581-4730-aacf-bbb0e3bcb354,f,NULL
+XVJ,OAG,Stevenage Rail Station,51.91667,-0.23333,0,t,f,6,en-us,f,1298ac98-79d2-472e-a5a0-28d54329ae97,f,NULL
+XVK,OAG,Voss Rail Station,60.62917,6.41,100,t,f,6,en-us,f,e2bccae9-3112-4adf-8288-3f1ca3322d6f,f,NULL
+XVQ,OAG,Venice Santa Lucia Rail Station,45.44111,12.32111,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,t,NULL
+XVU,OAG,Durham Rail Station,54.78333,-1.56667,0,t,f,6,en-us,f,cf4d5caa-a5c3-41b8-9fa4-736a3c90e81a,f,NULL
+XVV,OAG,Belleville Rail Station,44.17944,-77.375,-500,t,f,6,en-us,f,6d9e3a13-85b9-47d9-a681-c9653efb7c91,t,NULL
+XVW,OAG,Wolverhampton Rail Station,52.6,-2.13333,0,t,f,6,en-us,f,354e44d8-655a-471e-b41f-9e6963b53df0,f,NULL
+XVY,OAG,Venice Mestre Rail Station,45.4825,12.23222,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,t,NULL
+XWA,TTX,Watford Rail Station,42.57,-81.53,-500,t,f,6,en-us,f,ffd398fe-6e93-4558-97a6-f0a171a70cf8,t,NULL
+XWD,OAG,Wakefield Westgate Rail Station,53.7,-1.48333,0,t,f,6,en-us,f,52dd61e4-3d4b-4b16-9034-9f8315ed4668,f,NULL
+XWG,OAG,Strasbourg Rail Station,48.585,7.73444,100,t,t,6,en-us,f,50bb52fb-26aa-4e87-ab29-35c9e781690b,t,NULL
+XWH,OAG,Stoke-on-Trent Rail Station,53,-2.16667,0,t,f,6,en-us,f,d0e69fae-2247-408b-970b-5ce5f4c7b86b,f,NULL
+XWL,OAG,Goteborg C Rail Station,57.70861,11.97333,100,t,f,6,en-us,f,663539cb-9c91-4871-9b84-f1ffaa38e5d0,f,NULL
+XWM,OAG,Hallsberg Rail Station,59.06694,15.11111,100,t,f,6,en-us,f,6d6c30cc-3ada-45b6-8c89-7b74bb7c2a05,f,NULL
+XWN,OAG,Warrington B.Q. Rail Station,53.4,-2.61667,0,t,f,6,en-us,f,3edc6c45-a8bb-4a63-bb92-4d610151294e,f,NULL
+XWP,OAG,Hassleholm Rail Station,56.15778,13.76361,100,t,f,6,en-us,f,c2482b31-ac28-486f-8c21-14b0b1408f0d,f,NULL
+XWQ,OAG,Enkoping Rail Station,59.64444,17.08833,100,t,f,6,en-us,f,682d5dd9-0d10-4f0a-ad2b-4aca80ef99fe,f,NULL
+XWR,OAG,Orebro C Rail Station,59.27861,15.21194,100,t,f,6,en-us,f,6d6c30cc-3ada-45b6-8c89-7b74bb7c2a05,f,NULL
+XWV,OAG,Varberg Rail Station,57.10944,12.24889,100,t,f,6,en-us,f,e600eab0-276f-4c8e-bccf-2ffcbd942601,f,NULL
+XWY,OAG,Wyoming Rail Station,42.95,-82.11667,-500,t,f,6,en-us,f,9a583248-dc37-4076-901a-e1ad5e458c7a,f,NULL
+XXD,OAG,Degerfors Rail Station,59.22889,14.43972,100,t,f,6,en-us,f,6d6c30cc-3ada-45b6-8c89-7b74bb7c2a05,f,NULL
+XXL,OAG,Lillehammer Rail Station,61.11472,10.46083,100,t,f,6,en-us,f,bcf87680-a72c-4e1c-bdf6-c1b7920afc24,f,NULL
+XXM,OAG,Mjolby Rail Station,58.32306,15.13194,100,t,f,6,en-us,f,362698cc-d06f-4ce8-9a86-5942e25637d5,f,NULL
+XXO,OAG,Leksand Rail Station,60.73389,15.00278,100,t,f,6,en-us,f,603d707e-3923-4e33-8635-882a99045e75,t,NULL
+XXU,OAG,Hedemora Rail Station,60.27417,15.98056,100,t,f,6,en-us,f,603d707e-3923-4e33-8635-882a99045e75,t,NULL
+XXY,OAG,Ronneby/Karlskrona Rail Station,56.20722,15.28306,100,t,f,6,en-us,f,96b6cf6a-e4d2-4cd8-b9bb-fb4aaa651550,f,NULL
+XXZ,OAG,Sundsvall/Harnosand C Rail Station,62.38667,17.31611,100,t,f,6,en-us,f,9b5c3850-812a-4a76-b7c2-62d417f5255b,t,NULL
+XYB,OAG,Borlange Rail Station,60.48306,15.42639,100,t,f,6,en-us,f,603d707e-3923-4e33-8635-882a99045e75,t,NULL
+XYC,OAG,Herrljunga Rail Station,58.07889,13.02139,100,t,f,6,en-us,f,2936ac45-c912-4875-ae50-a0c7ec5931dc,f,NULL
+XYD,OAG,Lyon Part-Dieu Rail Station,45.76056,4.85944,100,t,t,6,en-us,f,89e78930-813a-4596-ac91-d3429a47256e,t,NULL
+XYF,OAG,Falkoping C Rail Station,58.17583,13.55167,100,t,f,6,en-us,f,2936ac45-c912-4875-ae50-a0c7ec5931dc,f,NULL
+XYH,OAG,Angelholm/Helsingborg C Rail Station,56.04306,12.69556,100,t,f,6,en-us,f,c2482b31-ac28-486f-8c21-14b0b1408f0d,f,NULL
+XYK,OAG,Norrkoping C Rail Station,58.59667,16.18361,100,t,f,6,en-us,f,02bcd6b5-39d7-45b4-85ad-fb775467a083,t,NULL
+XYM,OAG,Falkenberg Rail Station,56.90194,12.4875,100,t,f,6,en-us,f,e600eab0-276f-4c8e-bccf-2ffcbd942601,f,NULL
+XYN,OAG,Kristinehamn Rail Station,59.31667,14.14167,100,t,f,6,en-us,f,9eaa87c9-0c6e-48b3-bfe8-288c8e6cdb64,f,NULL
+XYO,OAG,Karlshamn Rail Station,56.17694,14.86806,100,t,f,6,en-us,f,96b6cf6a-e4d2-4cd8-b9bb-fb4aaa651550,f,NULL
+XYP,OAG,Avesta Krylbo Rail Station,60.12972,16.21694,100,t,f,6,en-us,f,603d707e-3923-4e33-8635-882a99045e75,t,NULL
+XYU,OAG,Solvesborg Rail Station,56.05,14.58278,100,t,f,6,en-us,f,c832d622-d374-4382-9fcd-df58189afe5c,f,NULL
+XYX,OAG,Sala Rail Station,59.925,16.60667,100,t,f,6,en-us,f,72d0a039-c2dc-4ba3-9ea5-7be79f3c69a6,t,NULL
+XYY,OAG,Arvika Rail Station,59.65361,12.59111,100,t,f,6,en-us,f,a9193a2c-f513-4326-b9e0-afbed04cd429,f,NULL
+XYZ,OAG,Sundsvall/Harnosand Rail Station,62.63528,17.92861,100,t,f,6,en-us,f,9b5c3850-812a-4a76-b7c2-62d417f5255b,f,NULL
+XZB,OAG,Casselman Rail Station,45.31667,-75.08333,-500,t,f,6,en-us,f,d1ea3547-3efd-447a-8b14-9f5fb0fb3479,f,NULL
+XZC,OAG,Glencoe Rail Station,42.76667,-81.73333,-500,t,f,6,en-us,f,713e1d39-1e32-4f00-a22a-9da9573531f1,f,NULL
+XZI,OAG,Metz/Nancy Lorraine TGV Rail Station,48.9475,6.16972,100,t,t,6,en-us,f,5e143cc2-463c-4b55-a506-7e64a6f359c3,t,NULL
+XZK,OAG,Amhurst Rail Station,45.83333,-64.2,-400,t,f,6,en-us,f,3819163c-d7b2-40d2-a284-5657ac612a55,f,NULL
+XZL,OAG,Edmonton Rail Station,53.58222,-113.52583,-700,t,f,6,en-us,f,84e06e27-d561-4468-a381-4002b092e6fd,t,NULL
+XZN,OAG,Avignon TGV Rail Station,43.92167,4.78583,100,t,t,6,en-us,f,6a6f6e36-a184-4165-aab5-50ed384a4929,t,NULL
+XZO,OAG,Oslo S Rail Station,59.91056,10.75278,100,t,f,6,en-us,f,9e0ee7c4-fe26-4c3d-b58e-6040da6de3b5,f,NULL
+XZT,OAG,Trondheim S Rail Station,63.43611,10.3975,100,t,f,6,en-us,f,66b432c6-0ae1-432d-8ad9-4fe917fb7b73,f,NULL
+XZV,OAG,Toulon/Hyeres Rail Station,43.12833,5.92972,100,t,t,6,en-us,f,16b651b1-ded3-40fb-901b-e03d29e0b31d,t,NULL
+XZZ,OAG,Zaragoza Delicias Rail Station,41.65139,-0.895,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+YBZ,OAG,Toronto Downtown Rail Station,43.64528,-79.38083,-500,t,f,6,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b,t,NULL
+YJE,OAG,Alicante Rail Station,38.34472,-0.49583,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+YJM,OAG,Malaga Rail Station,36.71139,-4.43278,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+YJV,OAG,Valencia Rail Station,39.46667,-0.37722,100,t,t,6,en-us,f,c0a4c160-a106-41bc-9e73-baf241142f51,t,NULL
+YMY,OAG,Montreal Downtown Rail Station,45.5,-73.56667,-500,t,f,6,en-us,f,eaddadf6-9085-4b25-9129-e47efcf9fe82,t,NULL
+ZAQ,OAG,Nuremberg Rail Station,49.445,11.0825,100,t,t,6,en-us,f,0d0846de-95e2-4df6-8150-060f99e8f5e2,t,NULL
+ZBA,OAG,Basel Bad Rail Station,47.56778,7.60833,100,t,f,6,en-us,f,0c7f08c2-7739-4e37-b550-7d152897a5da,f,NULL
+ZBQ,OAG,Odense Rail Station,55.4,10.38333,100,t,f,6,en-us,f,a7a03b4f-a23b-4aae-b3ee-79c529b4e875,f,NULL
+ZDH,OAG,Basel/Mulhouse SBB Rail Station,47.54778,7.58972,100,t,t,6,en-us,f,0c7f08c2-7739-4e37-b550-7d152897a5da,t,NULL
+ZDJ,OAG,Berne Rail Station,46.91944,7.5,100,t,f,6,en-us,f,f856a551-d518-4e44-8eed-5e2b8d627919,f,NULL
+ZDU,OAG,Dundee Rail Station,56.46667,-2.96667,0,t,f,6,en-us,f,20347ec9-7e6e-4132-8e30-7f9ad5ff9f41,f,NULL
+ZEP,OAG,London Victoria Rail Station,51.495,-0.14472,0,t,f,6,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,t,NULL
+ZFJ,OAG,Rennes Rail Station,48.10333,-1.6725,100,t,t,6,en-us,f,34ed7589-de6d-4ec7-8b8a-57156ae1edf0,t,NULL
+ZFQ,OAG,Bordeaux St-Jean Rail Station,44.81778,-0.56167,100,t,t,6,en-us,f,42162931-d6d6-4e6d-9269-7a236fdb485b,t,NULL
+ZGG,OAG,Glasgow Central Rail Station,55.85944,-4.25806,0,t,f,6,en-us,f,e88d6754-f5e7-483e-b9a8-8368f0ea91c8,t,NULL
+ZGH,OAG,Copenhagen H Rail Station,55.67278,12.56444,100,t,f,6,en-us,f,d07e8bda-5c46-4057-8424-db79d97d75c4,f,NULL
+ZIV,OAG,Inverness Rail Station,57.45,-4.25,0,t,f,6,en-us,f,820e7fe8-3eff-421f-a05f-fd514e453651,f,NULL
+ZLN,OAG,Le Mans Rail Station,47.99583,0.19194,100,t,t,6,en-us,f,a32f5385-c0ed-4612-b5a2-bc20771cc79e,t,NULL
+ZLP,OAG,Zurich HB Rail Station,47.37778,8.54056,100,t,t,6,en-us,f,25bbd082-e567-4cea-8d0a-579b620d39c6,t,NULL
+ZLS,OAG,London Liverpool Street Rail Station,51.51806,-0.08278,0,t,f,6,en-us,f,3edc6c45-a8bb-4a63-bb92-4d610151294e,t,NULL
+ZMB,OAG,Hamburg Hbf Rail Station,53.55306,10.00667,100,t,t,6,en-us,f,5862c1d2-b7ea-4c73-8ac9-cf80a516b857,t,NULL
+ZMS,OAG,Florence S.M. Novella Rail Station,43.77639,11.24806,100,t,t,6,en-us,f,97b0b526-2683-4141-ad2c-ad754e423181,f,NULL
+ZMU,OAG,Munich Hbf Rail Station,48.14111,11.55444,100,t,t,6,en-us,f,2cd4e323-09b8-4f0a-833e-631eaab000e4,t,NULL
+ZRB,OAG,Frankfurt Hbf Rail Station,50.10667,8.66306,100,t,f,6,en-us,f,984c5703-7a0a-466c-bac8-d7079b494665,t,NULL
+ZRP,OAG,New York/Newark NJ Penn Rail Station,40.73472,-74.16472,-500,t,t,6,en-us,f,a7b81c53-1763-40b7-9ed7-87bc2cbd9348,t,NULL
+ZVE,OAG,New Haven Rail Station,41.29778,-72.92694,-500,t,t,6,en-us,f,c2eca3ce-74e0-40ae-a0e5-02823dc3d955,t,NULL
+ZVR,OAG,Hannover Hbf Rail Station,52.37722,9.74194,100,t,t,6,en-us,f,337089ad-f0bc-4c09-8aeb-a31919d401db,t,NULL
+ZWE,OAG,Antwerp Central Rail Station,51.21778,4.42083,100,t,t,6,en-us,f,e57cca9f-1889-4e04-a7a2-d7e95693f593,t,NULL
+ZWS,OAG,Stuttgart Hbf Rail Station,48.78361,9.18139,100,t,t,6,en-us,f,0a649baa-5d1a-45ed-9704-b705723d2277,t,NULL
+ZXA,OAG,Aberdeen Rail Station,57.16667,-2.06667,0,t,f,6,en-us,f,684bc95e-7cc8-4ef7-bd96-cf9cac99f0c9,f,NULL
+ZXE,OAG,Edinburgh Waverley Rail Station,55.95222,-3.18944,0,t,f,6,en-us,f,d1a7b28a-1d02-4b47-bf0e-92454cda4a34,t,NULL
+ZXM,OAG,Rognan Rail Station,67.11667,15.41667,100,t,f,6,en-us,f,9cd11973-69cf-4d86-9c2d-cf0e8635ed23,f,NULL
+ZXO,OAG,Fauske Rail Station,67.28333,15.41667,100,t,f,6,en-us,f,5caf558f-d560-4ebe-a3c7-94a45ab32189,f,NULL
+ZYA,OAG,Amsterdam Central Rail Station,52.37889,4.90056,100,t,t,6,en-us,f,dc1e00a9-f776-4cf8-bf79-5d38a7b75518,t,NULL
+ZYE,OAG,Eindhoven Rail Station,51.43333,5.46667,100,t,f,6,en-us,f,0b2cc351-07f5-4151-85bc-17abc677cfde,f,NULL
+ZYM,OAG,Arnhem Rail Station,51.98333,5.91667,100,t,f,6,en-us,f,7e688a03-9d51-4115-84c9-3a2fb3138c08,f,NULL
+ZYN,OAG,Nimes Rail Station,43.8325,4.36639,100,t,t,6,en-us,f,c6f456a2-a8e6-439a-b889-9a6eef556868,t,NULL
+ZYO,OAG,Roosendaal Rail Station,51.53333,4.46667,100,t,f,6,en-us,f,48ac9963-3857-4968-a600-eb2b9ebedb69,f,NULL
+ZYR,OAG,Brussels Midi Rail Station,50.90556,4.48333,100,t,t,6,en-us,f,ee7a40ad-ef19-4364-8fea-e0e4b63f3ab2,t,NULL
+ZYT,OAG,Maastricht Rail Station,50.85056,5.70639,100,t,f,6,en-us,f,84815654-3619-4a69-812e-54b72c2deb2d,t,NULL
+ZYU,OAG,Utrecht Centraal Rail Station,52.08333,5.13333,100,t,f,6,en-us,f,cd64d98e-d58f-439b-a901-a3ef30194bc7,f,NULL
+ZYZ,OAG,Antwerp Berchem Rail Station,51.19889,4.43306,100,t,t,6,en-us,f,6cc3ec34-604c-4e99-b1f1-231f21743603,t,NULL
+QDH,OAG,Ashford International Rail Station,51.14333,0.87472,0,t,t,25,en-us,f,6e67a64d-c8c4-4c86-a637-c43b77c7a8d5,t,NULL
+QII,OAG,Lindau Rail Station,47.55,9.68333,100,t,t,25,en-us,f,b70cdf93-95c9-4305-92a2-cca220b79ed9,f,NULL
+QQS,OAG,London St Pancras Intl Rail Station,51.53167,-0.12639,0,t,t,25,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2,t,NULL
+XED,OAG,Disneyland Paris Marne/Chessey Rail Station,48.86972,2.78278,100,t,t,25,en-us,f,a4ae4f22-e791-4c2c-a121-6fe47b5a2eaa,t,NULL
+XFF,OAG,Calais/Dunkerque Calais-Frethum RR Stn,50.90167,1.81139,100,t,t,25,en-us,f,b606c645-ae52-4457-a635-df6434a3ab25,t,NULL
+XQE,OAG,London Ebbsfleet Intl Rail Station,51.44306,0.32111,0,t,t,25,en-us,f,93c7a790-c4c8-4c99-b4e4-44346ca55d4a,t,NULL
+ZYP,OAG,New York Penn Rail Station,40.75056,-73.99361,-500,t,t,25,en-us,f,4d165273-3574-4f6f-a68d-19c360297411,t,NULL

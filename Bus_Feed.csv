@@ -1,0 +1,237 @@
+code,source,name,latitude,longitude,timezone,is_visible,is_major,iata_type,default_language,is_deleted,cities_id,is_active,is_military
+AAW,OAG,Aachen Bf West Bus St,50.7825,6.07167,100,t,NULL,5,en-us,f,NULL,f,NULL
+AQL,OAG,Almeria Bus Station,36.83528,-2.45694,100,t,NULL,5,en-us,f,NULL,t,NULL
+AUB,OAG,Munich Augsburg Bus Station,48.4025,10.87889,100,t,NULL,5,en-us,f,NULL,f,NULL
+AVJ,OAG,Avila Bus Station,40.65806,-4.68972,100,t,NULL,5,en-us,f,NULL,f,NULL
+AXI,OAG,Algeciras Bus Station,36.12639,-5.44889,100,t,NULL,5,en-us,f,NULL,f,NULL
+AZM,OAG,Macau CZ Bus Station,22.21556,113.54889,800,t,NULL,5,en-us,f,NULL,f,NULL
+BBE,OAG,Buenos Aires Fluvial Bus Station,-34.62694,-58.35889,-300,t,NULL,5,en-us,f,NULL,f,NULL
+BQC,OAG,Sainte-Foy Bus Station,46.7925,-71.39222,-500,t,NULL,5,en-us,f,NULL,t,NULL
+BVN,OAG,Baoding MU Bus Station,38.86111,115.48111,800,t,NULL,5,en-us,f,NULL,f,NULL
+CBA,OAG,Cordoba Bus Station,37.88944,-4.79028,100,t,NULL,5,en-us,f,NULL,t,NULL
+CHW,OAG,Cheltenham Bus Station,51.89944,-2.07806,0,t,NULL,5,en-us,f,NULL,t,NULL
+CLB,OAG,Colchester Bus Station,51.88833,-0.90472,0,t,NULL,5,en-us,f,NULL,t,NULL
+CPZ,OAG,Cipolletti RN Bus Station,-38.94111,-68.0075,-300,t,NULL,5,en-us,f,NULL,f,NULL
+DDB,OAG,Dongguan Bus Station,23.03417,113.72694,800,t,NULL,5,en-us,f,NULL,f,NULL
+DEY,OAG,Deyang Bus Station,31.13083,104.38,800,t,NULL,5,en-us,f,NULL,f,NULL
+DMS,OAG,Dammam SABTCO Bus Station,26.45139,50.10694,300,t,NULL,5,en-us,f,NULL,t,NULL
+DRX,OAG,Dresden Bus Station,51.04028,13.73056,100,t,NULL,5,en-us,f,NULL,f,NULL
+EVI,OAG,Sevilla Bus Station,37.38056,-5.98722,100,t,NULL,5,en-us,f,NULL,t,NULL
+EVO,OAG,Estepona Bus Station,36.43028,-5.1275,100,t,NULL,5,en-us,f,NULL,f,NULL
+EXA,OAG,NULL,38.91472,-6.35778,100,t,NULL,5,en-us,f,NULL,f,NULL
+EXC,OAG,NULL,39.45917,-6.38222,100,t,NULL,5,en-us,f,NULL,f,NULL
+FMV,OAG,Montevideo Fluvial Bus Station,-34.90306,-56.21333,-300,t,NULL,5,en-us,f,NULL,f,NULL
+FSA,OAG,Foshan Bus Station,23.03944,113.10806,800,t,NULL,5,en-us,f,NULL,f,NULL
+GBX,OAG,Granada Bus Station,37.19917,-3.61389,100,t,NULL,5,en-us,f,NULL,t,NULL
+GJB,OAG,Guadalajara Bus Station,40.63611,-3.17306,100,t,NULL,5,en-us,f,NULL,f,NULL
+HBZ,OAG,Hannover Bus Station,52.63278,9.73667,100,t,f,5,en-us,f,11c9d143-dfd2-47bb-a68b-101a2eb32910,f,NULL
+HHK,OAG,Hong Kong Bus Station,22.27972,114.16139,800,t,NULL,5,en-us,f,NULL,f,NULL
+HHS,OAG,Zhongshan Bus Station,22.52139,113.34278,800,t,NULL,5,en-us,f,NULL,f,NULL
+HNZ,OAG,Shenzhen Bus Station,22.72861,114.23667,800,t,NULL,5,en-us,f,NULL,f,NULL
+HSQ,OAG,Huangshi Bus Station,30.24778,115.06528,800,t,NULL,5,en-us,f,NULL,f,NULL
+HVZ,OAG,Heviz MA Bus Station,46.79028,17.18444,100,t,NULL,5,en-us,f,NULL,f,NULL
+JBD,OAG,Jiangmen CZ Bus Station,22.58583,113.08583,800,t,NULL,5,en-us,f,NULL,f,NULL
+JBU,OAG,Santiago de Compostela Bus Station,42.8875,-8.54972,100,t,NULL,5,en-us,f,NULL,f,NULL
+KYY,OAG,Kelamayi Bus Station,45.59056,84.87083,800,t,NULL,5,en-us,f,NULL,f,NULL
+LFA,OAG,Langfang MU Bus Station,39.51167,116.71889,800,t,NULL,5,en-us,f,NULL,f,NULL
+LGJ,OAG,Lugoj Bus Station,45.68778,21.91583,200,t,NULL,5,en-us,f,NULL,f,NULL
+LKJ,OAG,Lodz Kaliska Bus Station,51.75778,19.43222,100,t,NULL,5,en-us,f,NULL,f,NULL
+LLZ,OAG,Allen RN Bus Station,-38.9825,-67.82639,-300,t,NULL,5,en-us,f,NULL,f,NULL
+LMJ,OAG,Tokyo Bus Station,35.68,139.76889,900,t,NULL,5,en-us,f,NULL,f,NULL
+LWG,OAG,Logrono Bus Station,42.45972,-2.44417,100,t,NULL,5,en-us,f,NULL,f,NULL
+LZB,OAG,Leon Bus Station,42.59194,-5.57833,100,t,NULL,5,en-us,f,NULL,f,NULL
+MSB,OAG,Maribor Bus Station,46.55917,15.65528,100,t,NULL,5,en-us,f,NULL,t,NULL
+NDH,OAG,Shunde Bus Station,22.81944,113.25056,800,t,NULL,5,en-us,f,NULL,f,NULL
+NFF,OAG,Nanhai Bus Station,23.03778,113.15222,800,t,NULL,5,en-us,f,NULL,f,NULL
+NGY,OAG,Nagoya EK Bus Station,35.17111,136.88278,900,t,NULL,5,en-us,f,NULL,t,NULL
+OBZ,OAG,Hamburg Bus Station,53.92,10.01972,100,t,f,5,en-us,f,11c9d143-dfd2-47bb-a68b-101a2eb32910,f,NULL
+OLT,OAG,Toledo Bus Station,39.86556,-4.02028,100,t,NULL,5,en-us,f,NULL,t,NULL
+OUB,OAG,Ourense Bus Station,42.35222,-7.87917,100,t,NULL,5,en-us,f,NULL,f,NULL
+PFE,OAG,Ponferrada Bus Station,42.55278,-6.60111,100,t,NULL,5,en-us,f,NULL,t,NULL
+PFL,OAG,Prague Florenc Bus Station,50.08917,14.44056,100,t,t,5,en-us,f,3377a605-25f1-4d4c-9701-39244afe2797,f,NULL
+PJI,OAG,Baoji Bus Station,34.36111,107.19972,800,t,NULL,5,en-us,f,NULL,f,NULL
+POQ,OAG,Poole Bus Station,50.71722,-1.97694,0,t,NULL,5,en-us,f,NULL,t,NULL
+PVB,OAG,Punta Del Este Bus Station,-34.95694,-54.93889,-300,t,NULL,5,en-us,f,NULL,f,NULL
+PXB,OAG,Perugia Bus Station,43.10472,12.37611,100,t,NULL,5,en-us,f,NULL,f,NULL
+PXC,OAG,Pescara Bus Station,42.47,14.205,100,t,NULL,5,en-us,f,NULL,f,NULL
+PZJ,OAG,Portoroz Bus Station,45.51333,13.595,100,t,NULL,5,en-us,f,NULL,t,NULL
+QAO,OAG,Agrigento Bus Stop,37.31194,13.58694,100,t,NULL,5,en-us,f,NULL,f,NULL
+QAR,OAG,Arnhem Bus Station,51.98417,5.90028,100,t,NULL,5,en-us,f,NULL,t,NULL
+QBB,OAG,Cologne/Bonn Thomastrasse Bus Station,50.735,7.08917,100,t,NULL,5,en-us,f,NULL,f,NULL
+QBF,OAG,Vail/Eagle Vail Bus Station,39.63333,-106.36667,-700,t,f,5,en-us,f,60a4d4a9-f3cb-4d9c-9482-d315c4f7b3e6,f,NULL
+QCA,OAG,Makkah Bus Station,21.43333,39.81667,300,t,NULL,5,en-us,f,NULL,f,NULL
+QCE,OAG,Copper Mountain Bus Station,39.77222,-104.88333,-700,t,f,5,en-us,f,5b76fdf6-69fd-457b-9420-e6e47f0d67e8,f,NULL
+QDI,OAG,Hohenems/Dornbirn Bus Station,47.41667,9.73306,100,t,NULL,5,en-us,f,NULL,f,NULL
+QDK,OAG,Chattanooga Greyhound Bus Station,35.16667,-85.21667,-500,t,NULL,5,en-us,f,NULL,f,NULL
+QFH,OAG,Frederikshavn Bus Station,57.43333,10.53333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QGY,OAG,Gyor Bus Station,47.68333,17.63333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QHJ,OAG,Hjorring Bus Station,57.46667,9.98333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QJJ,OAG,Dalton Flightlink Bus Station,34.73333,-84.88333,-500,t,NULL,5,en-us,f,NULL,f,NULL
+QJV,OAG,Skagen Bus Station,57.74167,10.6,100,t,NULL,5,en-us,f,NULL,f,NULL
+QJW,OAG,Kjellerup Bus Station,56.28333,9.43333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QJY,OAG,Kolobrzeg Bus Station,54.16667,15.58333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QKB,OAG,Breckenridge Bus Station,39.76944,-104.88333,-700,t,f,5,en-us,f,cd40e235-d4ca-4557-a6ad-b16532f90a9c,f,NULL
+QKI,OAG,Kielce Bus Station,50.87583,20.62194,100,t,NULL,5,en-us,f,NULL,f,NULL
+QKS,OAG,Keystone Bus Station,39.76667,-104.88611,-700,t,f,5,en-us,f,89e8aab9-42f7-44f6-ba77-82dc2310b024,f,NULL
+QLE,OAG,Leeton Bus Station,-34.55,146.4,1000,t,NULL,5,en-us,f,NULL,f,NULL
+QLU,OAG,Lublin Bus Station,51.25167,22.57139,100,t,NULL,5,en-us,f,NULL,f,NULL
+QLZ,OAG,Ikast Bus Station,56.13333,9.16667,100,t,NULL,5,en-us,f,NULL,f,NULL
+QME,OAG,Messina Bus Stop,38.18583,15.56028,100,t,NULL,5,en-us,f,NULL,f,NULL
+QMP,OAG,Macon Flightlink Bus Station,32.83333,-83.6,-500,t,NULL,5,en-us,f,NULL,f,NULL
+QNU,OAG,Nuoro Bus Stop,40.32028,9.32389,100,t,NULL,5,en-us,f,NULL,f,NULL
+QOF,OAG,Kiev Borispol Bus Station,50.40278,30.46667,200,t,NULL,5,en-us,f,NULL,f,NULL
+QOH,OAG,Kiev Hotel Rus Bus Station,50.4,30.46944,200,t,NULL,5,en-us,f,NULL,f,NULL
+QPD,OAG,Palau Bus Stop,41.18139,9.38556,100,t,NULL,5,en-us,f,NULL,f,NULL
+QPJ,OAG,Pecs Bus Station,46.08333,18.23333,100,t,t,5,en-us,f,f6bf6607-0315-4d57-a776-66654dd6aef6,f,NULL
+QPL,OAG,Ploiesti Bus Station,44.95,26.01667,200,t,NULL,5,en-us,f,NULL,f,NULL
+QPV,OAG,Perisher Valley Bus Station,-37.58944,148.61667,1000,t,NULL,5,en-us,f,NULL,f,NULL
+QRG,OAG,Ragusa Bus Stop,36.915,14.72111,100,t,NULL,5,en-us,f,NULL,f,NULL
+QRL,OAG,Marbella Bus Station,36.51667,-4.8925,100,t,NULL,5,en-us,f,NULL,f,NULL
+QRS,OAG,Resita Bus Station,45.28333,21.88333,200,t,NULL,5,en-us,f,NULL,f,NULL
+QSS,OAG,Sassari Bus Stop,40.72944,8.55528,100,t,NULL,5,en-us,f,NULL,f,NULL
+QTH,OAG,Thredbo Bus Station,-36.48333,148.31667,1000,t,NULL,5,en-us,f,NULL,f,NULL
+QVN,OAG,Avellino Bus Stop,40.91722,14.79,100,t,NULL,5,en-us,f,NULL,f,NULL
+QVY,OAG,Kouvola Bus Station,60.86639,26.7,200,t,NULL,5,en-us,f,NULL,f,NULL
+QWF,OAG,Fort Collins Bus Station,40.58611,-105.08333,-700,t,f,5,en-us,f,9399ecac-92be-43a2-a64b-a508216e6cb4,f,NULL
+QWH,OAG,Loveland Bus Station,40.4,-105.1,-700,t,f,5,en-us,f,9399ecac-92be-43a2-a64b-a508216e6cb4,f,NULL
+QWL,OAG,Crackenback Village Bus Station,-36.46667,148.48333,1000,t,NULL,5,en-us,f,NULL,f,NULL
+QWM,OAG,Longmont Bus Station,40.16667,-105.1,-700,t,f,5,en-us,f,06a2081b-f304-4252-a2ac-d53813808f72,f,NULL
+QWO,OAG,Holstebro Bus Station,56.35,8.63333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QWP,OAG,Winter Park Bus Station,39.76667,-104.88889,-700,t,NULL,5,en-us,f,NULL,f,NULL
+QWQ,OAG,Struer Bus Station,56.48333,8.61667,100,t,NULL,5,en-us,f,NULL,f,NULL
+QWY,OAG,Corvallis/Albany Bus Station,44.50278,-123.28333,-800,t,f,5,en-us,f,03ed6563-dcc9-4485-946a-cd232d25502a,f,NULL
+QWZ,OAG,Best Bus Station,51.51333,5.39611,100,t,NULL,5,en-us,f,NULL,f,NULL
+QXF,OAG,Vestbjerg Z1 Bus Station,57.13333,9.98333,100,t,NULL,5,en-us,f,NULL,f,NULL
+QXK,OAG,St-Genis Bus Station,46.25,6.01667,100,t,NULL,5,en-us,f,NULL,f,NULL
+QXZ,OAG,Woergl Bus Station,47.49139,12.06111,100,t,NULL,5,en-us,f,NULL,t,NULL
+QYC,OAG,Drachten Bus Station,53.11667,6.1,100,t,NULL,5,en-us,f,NULL,f,NULL
+QYQ,OAG,Sulsted Bus Station,57.15,9.96667,100,t,NULL,5,en-us,f,NULL,f,NULL
+QYT,OAG,Paterswolde Bus Station,53.13333,6.55,100,t,NULL,5,en-us,f,NULL,f,NULL
+QYY,OAG,Bialystok Bus Station,53.13222,23.135,100,t,NULL,5,en-us,f,NULL,f,NULL
+QYZ,OAG,Heerenveen Bus Station,52.95,5.91667,100,t,NULL,5,en-us,f,NULL,f,NULL
+QZC,OAG,Smiggin Holes Bus Station,-36.5,148.25,1000,t,NULL,5,en-us,f,NULL,f,NULL
+QZD,OAG,Szeged Bus Station,46.25,20.16667,100,t,NULL,5,en-us,f,NULL,f,NULL
+QZF,OAG,Font Romeu Bus Station,42.51667,2.05,100,t,NULL,5,en-us,f,NULL,f,NULL
+QZM,OAG,Bullocks Flat Bus Station,-36.36667,148.6,1000,t,NULL,5,en-us,f,NULL,f,NULL
+RNW,OAG,Ringwood Bus Station,50.84694,-1.79139,0,t,NULL,5,en-us,f,NULL,t,NULL
+RRB,OAG,Rabat AT Bus Station,34.01694,-6.835,0,t,NULL,5,en-us,f,NULL,f,NULL
+RUJ,OAG,Riyadh SAPTCO Olaya Bus Station,24.59583,46.74833,300,t,NULL,5,en-us,f,NULL,t,NULL
+RZG,OAG,Zaragoza Bus Station,41.65917,-0.91111,100,t,NULL,5,en-us,f,NULL,t,NULL
+SAJ,OAG,Salamanca Bus Station,40.97028,-5.67528,100,t,NULL,5,en-us,f,NULL,t,NULL
+SDA,OAG,Saarbruecken Dudweilerstrasse Bus Station,49.2775,7.02722,100,t,NULL,5,en-us,f,NULL,f,NULL
+TCV,OAG,Tres Cruces Bus Station,-22.91833,-63.585,-300,t,NULL,5,en-us,f,NULL,f,NULL
+THJ,OAG,Taishan Bus Station,22.25667,112.77639,800,t,NULL,5,en-us,f,NULL,f,NULL
+TJJ,OAG,Tainjin Bus Station,39.14611,117.22556,800,t,NULL,5,en-us,f,NULL,f,NULL
+TTY,OAG,Taunton Bus Station,51.01528,-3.10583,0,t,NULL,5,en-us,f,NULL,t,NULL
+VBT,OAG,Vigo Bus Station,42.22417,-8.70944,100,t,NULL,5,en-us,f,NULL,f,NULL
+VDT,OAG,Montevideo Bus Station,-34.89361,-56.16667,-300,t,NULL,5,en-us,f,NULL,f,NULL
+VNL,OAG,Vinales Bus Station,22.61389,-83.7125,-500,t,NULL,5,en-us,f,NULL,f,NULL
+VRD,OAG,Radom Bus Station,51.3925,21.15722,100,t,NULL,5,en-us,f,NULL,f,NULL
+VTI,OAG,Vitoria Bus Station,42.84972,-2.66583,100,t,NULL,5,en-us,f,NULL,t,NULL
+WNC,OAG,Winchester Bus Station,51.06111,-1.31,0,t,NULL,5,en-us,f,NULL,t,NULL
+XAJ,OAG,Hirtshals Bus Station,57.58694,9.96056,100,t,NULL,5,en-us,f,NULL,f,NULL
+XAQ,OAG,Broenderslev Bus Station,57.26667,9.96667,100,t,NULL,5,en-us,f,NULL,f,NULL
+XBW,OAG,Abu Dhabi NP Bus Station,24.48806,54.36417,400,t,NULL,5,en-us,f,NULL,t,NULL
+XER,OAG,Strasbourg Bus Station,48.58528,7.73556,100,t,t,5,en-us,f,50bb52fb-26aa-4e87-ab29-35c9e781690b,t,NULL
+XET,OAG,Karlsruhe/Baden-Baden Karlsruhe Bus Station,48.99167,8.40056,100,t,NULL,5,en-us,f,NULL,f,NULL
+XEU,OAG,Dubai Hyatt Rgncy EY Bus Station,25.27889,55.30417,400,t,NULL,5,en-us,f,NULL,f,NULL
+XEX,OAG,Paris Aerogare des Invalides Bus Station,48.86667,2.33333,100,t,NULL,5,en-us,f,NULL,f,NULL
+XGB,OAG,Paris Montparnasse Bus Station,48.86667,2.33333,100,t,NULL,5,en-us,f,NULL,f,NULL
+XGE,OAG,Ottawa Bus Station,45.40889,-75.695,-500,t,NULL,5,en-us,f,NULL,f,NULL
+XGQ,OAG,Saariselka Bus Station,68.65,28.48333,200,t,NULL,5,en-us,f,NULL,f,NULL
+XGX,OAG,Levi Bus Station,67.78333,28.48333,200,t,NULL,5,en-us,f,NULL,f,NULL
+XHA,OAG,Yllasjarvi Bus Station,67.51667,24.3,200,t,NULL,5,en-us,f,NULL,f,NULL
+XHB,OAG,Dubai NP Bus Station,25.16778,55.22194,400,t,NULL,5,en-us,f,NULL,t,NULL
+XHC,OAG,Akaslompolo Bus Station,67.6,29.16667,200,t,NULL,5,en-us,f,NULL,f,NULL
+XHD,OAG,Ruka Bus Station,66.15,29.16667,200,t,NULL,5,en-us,f,NULL,f,NULL
+XHG,OAG,Ottawa Bus Station,45.86667,-75.71667,-500,t,NULL,5,en-us,f,NULL,f,NULL
+XHH,OAG,Boulder Bus Station,39.90972,-104.1175,-700,t,NULL,5,en-us,f,NULL,f,NULL
+XHI,OAG,Herzogenaurach Bus Station,49.06667,10.9,100,t,NULL,5,en-us,f,NULL,f,NULL
+XHO,OAG,Dongguan City Bus Station,23.05,114.08333,800,t,NULL,5,en-us,f,NULL,f,NULL
+XHQ,OAG,Artvin Hopa Bus Station,41.40972,41.4325,300,t,NULL,5,en-us,f,NULL,f,NULL
+XHV,OAG,Brasov Bus Station,45.66361,25.62944,200,t,NULL,5,en-us,f,NULL,t,NULL
+XJB,OAG,Barcelona Bus Station,41.41944,2.16667,100,t,NULL,5,en-us,f,NULL,f,NULL
+XJF,OAG,Falun Bus Station,60.5,15.63333,100,t,f,5,en-us,f,682d5dd9-0d10-4f0a-ad2b-4aca80ef99fe,f,NULL
+XJJ,OAG,Albacete Bus Station,38.99778,-1.84639,100,t,NULL,5,en-us,f,NULL,t,NULL
+XJK,OAG,Klaipeda/Palanga Bus Station,55.7,21.13333,200,t,NULL,5,en-us,f,NULL,f,NULL
+XJN,OAG,Valladolid Bus Station,41.64139,-4.73333,100,t,NULL,5,en-us,f,NULL,t,NULL
+XJO,OAG,Soria Bus Station,41.76694,-2.47944,100,t,NULL,5,en-us,f,NULL,t,NULL
+XJR,OAG,Lorca Bus Station,37.67111,-1.69667,100,t,NULL,5,en-us,f,NULL,t,NULL
+XJU,OAG,Burgos Bus Station,42.33778,-3.70111,100,t,NULL,5,en-us,f,NULL,t,NULL
+XMB,OAG,Dubai Marina Mall EY Bus Station,25.07611,55.14111,400,t,f,5,en-us,f,1db32654-7c0f-4c6b-a5bc-fe3c877f44da,t,NULL
+XNB,OAG,Dubai Travel Mall EY Bus Station,25.29306,55.58806,400,t,f,5,en-us,f,1db32654-7c0f-4c6b-a5bc-fe3c877f44da,t,NULL
+XNR,OAG,Aabenraa Bus Station,55.03333,9.43333,100,t,NULL,5,en-us,f,NULL,f,NULL
+XOA,OAG,Aalbaek Bus Station,57.59556,10.40944,100,t,NULL,5,en-us,f,NULL,f,NULL
+XOH,OAG,Kitzbuehel Bus Station,47.44806,12.38917,100,t,NULL,5,en-us,f,NULL,f,NULL
+XOI,OAG,Ischgl Bus Station,47.01167,10.29083,100,t,NULL,5,en-us,f,NULL,f,NULL
+XOO,OAG,Soelden Bus Station,46.96778,11.00694,100,t,NULL,5,en-us,f,NULL,f,NULL
+XOV,OAG,St Anton Bus Station,47.13139,10.26944,100,t,NULL,5,en-us,f,NULL,f,NULL
+XOW,OAG,Seefeld Bus Station,47.32861,11.18639,100,t,NULL,5,en-us,f,NULL,f,NULL
+XPY,OAG,Pyha Bus Station,61.01667,27.15,200,t,NULL,5,en-us,f,NULL,f,NULL
+XQS,OAG,Sotkamo Bus Station,64.13333,28.4,200,t,NULL,5,en-us,f,NULL,f,NULL
+XRA,OAG,Graasten Bus Station,54.91667,9.6,100,t,NULL,5,en-us,f,NULL,f,NULL
+XTP,OAG,Tampere Bus Station,61.49278,23.76944,200,t,NULL,5,en-us,f,NULL,f,NULL
+XTT,OAG,Paris Arc de Triomphe Bus Station,48.86667,2.33333,100,t,NULL,5,en-us,f,NULL,f,NULL
+XUN,OAG,Sun Valley Bus Station,43.50278,-114.31667,-700,t,NULL,5,en-us,f,NULL,f,NULL
+XVM,OAG,Vuokatti Bus Station,64.13333,28.26667,200,t,NULL,5,en-us,f,NULL,f,NULL
+ZAK,OAG,Chiusa/Klausen Bus Station,46.63333,11.56667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZAW,OAG,Nykobing Mors Bus Station,56.8,8.86,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZAY,OAG,Antwerp De Keyserlei Bus Station,51.21694,4.41694,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZBC,OAG,Birmingham Colmore Row Bus Station,52.5,-1.33333,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZBN,OAG,Bolzano/Bozen Bus Station,46.51667,11.36667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZBS,OAG,Phoenix Mesa Bus Station,33.41667,-115.83333,-700,t,NULL,5,en-us,f,NULL,f,NULL
+ZBU,OAG,Aarhus Limousine Bus Station,56.15,10.21667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZBV,OAG,Beaver Creek Van Station,38.36667,-104.96667,-700,t,f,5,en-us,f,907f09ba-0622-4838-a6b0-60c3448f8242,f,NULL
+ZCD,OAG,Bamberg Bus Station,49.90083,10.89861,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZDB,OAG,Adelboden Bus Station,46.48333,7.56667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZDN,OAG,Brno Bus Station,49.2,16.63333,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZEQ,OAG,Dewsbury Bus Station,53.4,-1.61667,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZFC,OAG,Bradford Bus Station,53.8,-1.75,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZFG,OAG,Doncaster/Sheffield Bus Station,53.38333,-1.5,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZFH,OAG,Milton Keynes Bus Station,52.16667,-0.7,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZFI,OAG,Chesterfield Bus Station,53.25,-1.41667,0,t,f,5,en-us,f,46570de4-3382-4016-9d8a-b955232fceca,f,NULL
+ZFK,OAG,Guderup Bus Station,54.98333,9.88333,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZFX,OAG,Szczecin Bus Station,53.43333,14.56667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZFY,OAG,Katowice Bus Station,50.25,19,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZGB,OAG,Nottingham Bus Station,52.95917,-1.14861,0,t,NULL,5,en-us,f,NULL,t,NULL
+ZGC,OAG,Zagreb Bus Station,45.80833,16.00722,100,t,NULL,5,en-us,f,NULL,t,NULL
+ZHO,OAG,Houston Bus Station,54.39444,-126.66667,-800,t,f,5,en-us,f,593f16e3-a990-4064-96a0-a63475c851da,f,NULL
+ZID,OAG,Aarhus Bus Service,56.15,10.21667,100,t,f,5,en-us,f,5e187511-66b5-40c2-8234-0de72f542897,f,NULL
+ZIK,OAG,Karlovy Vary Bus Station,50.23028,12.86389,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZIL,OAG,Horsens Bus Station,55.87194,9.88111,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZIM,OAG,Odense Bus Station,55.4,10.36667,100,t,f,5,en-us,f,a7a03b4f-a23b-4aae-b3ee-79c529b4e875,f,NULL
+ZIU,OAG,Zhuhai Bus Station,22.27889,113.56667,800,t,NULL,5,en-us,f,NULL,f,NULL
+ZJD,OAG,Lenzerheide/Lai Bus Station,46.75,9.55,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZJO,OAG,San Jose Bus Station,37.35556,-121.91944,-800,t,f,5,en-us,f,d98b28de-5cce-4c6a-935f-11ccb312cafd,f,NULL
+ZKI,OAG,Saas-Fee Bus Station,46.11667,7.91667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZKY,OAG,Verbier Bus Station,46.1,7.21667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZLG,OAG,Zalaegerszeg MA Bus Station,46.84472,16.84611,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZLV,OAG,Luosto Bus Station,61.35,26.08333,200,t,NULL,5,en-us,f,NULL,f,NULL
+ZLZ,OAG,Leeds/Bradford Bus Station,53.83333,-1.58333,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZMA,OAG,Mansfield Bus Station,53.15,-1.18333,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZMC,OAG,Miedzyzdroje Bus Station,53.91667,14.45,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZMO,OAG,Modena Bus Station,44.66667,10.91667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZMR,OAG,Merano/Meran Bus Station,46.66667,11.15,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZMW,OAG,Brande Bus Station,55.95,9.11667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZNV,OAG,Koblenz Bus Station,50.35028,7.59028,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZPR,OAG,Rosenheim Bus Station,47.86694,12.03667,100,t,NULL,5,en-us,f,NULL,t,NULL
+ZQY,OAG,Giessen Bus Station,50.56667,8.66667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZRC,OAG,San Pedro de Alcantara Bus Station,36.46667,-5,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZRG,OAG,Bratislava Bus Station,48.16667,17.21944,100,t,f,5,en-us,f,78946aa7-5900-41a7-9c6e-99bf7b6c986d,f,NULL
+ZRK,OAG,Rockford Van Galder Bus Station,42.26667,-89.08333,-600,t,f,5,en-us,f,cb088bff-6b7a-4bdd-b2bc-399301afb3c6,f,NULL
+ZRO,OAG,Reggio nell'Emilia Bus Station,44.71667,10.6,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZRW,OAG,Rastatt Bus Station,48.16667,8.16667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZRY,OAG,Herning Bus Station,56.13333,8.96667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZSH,OAG,Santa Fe Bus Station,35.68333,-105.95,-700,t,NULL,5,en-us,f,NULL,f,NULL
+ZSL,OAG,Sligo Bus Station,54.28333,-8.46667,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZSM,OAG,Santa Clara Bus Station,37.35,-121.96667,-800,t,f,5,en-us,f,48af4c26-eaa2-4158-915b-c8f9f29743d3,f,NULL
+ZSY,OAG,Phoenix Scottsdale Bus Station,33.45,-111.98333,-700,t,NULL,5,en-us,f,NULL,f,NULL
+ZTC,OAG,Turin Bus Station,45.05,7.66667,100,t,NULL,5,en-us,f,NULL,f,NULL
+ZTL,OAG,Telluride Bus Station,37.93806,-107.81389,-700,t,NULL,5,en-us,f,NULL,f,NULL
+ZVC,OAG,Villarrica Bus Station,-39.31722,-72.22889,-400,t,NULL,5,en-us,f,NULL,f,NULL
+ZVH,OAG,Al Ain Bus Station,24.22,55.76,400,t,NULL,5,en-us,f,NULL,t,NULL
+ZVJ,OAG,Abu Dhabi Bus Station,24.47,54.33,400,t,t,5,en-us,f,f631dca3-3231-407b-8a17-d2a0f3e56ac8,t,NULL
+ZXZ,OAG,Dubai Jumeirah Beach Bus Station,25.41667,55.46667,400,t,NULL,5,en-us,f,NULL,f,NULL
+ZYD,OAG,Lisbon Bus Station,38.74,-9.16778,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZYF,OAG,Faro Bus Station,37.01722,-7.93944,0,t,NULL,5,en-us,f,NULL,f,NULL
+ZYJ,OAG,Porto Bus Station,41.14444,-8.60611,0,t,NULL,5,en-us,f,NULL,f,NULL
