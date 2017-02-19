@@ -1,128 +1,127 @@
-AirportCode,HubCode,source,name,latitude,longitude,timezone,is_visible,default_language,is_deleted,cities_id
-ANC,ANC,TTX,Anchorage Ted Stevens Intl Apt,61.226942,-149.84493,-900,t,en-us,f,NULL
-EDF,ANC,TTX,Anchorage Elmendorf AFB,61.226942,-149.84493,-900,t,en-us,f,NULL
-FRN,ANC,TTX,Anchorage Bryant AAF,61.226942,-149.84493,-900,t,en-us,f,NULL
-MRI,ANC,TTX,Anchorage Merrill Field,61.226942,-149.84493,-900,t,en-us,f,NULL
-BER,BER,TTX,Berlin Brandenburg Apt,52.435,13.437223,100,t,en-us,f,1f077790-8fcf-48c8-bf16-4ce18a6e549d
-SXF,BER,TTX,Berlin Schoenefeld Apt,52.435,13.437223,100,t,en-us,f,1f077790-8fcf-48c8-bf16-4ce18a6e549d
-TXL,BER,TTX,Berlin(Tegel) Germany,52.435,13.437223,100,t,en-us,f,1f077790-8fcf-48c8-bf16-4ce18a6e549d
-BKK,BKK,TTX,Bangkok Thailand,13.799165,100.67778,700,t,en-us,f,NULL
-DMK,BKK,TTX,Bangkok Thailand,13.799165,100.67778,700,t,en-us,f,NULL
-BRU,BRU,TTX,Brussels Belgium,50.68028,4.469165,100,t,en-us,f,NULL
-CRL,BRU,TTX,Brussels S. Charleroi Airport,50.68028,4.469165,100,t,en-us,f,NULL
-ZYR,BRU,TTX,Brussels - Midi Rail Station,50.68028,4.469165,100,t,en-us,f,NULL
-AEP,BUE,TTX,Buenos Aires Aeroparque J. Newbery,-34.690555,-58.47611,-300,t,en-us,f,1c98f6c7-a9d9-4b2b-af73-89e70a6f0990
-EZE,BUE,TTX,Buenos Aires Ministro Pistarini,-34.690555,-58.47611,-300,t,en-us,f,1c98f6c7-a9d9-4b2b-af73-89e70a6f0990
-BBU,BUH,TTX,Bucharest Baneasa Apt,44.537775,26.10222,200,t,en-us,f,3a2a47c6-976b-4789-a543-16d43bdd3609
-OTP,BUH,TTX,Bucharest Otopeni Apt,44.537775,26.10222,200,t,en-us,f,3a2a47c6-976b-4789-a543-16d43bdd3609
-CGX,CHI,TTX,Merrill C Meigs Field,41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-DPA,CHI,TTX,Dupage County Airport,41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-GYY,CHI,TTX,Chicago Gary International,41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-MDW,CHI,TTX,"Chicago(Midway), IL USA",41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-ORD,CHI,TTX,"Chicago(Ohare), IL USA",41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-PWK,CHI,TTX,Chicago Palwaukee Apt,41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-RFD,CHI,TTX,Chicago Rockford Airport,41.933425,-88.054353,-600,t,en-us,f,54375c1f-6aec-4e32-ab24-fdf917b1abcc
-BKL,CLE,TTX,Cleveland Burke Lakefront Apt,41.498613,-81.672127,-500,t,en-us,f,NULL
-CGF,CLE,TTX,Cleveland Cuyahoga County Apt,41.498613,-81.672127,-500,t,en-us,f,NULL
-CLE,CLE,TTX,Cleveland Hopkins International Apt,41.498613,-81.672127,-500,t,en-us,f,NULL
-DAL,DAL,TTX,"Dallas(Love Fld), TX USA",32.87208,-96.944865,-600,t,en-us,f,NULL
-DFW,DAL,TTX,"Dallas/Ft. Worth(Intl), TX USA",32.87208,-96.944865,-600,t,en-us,f,NULL
-DAY,DAY,TTX,Dayton James M. Cox Intl Apt,39.796943,-84.22037,-500,t,en-us,f,NULL
-FFO,DAY,TTX,Dayton Wright-Patterson AFB,39.796943,-84.22037,-500,t,en-us,f,NULL
-MGY,DAY,TTX,Dayton Wright Brothers Apt,39.796943,-84.22037,-500,t,en-us,f,NULL
-APA,DEN,TTX,Denver Centennial Airport,39.764862,-104.914238,-700,t,en-us,f,NULL
-BFK,DEN,TTX,Denver Aurora/Buckley AFB,39.764862,-104.914238,-700,t,en-us,f,NULL
-BJC,DEN,TTX,Denver Rocky Mountain Metrop.,39.764862,-104.914238,-700,t,en-us,f,NULL
-DEN,DEN,TTX,Denver Intl Apt,39.764862,-104.914238,-700,t,en-us,f,NULL
-DET,DTT,TTX,Detroit City Airport,42.28352,-83.294537,-500,t,en-us,f,bc1cd3e5-dfbb-4333-971c-d12fa7686ea3
-DTW,DTT,TTX,Detroit Wayne County,42.28352,-83.294537,-500,t,en-us,f,bc1cd3e5-dfbb-4333-971c-d12fa7686ea3
-YIP,DTT,TTX,Willow Run Airport,42.28352,-83.294537,-500,t,en-us,f,bc1cd3e5-dfbb-4333-971c-d12fa7686ea3
-FRA,FRA,TTX,Frankfurt International Apt,49.990835,7.917225,100,t,en-us,f,NULL
-HHN,FRA,TTX,Frankfurt Hahn Airport,49.990835,7.917225,100,t,en-us,f,NULL
-HHP,HKG,TTX,Sheung Wan Heliport,22.29889,114.03361,800,t,en-us,f,NULL
-HKG,HKG,TTX,Hong Kong International Apt,22.29889,114.03361,800,t,en-us,f,NULL
-CXO,HOU,TTX,Houston Conroe,29.814668,-95.408,-600,t,en-us,f,NULL
-DWH,HOU,TTX,Houston David Wayne Hooks Mem.,29.814668,-95.408,-600,t,en-us,f,NULL
-EFD,HOU,TTX,Houston Ellington,29.814668,-95.408,-600,t,en-us,f,NULL
-HOU,HOU,TTX,"Houston(Hobby), TX USA",29.814668,-95.408,-600,t,en-us,f,NULL
-IAH,HOU,TTX,"Houston(Intl), TX USA",29.814668,-95.408,-600,t,en-us,f,NULL
-IWS,HOU,TTX,Houston West Houston Apt,29.814668,-95.408,-600,t,en-us,f,NULL
-JDX,HOU,TTX,Houston First City Heliport,29.814668,-95.408,-600,t,en-us,f,NULL
-JGQ,HOU,TTX,Houston Transco Tower Heliport,29.814668,-95.408,-600,t,en-us,f,NULL
-JWH,HOU,TTX,Houston Westchase Heliport,29.814668,-95.408,-600,t,en-us,f,NULL
-SGR,HOU,TTX,Houston Sugar Land Regional,29.814668,-95.408,-600,t,en-us,f,NULL
-CGK,JKT,TTX,Jakarta Soekarno-Hatta Apt,-6.196115,106.77347,700,t,en-us,f,f26b1b4e-f51d-42c8-8c64-0e77f9eaea47
-HLP,JKT,TTX,Jakarta Halim Perdana Kusuma Apt,-6.196115,106.77347,700,t,en-us,f,f26b1b4e-f51d-42c8-8c64-0e77f9eaea47
-GCJ,JNB,TTX,Johannesburg Grand Central Apt,-26.166112,28.125,200,t,en-us,f,NULL
-HCS,JNB,TTX,Johannesburg Randburg H/P,-26.166112,28.125,200,t,en-us,f,NULL
-HLA,JNB,TTX,Johannesburg Lanseria International Apt,-26.166112,28.125,200,t,en-us,f,NULL
-JNB,JNB,TTX,Johannesburg O.R. Tambo International,-26.166112,28.125,200,t,en-us,f,NULL
-QRA,JNB,TTX,Johannesburg Rand,-26.166112,28.125,200,t,en-us,f,NULL
-LCY,LON,TTX,London(City) England UK,51.576945,-0.005878,0,t,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2
-LGW,LON,TTX,London(Gatwick) England UK,51.576945,-0.005878,0,t,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2
-LHR,LON,TTX,London(Heathrow) England UK,51.576945,-0.005878,0,t,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2
-LTN,LON,TTX,London(Luton) England UK,51.576945,-0.005878,0,t,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2
-SEN,LON,TTX,London Southend Apt,51.576945,-0.005878,0,t,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2
-STN,LON,TTX,London(Stansted) England UK,51.576945,-0.005878,0,t,en-us,f,a56bcef1-6d59-4ab5-8ac6-1cbcf78804c2
-BGY,MIL,TTX,Milan Orio al Serio Apt,45.392638,9.499237,100,t,en-us,f,c282e420-3e17-4966-9698-38210ea86d7d
-LIN,MIL,TTX,Milan (Linate) Italy,45.392638,9.499237,100,t,en-us,f,c282e420-3e17-4966-9698-38210ea86d7d
-MXP,MIL,TTX,Milan (Malpensa) Italy,45.392638,9.499237,100,t,en-us,f,c282e420-3e17-4966-9698-38210ea86d7d
-PMF,MIL,TTX,Milan Parma Apt,45.392638,9.499237,100,t,en-us,f,c282e420-3e17-4966-9698-38210ea86d7d
-BKA,MOW,TTX,Bykovo Airport,55.65778,37.5275,300,t,en-us,f,f708eb41-1a85-45ae-8327-2342be4d95a5
-DME,MOW,TTX,Moscow(Domodedovo) Russian Fed.,55.65778,37.5275,300,t,en-us,f,f708eb41-1a85-45ae-8327-2342be4d95a5
-SVO,MOW,TTX,Moscow(Sheremetyevo) Russian Fed.,55.65778,37.5275,300,t,en-us,f,f708eb41-1a85-45ae-8327-2342be4d95a5
-VKO,MOW,TTX,Moscow Vnukovo Apt,55.65778,37.5275,300,t,en-us,f,f708eb41-1a85-45ae-8327-2342be4d95a5
-EWR,NYC,TTX,"New York(Newark, NJ), NY USA",40.703147,-73.94,-500,t,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9
-FLU,NYC,TTX,Flushing Airport,40.703147,-73.94,-500,t,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9
-JFK,NYC,TTX,"New York(Kennedy), NY USA",40.703147,-73.94,-500,t,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9
-LGA,NYC,TTX,"New York(Laguardia), NY USA",40.703147,-73.94,-500,t,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9
-QNY,NYC,TTX,Marine Air Terminal,40.703147,-73.94,-500,t,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9
-WTC,NYC,TTX,World Trade Center Airport,40.703147,-73.94,-500,t,en-us,f,e7395660-876c-49ae-99b8-fa825ad45ba9
-MCO,ORL,TTX,"Orlando(Intl), FL USA",28.60361,-81.273195,-500,t,en-us,f,NULL
-SFB,ORL,TTX,"Orlando(Sanford), FL USA",28.60361,-81.273195,-500,t,en-us,f,NULL
-ITM,OSA,TTX,Osaka Itami Airport,34.615187,135.30213,900,t,en-us,f,NULL
-KIX,OSA,TTX,Osaka Kansai International Airport,34.615187,135.30213,900,t,en-us,f,NULL
-UKB,OSA,TTX,Osaka Kobe Airport,34.615187,135.30213,900,t,en-us,f,NULL
-BVA,PAR,TTX,Paris Beauvais-Tille Airport,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-CDG,PAR,TTX,Paris(C.Degaulle) France,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-LBG,PAR,TTX,Le Bourget Airport,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-ORY,PAR,TTX,Paris(Orly) France,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-POX,PAR,TTX,Pontoise-Cormeilles Airport,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-VIY,PAR,TTX,Villacoublay-Velizy Airport,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-XCR,PAR,TTX,Paris Chalons-Vatry Airport,48.971586,2.56,100,t,en-us,f,b3ba7744-390d-4f28-be2f-06a547a68ac4
-BBX,PHL,TTX,Philadelphia Wings Field,40.099627,-75.106573,-500,t,en-us,f,NULL
-PHL,PHL,TTX,"Philadelphia(Intl), PA USA",40.099627,-75.106573,-500,t,en-us,f,NULL
-TTN,PHL,TTX,"Philadelphia(Trenton-Mercer), NJ USA",40.099627,-75.106573,-500,t,en-us,f,NULL
-KEF,REK,TTX,Reykjavik Keflavik International Apt,64.0575,-22.27306,0,t,en-us,f,NULL
-RKV,REK,TTX,Reykjavik Domestic Airport,64.0575,-22.27306,0,t,en-us,f,NULL
-GIG,RIO,TTX,Rio De Janeiro(Intl) Rj Brazil,-22.86153,-43.205695,-300,t,en-us,f,e65c1c79-1aeb-4595-91eb-574476979f09
-SDU,RIO,TTX,Rio De Janeiro(Dumont) Rj Brazil,-22.86153,-43.205695,-300,t,en-us,f,e65c1c79-1aeb-4595-91eb-574476979f09
-CIA,ROM,TTX,Rome Ciampino Apt,41.799585,12.416945,100,t,en-us,f,38a5c6b2-11f4-48a1-9a98-1d8231992d3b
-FCO,ROM,TTX,Rome Fiumicino Apt,41.799585,12.416945,100,t,en-us,f,38a5c6b2-11f4-48a1-9a98-1d8231992d3b
-CGH,SAO,TTX,Sao Paulo(Congonhas) Sp Brazil,-23.355557,-46.754073,-300,t,en-us,f,6403e6c7-3fd8-473f-99e6-6500d344a5f5
-GRU,SAO,TTX,Sao Paulo(Intl) Sp Brazil,-23.355557,-46.754073,-300,t,en-us,f,6403e6c7-3fd8-473f-99e6-6500d344a5f5
-VCP,SAO,TTX,Sao Paulo Viracopos-Campinas Intl Apt,-23.355557,-46.754073,-300,t,en-us,f,6403e6c7-3fd8-473f-99e6-6500d344a5f5
-GMP,SEL,TTX,Seoul (Gimpo Intl) Korea,37.49037,126.784633,900,t,en-us,f,51e63ec6-e768-4a2b-9233-17a9b5608dce
-ICN,SEL,TTX,Seoul (Incheon Intl) Korea,37.49037,126.784633,900,t,en-us,f,51e63ec6-e768-4a2b-9233-17a9b5608dce
-SSN,SEL,TTX,Seoul Ab Airport,37.49037,126.784633,900,t,en-us,f,51e63ec6-e768-4a2b-9233-17a9b5608dce
-ARN,STO,TTX,Stockholm Arlanda Apt,59.346108,17.351528,100,t,en-us,f,2b2ee19f-823a-4f23-8ede-51cec33b11d7
-BMA,STO,TTX,Stockholm Bromma Apt,59.346108,17.351528,100,t,en-us,f,2b2ee19f-823a-4f23-8ede-51cec33b11d7
-NYO,STO,TTX,Stockholm Skavsta Airport,59.346108,17.351528,100,t,en-us,f,2b2ee19f-823a-4f23-8ede-51cec33b11d7
-VST,STO,TTX,Stockholm Vasteras Apt,59.346108,17.351528,100,t,en-us,f,2b2ee19f-823a-4f23-8ede-51cec33b11d7
-HND,TYO,TTX,Tokyo(Haneda) Japan,35.68898,139.838703,900,t,en-us,f,a450d7d7-7eb5-472a-bbe3-c9f0edc876d7
-NRT,TYO,TTX,Tokyo(Narita) Japan,35.68898,139.838703,900,t,en-us,f,a450d7d7-7eb5-472a-bbe3-c9f0edc876d7
-OKO,TYO,TTX,Tokyo Yokota AB,35.68898,139.838703,900,t,en-us,f,a450d7d7-7eb5-472a-bbe3-c9f0edc876d7
-BOF,WAS,TTX,Washington Bolling AFB Heliport,38.947722,-77.042388,-500,t,en-us,f,793b256d-a241-4151-86f0-b5eae253fc52
-BWI,WAS,TTX,"Baltimore(Intl), MD USA",38.947722,-77.042388,-500,t,en-us,f,793b256d-a241-4151-86f0-b5eae253fc52
-BZS,WAS,TTX,Buzzards Point S Airport,38.947722,-77.042388,-500,t,en-us,f,793b256d-a241-4151-86f0-b5eae253fc52
-DCA,WAS,TTX,"Washington (Reagan Natl), DC USA",38.947722,-77.042388,-500,t,en-us,f,793b256d-a241-4151-86f0-b5eae253fc52
-IAD,WAS,TTX,"Washington(Dulles Intl), DC USA",38.947722,-77.042388,-500,t,en-us,f,793b256d-a241-4151-86f0-b5eae253fc52
-JPN,WAS,TTX,Washington Pentagon AHP,38.947722,-77.042388,-500,t,en-us,f,793b256d-a241-4151-86f0-b5eae253fc52
-YHU,YMQ,TTX,Montreal St Hubert Apt,45.553337,-73.731757,-500,t,en-us,f,eaddadf6-9085-4b25-9129-e47efcf9fe82
-YMX,YMQ,TTX,Montreal Mirabel Intl Apt,45.553337,-73.731757,-500,t,en-us,f,eaddadf6-9085-4b25-9129-e47efcf9fe82
-YUL,YMQ,TTX,Montreal Pierre Elliott Trudeau Int Apt,45.553337,-73.731757,-500,t,en-us,f,eaddadf6-9085-4b25-9129-e47efcf9fe82
-YHM,YTO,TTX,Toronto John C Munro Hamilton,43.558832,-79.743334,-500,t,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b
-YKF,YTO,TTX,Toronto Region of Waterloo Int,43.558832,-79.743334,-500,t,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b
-YKZ,YTO,TTX,Buttonville Airport,43.558832,-79.743334,-500,t,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b
-YTZ,YTO,TTX,Toronto City Centre Apt,43.558832,-79.743334,-500,t,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b
-YYZ,YTO,TTX,Toronto Lester B Pearson Intl Apt,43.558832,-79.743334,-500,t,en-us,f,8ae90caa-e08c-4961-8a6a-b396e7a3a77b
+﻿ANC,ANC,TTX,Anchorage Ted Stevens Intl Apt,61.227567,-149.844445,-900,t,en-us,f,Anchorage,AK,US
+EDF,ANC,TTX,Anchorage Elmendorf AFB,61.227567,-149.844445,-900,t,en-us,f,Anchorage,AK,US
+FRN,ANC,TTX,Anchorage Bryant AAF,61.227567,-149.844445,-900,t,en-us,f,Anchorage,AK,US
+MRI,ANC,TTX,Anchorage Merrill Field,61.227567,-149.844445,-900,t,en-us,f,Anchorage,AK,US
+BER,BER,TTX,Berlin Brandenburg Apt,52.435000,13.437223,100,t,en-us,f,Berlin,NULL,DE
+SXF,BER,TTX,Berlin Schoenefeld Apt,52.435000,13.437223,100,t,en-us,f,Berlin,NULL,DE
+TXL,BER,TTX,Berlin(Tegel) Germany,52.435000,13.437223,100,t,en-us,f,Berlin,NULL,DE
+BKK,BKK,TTX,Bangkok Thailand,13.799165,100.677780,700,t,en-us,f,Bangkok,NULL,TH
+DMK,BKK,TTX,Bangkok Thailand,13.799165,100.677780,700,t,en-us,f,Bangkok,NULL,TH
+BRU,BRU,TTX,Brussels Belgium,50.680280,4.469165,100,t,en-us,f,Brussels,NULL,BE
+CRL,BRU,TTX,Brussels S. Charleroi Airport,50.680280,4.469165,100,t,en-us,f,Brussels,NULL,BE
+ZYR,BRU,TTX,Brussels - Midi Rail Station,50.680280,4.469165,100,t,en-us,f,Brussels,NULL,BE
+AEP,BUE,TTX,Buenos Aires Aeroparque J. Newbery,-34.690555,-58.476110,-300,t,en-us,f,Buenos Aires,NULL,AR
+EZE,BUE,TTX,Buenos Aires Ministro Pistarini,-34.690555,-58.476110,-300,t,en-us,f,Buenos Aires,NULL,AR
+BBU,BUH,TTX,Bucharest Baneasa Apt,44.537775,26.102220,200,t,en-us,f,Bucharest,NULL,RO
+OTP,BUH,TTX,Bucharest Otopeni Apt,44.537775,26.102220,200,t,en-us,f,Bucharest,NULL,RO
+CGX,CHI,TTX,Merrill C Meigs Field,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+DPA,CHI,TTX,Dupage County Airport,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+GYY,CHI,TTX,Chicago Gary International,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+MDW,CHI,TTX,Chicago(Midway), IL USA,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+ORD,CHI,TTX,Chicago(Ohare), IL USA,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+PWK,CHI,TTX,Chicago Palwaukee Apt,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+RFD,CHI,TTX,Chicago Rockford Airport,41.933425,-88.054353,-600,t,en-us,f,Chicago,IL,US
+BKL,CLE,TTX,Cleveland Burke Lakefront Apt,41.498613,-81.672127,-500,t,en-us,f,Cleveland,OH,US
+CGF,CLE,TTX,Cleveland Cuyahoga County Apt,41.498613,-81.672127,-500,t,en-us,f,Cleveland,OH,US
+CLE,CLE,TTX,Cleveland Hopkins International Apt,41.498613,-81.672127,-500,t,en-us,f,Cleveland,OH,US
+DAL,DAL,TTX,Dallas(Love Fld), TX USA,32.872080,-96.944865,-600,t,en-us,f,Dallas,TX,US
+DFW,DAL,TTX,Dallas/Ft. Worth(Intl), TX USA,32.872080,-96.944865,-600,t,en-us,f,Dallas,TX,US
+DAY,DAY,TTX,Dayton James M. Cox Intl Apt,39.796943,-84.220370,-500,t,en-us,f,Dayton,OH,US
+FFO,DAY,TTX,Dayton Wright-Patterson AFB,39.796943,-84.220370,-500,t,en-us,f,Dayton,OH,US
+MGY,DAY,TTX,Dayton Wright Brothers Apt,39.796943,-84.220370,-500,t,en-us,f,Dayton,OH,US
+APA,DEN,TTX,Denver Centennial Airport,39.764862,-104.914238,-700,t,en-us,f,Denver,CO,US
+BFK,DEN,TTX,Denver Aurora/Buckley AFB,39.764862,-104.914238,-700,t,en-us,f,Denver,CO,US
+BJC,DEN,TTX,Denver Rocky Mountain Metrop.,39.764862,-104.914238,-700,t,en-us,f,Denver,CO,US
+DEN,DEN,TTX,Denver Intl Apt,39.764862,-104.914238,-700,t,en-us,f,Denver,CO,US
+DET,DTT,TTX,Detroit City Airport,42.283520,-83.294537,-500,t,en-us,f,Detroit,MI,US
+DTW,DTT,TTX,Detroit Wayne County,42.283520,-83.294537,-500,t,en-us,f,Detroit,MI,US
+YIP,DTT,TTX,Willow Run Airport,42.283520,-83.294537,-500,t,en-us,f,Detroit,MI,US
+FRA,FRA,TTX,Frankfurt International Apt,49.990835,7.917225,100,t,en-us,f,Frankfurt,NULL,DE
+HHN,FRA,TTX,Frankfurt Hahn Airport,49.990835,7.917225,100,t,en-us,f,Frankfurt,NULL,DE
+HHP,HKG,TTX,Sheung Wan Heliport,22.298890,114.033610,800,t,en-us,f,Hong Kong,NULL,HK
+HKG,HKG,TTX,Hong Kong International Apt,22.298890,114.033610,800,t,en-us,f,Hong Kong,NULL,HK
+CXO,HOU,TTX,Houston Conroe,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+DWH,HOU,TTX,Houston David Wayne Hooks Mem.,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+EFD,HOU,TTX,Houston Ellington,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+HOU,HOU,TTX,Houston(Hobby), TX USA,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+IAH,HOU,TTX,Houston(Intl), TX USA,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+IWS,HOU,TTX,Houston West Houston Apt,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+JDX,HOU,TTX,Houston First City Heliport,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+JGQ,HOU,TTX,Houston Transco Tower Heliport,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+JWH,HOU,TTX,Houston Westchase Heliport,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+SGR,HOU,TTX,Houston Sugar Land Regional,29.814668,-95.408000,-600,t,en-us,f,Houston,TX,US
+CGK,JKT,TTX,Jakarta Soekarno-Hatta Apt,-6.196115,106.773470,700,t,en-us,f,Jakarta,NULL,ID
+HLP,JKT,TTX,Jakarta Halim Perdana Kusuma Apt,-6.196115,106.773470,700,t,en-us,f,Jakarta,NULL,ID
+GCJ,JNB,TTX,Johannesburg Grand Central Apt,-26.166112,28.125000,200,t,en-us,f,Johannesburg,NULL,ZA
+HCS,JNB,TTX,Johannesburg Randburg H/P,-26.166112,28.125000,200,t,en-us,f,Johannesburg,NULL,ZA
+HLA,JNB,TTX,Johannesburg Lanseria International Apt,-26.166112,28.125000,200,t,en-us,f,Johannesburg,NULL,ZA
+JNB,JNB,TTX,Johannesburg O.R. Tambo International,-26.166112,28.125000,200,t,en-us,f,Johannesburg,NULL,ZA
+QRA,JNB,TTX,Johannesburg Rand,-26.166112,28.125000,200,t,en-us,f,Johannesburg,NULL,ZA
+LCY,LON,TTX,London(City) England UK,51.576945,-0.005878,0,t,en-us,f,London,NULL,GB
+LGW,LON,TTX,London(Gatwick) England UK,51.576945,-0.005878,0,t,en-us,f,London,NULL,GB
+LHR,LON,TTX,London(Heathrow) England UK,51.576945,-0.005878,0,t,en-us,f,London,NULL,GB
+LTN,LON,TTX,London(Luton) England UK,51.576945,-0.005878,0,t,en-us,f,London,NULL,GB
+SEN,LON,TTX,London Southend Apt,51.576945,-0.005878,0,t,en-us,f,London,NULL,GB
+STN,LON,TTX,London(Stansted) England UK,51.576945,-0.005878,0,t,en-us,f,London,NULL,GB
+BGY,MIL,TTX,Milan Orio al Serio Apt,45.392638,9.499237,100,t,en-us,f,Milan,NULL,IT
+LIN,MIL,TTX,Milan (Linate) Italy,45.392638,9.499237,100,t,en-us,f,Milan,NULL,IT
+MXP,MIL,TTX,Milan (Malpensa) Italy,45.392638,9.499237,100,t,en-us,f,Milan,NULL,IT
+PMF,MIL,TTX,Milan Parma Apt,45.392638,9.499237,100,t,en-us,f,Milan,NULL,IT
+BKA,MOW,TTX,Bykovo Airport,55.657780,37.527500,300,t,en-us,f,Moscow,NULL,RU
+DME,MOW,TTX,Moscow(Domodedovo) Russian Fed.,55.657780,37.527500,300,t,en-us,f,Moscow,NULL,RU
+SVO,MOW,TTX,Moscow(Sheremetyevo) Russian Fed.,55.657780,37.527500,300,t,en-us,f,Moscow,NULL,RU
+VKO,MOW,TTX,Moscow Vnukovo Apt,55.657780,37.527500,300,t,en-us,f,Moscow,NULL,RU
+EWR,NYC,TTX,New York(Newark, NJ), NY USA,40.703147,-73.940000,-500,t,en-us,f,New York,NY,US
+FLU,NYC,TTX,Flushing Airport,40.703147,-73.940000,-500,t,en-us,f,New York,NY,US
+JFK,NYC,TTX,New York(Kennedy), NY USA,40.703147,-73.940000,-500,t,en-us,f,New York,NY,US
+LGA,NYC,TTX,New York(Laguardia), NY USA,40.703147,-73.940000,-500,t,en-us,f,New York,NY,US
+QNY,NYC,TTX,Marine Air Terminal,40.703147,-73.940000,-500,t,en-us,f,New York,NY,US
+WTC,NYC,TTX,World Trade Center Airport,40.703147,-73.940000,-500,t,en-us,f,New York,NY,US
+MCO,ORL,TTX,Orlando(Intl), FL USA,28.603610,-81.273195,-500,t,en-us,f,Orlando,FL,US
+SFB,ORL,TTX,Orlando(Sanford), FL USA,28.603610,-81.273195,-500,t,en-us,f,Orlando,FL,US
+ITM,OSA,TTX,Osaka Itami Airport,34.615187,135.302130,900,t,en-us,f,Osaka,NULL,JP
+KIX,OSA,TTX,Osaka Kansai International Airport,34.615187,135.302130,900,t,en-us,f,Osaka,NULL,JP
+UKB,OSA,TTX,Osaka Kobe Airport,34.615187,135.302130,900,t,en-us,f,Osaka,NULL,JP
+BVA,PAR,TTX,Paris Beauvais-Tille Airport,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+CDG,PAR,TTX,Paris(C.Degaulle) France,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+LBG,PAR,TTX,Le Bourget Airport,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+ORY,PAR,TTX,Paris(Orly) France,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+POX,PAR,TTX,Pontoise-Cormeilles Airport,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+VIY,PAR,TTX,Villacoublay-Velizy Airport,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+XCR,PAR,TTX,Paris Chalons-Vatry Airport,48.971586,2.560000,100,t,en-us,f,Paris,NULL,FR
+BBX,PHL,TTX,Philadelphia Wings Field,40.099627,-75.106573,-500,t,en-us,f,Philadelphia,PA,US
+PHL,PHL,TTX,Philadelphia(Intl), PA USA,40.099627,-75.106573,-500,t,en-us,f,Philadelphia,PA,US
+TTN,PHL,TTX,Philadelphia(Trenton-Mercer), NJ USA,40.099627,-75.106573,-500,t,en-us,f,Philadelphia,PA,US
+KEF,REK,TTX,Reykjavik Keflavik International Apt,64.057500,-22.273060,0,t,en-us,f,Reykjavik,NULL,IS
+RKV,REK,TTX,Reykjavik Domestic Airport,64.057500,-22.273060,0,t,en-us,f,Reykjavik,NULL,IS
+GIG,RIO,TTX,Rio De Janeiro(Intl) Rj Brazil,-22.861530,-43.205695,-300,t,en-us,f,Rio De Janeiro,NULL,BR
+SDU,RIO,TTX,Rio De Janeiro(Dumont) Rj Brazil,-22.861530,-43.205695,-300,t,en-us,f,Rio De Janeiro,NULL,BR
+CIA,ROM,TTX,Rome Ciampino Apt,41.799585,12.416945,100,t,en-us,f,Rome,NULL,IT
+FCO,ROM,TTX,Rome Fiumicino Apt,41.799585,12.416945,100,t,en-us,f,Rome,NULL,IT
+CGH,SAO,TTX,Sao Paulo(Congonhas) Sp Brazil,-23.355557,-46.754073,-300,t,en-us,f,Sao Paulo,NULL,BR
+GRU,SAO,TTX,Sao Paulo(Intl) Sp Brazil,-23.355557,-46.754073,-300,t,en-us,f,Sao Paulo,NULL,BR
+VCP,SAO,TTX,Sao Paulo Viracopos-Campinas Intl Apt,-23.355557,-46.754073,-300,t,en-us,f,Sao Paulo,NULL,BR
+GMP,SEL,TTX,Seoul (Gimpo Intl) Korea,37.490370,126.784633,900,t,en-us,f,Seoul,NULL,KR
+ICN,SEL,TTX,Seoul (Incheon Intl) Korea,37.490370,126.784633,900,t,en-us,f,Seoul,NULL,KR
+SSN,SEL,TTX,Seoul Ab Airport,37.490370,126.784633,900,t,en-us,f,Seoul,NULL,KR
+ARN,STO,TTX,Stockholm Arlanda Apt,59.346108,17.351528,100,t,en-us,f,Stockholm,NULL,SE
+BMA,STO,TTX,Stockholm Bromma Apt,59.346108,17.351528,100,t,en-us,f,Stockholm,NULL,SE
+NYO,STO,TTX,Stockholm Skavsta Airport,59.346108,17.351528,100,t,en-us,f,Stockholm,NULL,SE
+VST,STO,TTX,Stockholm Vasteras Apt,59.346108,17.351528,100,t,en-us,f,Stockholm,NULL,SE
+HND,TYO,TTX,Tokyo(Haneda) Japan,35.688980,139.838703,900,t,en-us,f,Tokyo,NULL,JP
+NRT,TYO,TTX,Tokyo(Narita) Japan,35.688980,139.838703,900,t,en-us,f,Tokyo,NULL,JP
+OKO,TYO,TTX,Tokyo Yokota AB,35.688980,139.838703,900,t,en-us,f,Tokyo,NULL,JP
+BOF,WAS,TTX,Washington Bolling AFB Heliport,38.947722,-77.042388,-500,t,en-us,f,Washington,DC,US
+BWI,WAS,TTX,Baltimore(Intl), MD USA,38.947722,-77.042388,-500,t,en-us,f,Washington,DC,US
+BZS,WAS,TTX,Buzzards Point S Airport,38.947722,-77.042388,-500,t,en-us,f,Washington,DC,US
+DCA,WAS,TTX,Washington (Reagan Natl), DC USA,38.947722,-77.042388,-500,t,en-us,f,Washington,DC,US
+IAD,WAS,TTX,Washington(Dulles Intl), DC USA,38.947722,-77.042388,-500,t,en-us,f,Washington,DC,US
+JPN,WAS,TTX,Washington Pentagon AHP,38.947722,-77.042388,-500,t,en-us,f,Washington,DC,US
+YHU,YMQ,TTX,Montreal St Hubert Apt,45.553337,-73.731757,-500,t,en-us,f,Montreal,QC,CA
+YMX,YMQ,TTX,Montreal Mirabel Intl Apt,45.553337,-73.731757,-500,t,en-us,f,Montreal,DC,CA
+YUL,YMQ,TTX,Montreal Pierre Elliott Trudeau Int Apt,45.553337,-73.731757,-500,t,en-us,f,Montreal,DC,CA
+YHM,YTO,TTX,Toronto John C Munro Hamilton,43.558832,-79.743334,-500,t,en-us,f,Toronto,ON,CA
+YKF,YTO,TTX,Toronto Region of Waterloo Int,43.558832,-79.743334,-500,t,en-us,f,Toronto,ON,CA
+YKZ,YTO,TTX,Buttonville Airport,43.558832,-79.743334,-500,t,en-us,f,Toronto,ON,CA
+YTZ,YTO,TTX,Toronto City Centre Apt,43.558832,-79.743334,-500,t,en-us,f,Toronto,ON,CA
+YYZ,YTO,TTX,Toronto Lester B Pearson Intl Apt,43.558832,-79.743334,-500,t,en-us,f,Toronto,ON,CA

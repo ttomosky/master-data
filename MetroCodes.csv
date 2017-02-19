@@ -1,0 +1,127 @@
+﻿ANC,A,Anchorage Ted Stevens Intl Apt,ANC,Anchorage, AK, USA,Anchorage,AK,US
+EDF,A,Anchorage Elmendorf AFB,ANC,Anchorage, AK, USA,Anchorage,AK,US
+FRN,A,Anchorage Bryant AAF,ANC,Anchorage, AK, USA,Anchorage,AK,US
+MRI,A,Anchorage Merrill Field,ANC,Anchorage, AK, USA,Anchorage,AK,US
+BER,A,Berlin Brandenburg Apt,BER,Berlin, Germany,Berlin,NULL,DE
+SXF,A,Berlin Schoenefeld Apt,BER,Berlin, Germany,Berlin,NULL,DE
+TXL,A,Berlin(Tegel) Germany,BER,Berlin, Germany,Berlin,NULL,DE
+BKK,A,Bangkok Thailand,BKK,Bangkok, Thailand,Bangkok,NULL,TH
+DMK,A,Bangkok Thailand,BKK,Bangkok, Thailand,Bangkok,NULL,TH
+BRU,A,Brussels Belgium,BRU,Brussels, Belgium,Brussels,NULL,BE
+CRL,A,Brussels S. Charleroi Airport,BRU,Brussels, Belgium,Brussels,NULL,BE
+ZYR,A,Brussels - Midi Rail Station,BRU,Brussels, Belgium,Brussels,NULL,BE
+AEP,A,Buenos Aires Aeroparque J. Newbery,BUE,Buenos Aires, Argentina,Buenos Aires,NULL,AR
+EZE,A,Buenos Aires Ministro Pistarini,BUE,Buenos Aires, Argentina,Buenos Aires,NULL,AR
+BBU,A,Bucharest Baneasa Apt,BUH,Bucharest, Romania,Bucharest,NULL,RO
+OTP,A,Bucharest Otopeni Apt,BUH,Bucharest, Romania,Bucharest,NULL,RO
+CGX,A,Merrill C Meigs Field,CHI,Chicago, IL, USA,Chicago,IL,US
+DPA,A,Dupage County Airport,CHI,Chicago, IL, USA,Chicago,IL,US
+GYY,A,Chicago Gary International,CHI,Chicago, IL, USA,Chicago,IL,US
+MDW,A,Chicago(Midway), IL USA,CHI,Chicago, IL, USA,Chicago,IL,US
+ORD,A,Chicago(Ohare), IL USA,CHI,Chicago, IL, USA,Chicago,IL,US
+PWK,A,Chicago Palwaukee Apt,CHI,Chicago, IL, USA,Chicago,IL,US
+RFD,A,Chicago Rockford Airport,CHI,Chicago, IL, USA,Chicago,IL,US
+BKL,A,Cleveland Burke Lakefront Apt,CLE,Cleveland, OH, USA,Cleveland,OH,US
+CGF,A,Cleveland Cuyahoga County Apt,CLE,Cleveland, OH, USA,Cleveland,OH,US
+CLE,A,Cleveland Hopkins International Apt,CLE,Cleveland, OH, USA,Cleveland,OH,US
+DAL,A,Dallas(Love Fld), TX USA,DAL,Dallas, TX, USA,Dallas,TX,US
+DFW,A,Dallas/Ft. Worth(Intl), TX USA,DAL,Dallas, TX, USA,Dallas,TX,US
+DAY,A,Dayton James M. Cox Intl Apt,DAY,Dayton, OH, USA,Dayton,OH,US
+FFO,A,Dayton Wright-Patterson AFB,DAY,Dayton, OH, USA,Dayton,OH,US
+MGY,A,Dayton Wright Brothers Apt,DAY,Dayton, OH, USA,Dayton,OH,US
+APA,A,Denver Centennial Airport,DEN,Denver, CO, USA,Denver,CO,US
+BFK,A,Denver Aurora/Buckley AFB,DEN,Denver, CO, USA,Denver,CO,US
+BJC,A,Denver Rocky Mountain Metrop.,DEN,Denver, CO, USA,Denver,CO,US
+DEN,A,Denver Intl Apt,DEN,Denver, CO, USA,Denver,CO,US
+DET,A,Detroit City Airport,DTT,Detroit, MI, USA,Detroit,MI,US
+DTW,A,Detroit Wayne County,DTT,Detroit, MI, USA,Detroit,MI,US
+YIP,A,Willow Run Airport,DTT,Detroit, MI, USA,Detroit,MI,US
+FRA,A,Frankfurt International Apt,FRA,Frankfurt, Germany,Frankfurt,NULL,DE
+HHN,A,Frankfurt Hahn Airport,FRA,Frankfurt, Germany,Frankfurt,NULL,DE
+HHP,A,Sheung Wan Heliport,HKG,Hong Kong, Hong Kong,Hong Kong,NULL,HK
+HKG,A,Hong Kong International Apt,HKG,Hong Kong, Hong Kong,Hong Kong,NULL,HK
+CXO,A,Houston Conroe,HOU,Houston, TX, USA,Houston,TX,US
+DWH,A,Houston David Wayne Hooks Mem.,HOU,Houston, TX, USA,Houston,TX,US
+EFD,A,Houston Ellington,HOU,Houston, TX, USA,Houston,TX,US
+HOU,A,Houston(Hobby), TX USA,HOU,Houston, TX, USA,Houston,TX,US
+IAH,A,Houston(Intl), TX USA,HOU,Houston, TX, USA,Houston,TX,US
+IWS,A,Houston West Houston Apt,HOU,Houston, TX, USA,Houston,TX,US
+JDX,A,Houston First City Heliport,HOU,Houston, TX, USA,Houston,TX,US
+JGQ,A,Houston Transco Tower Heliport,HOU,Houston, TX, USA,Houston,TX,US
+JWH,A,Houston Westchase Heliport,HOU,Houston, TX, USA,Houston,TX,US
+SGR,A,Houston Sugar Land Regional,HOU,Houston, TX, USA,Houston,TX,US
+CGK,A,Jakarta Soekarno-Hatta Apt,JKT,Jakarta, Indonesia,Jakarta,NULL,ID
+HLP,A,Jakarta Halim Perdana Kusuma Apt,JKT,Jakarta, Indonesia,Jakarta,NULL,ID
+GCJ,A,Johannesburg Grand Central Apt,JNB,Johannesburg, South Africa,Johannesburg,NULL,ZA
+HCS,A,Johannesburg Randburg H/P,JNB,Johannesburg, South Africa,Johannesburg,NULL,ZA
+HLA,A,Johannesburg Lanseria International Apt,JNB,Johannesburg, South Africa,Johannesburg,NULL,ZA
+JNB,A,Johannesburg O.R. Tambo International,JNB,Johannesburg, South Africa,Johannesburg,NULL,ZA
+QRA,A,Johannesburg Rand,JNB,Johannesburg, South Africa,Johannesburg,NULL,ZA
+LCY,A,London(City) England UK,LON,London, England, UK,London,NULL,GB
+LGW,A,London(Gatwick) England UK,LON,London, England, UK,London,NULL,GB
+LHR,A,London(Heathrow) England UK,LON,London, England, UK,London,NULL,GB
+LTN,A,London(Luton) England UK,LON,London, England, UK,London,NULL,GB
+SEN,A,London Southend Apt,LON,London, England, UK,London,NULL,GB
+STN,A,London(Stansted) England UK,LON,London, England, UK,London,NULL,GB
+BGY,A,Milan Orio al Serio Apt,MIL,Milan, Italy,Milan,NULL,IT
+LIN,A,Milan (Linate) Italy,MIL,Milan, Italy,Milan,NULL,IT
+MXP,A,Milan (Malpensa) Italy,MIL,Milan, Italy,Milan,NULL,IT
+PMF,A,Milan Parma Apt,MIL,Milan, Italy,Milan,NULL,IT
+BKA,A,Bykovo Airport,MOW,Moscow, Russia,Moscow,NULL,RU
+DME,A,Moscow(Domodedovo) Russian Fed.,MOW,Moscow, Russia,Moscow,NULL,RU
+SVO,A,Moscow(Sheremetyevo) Russian Fed.,MOW,Moscow, Russia,Moscow,NULL,RU
+VKO,A,Moscow Vnukovo Apt,MOW,Moscow, Russia,Moscow,NULL,RU
+EWR,A,New York(Newark, NJ), NY USA,NYC,New York, NY, USA,New York,NY,US
+FLU,A,Flushing Airport,NYC,New York, NY, USA,New York,NY,US
+JFK,A,New York(Kennedy), NY USA,NYC,New York, NY, USA,New York,NY,US
+LGA,A,New York(Laguardia), NY USA,NYC,New York, NY, USA,New York,NY,US
+QNY,A,Marine Air Terminal,NYC,New York, NY, USA,New York,NY,US
+WTC,A,World Trade Center Airport,NYC,New York, NY, USA,New York,NY,US
+MCO,A,Orlando(Intl), FL USA,ORL,Orlando, FL, USA,Orlando,FL,US
+SFB,A,Orlando(Sanford), FL USA,ORL,Orlando, FL, USA,Orlando,FL,US
+ITM,A,Osaka Itami Airport,OSA,Osaka, Japan,Osaka,NULL,JP
+KIX,A,Osaka Kansai International Airport,OSA,Osaka, Japan,Osaka,NULL,JP
+UKB,A,Osaka Kobe Airport,OSA,Osaka, Japan,Osaka,NULL,JP
+BVA,A,Paris Beauvais-Tille Airport,PAR,Paris, France,Paris,NULL,FR
+CDG,A,Paris(C.Degaulle) France,PAR,Paris, France,Paris,NULL,FR
+LBG,A,Le Bourget Airport,PAR,Paris, France,Paris,NULL,FR
+ORY,A,Paris(Orly) France,PAR,Paris, France,Paris,NULL,FR
+POX,A,Pontoise-Cormeilles Airport,PAR,Paris, France,Paris,NULL,FR
+VIY,A,Villacoublay-Velizy Airport,PAR,Paris, France,Paris,NULL,FR
+XCR,A,Paris Chalons-Vatry Airport,PAR,Paris, France,Paris,NULL,FR
+BBX,A,Philadelphia Wings Field,PHL,Philadelphia, PA, USA,Philadelphia,PA,US
+PHL,A,Philadelphia(Intl), PA USA,PHL,Philadelphia, PA, USA,Philadelphia,PA,US
+TTN,A,Philadelphia(Trenton-Mercer), NJ USA,PHL,Philadelphia, PA, USA,Philadelphia,PA,US
+KEF,A,Reykjavik Keflavik International Apt,REK,Reykjavik, Iceland,Reykjavik,NULL,IS
+RKV,A,Reykjavik Domestic Airport,REK,Reykjavik, Iceland,Reykjavik,NULL,IS
+GIG,A,Rio De Janeiro(Intl) Rj Brazil,RIO,Rio De Janeiro, Brazil,Rio De Janeiro,NULL,BR
+SDU,A,Rio De Janeiro(Dumont) Rj Brazil,RIO,Rio De Janeiro, Brazil,Rio De Janeiro,NULL,BR
+CIA,A,Rome Ciampino Apt,ROM,Rome, Italy,Rome,NULL,IT
+FCO,A,Rome Fiumicino Apt,ROM,Rome, Italy,Rome,NULL,IT
+CGH,A,Sao Paulo(Congonhas) Sp Brazil,SAO,Sao Paulo, Brazil,Sao Paulo,NULL,BR
+GRU,A,Sao Paulo(Intl) Sp Brazil,SAO,Sao Paulo, Brazil,Sao Paulo,NULL,BR
+VCP,A,Sao Paulo Viracopos-Campinas Intl Apt,SAO,Sao Paulo, Brazil,Sao Paulo,NULL,BR
+GMP,A,Seoul (Gimpo Intl) Korea,SEL,Seoul, South Korea,Seoul,NULL,KR
+ICN,A,Seoul (Incheon Intl) Korea,SEL,Seoul, South Korea,Seoul,NULL,KR
+SSN,A,Seoul Ab Airport,SEL,Seoul, South Korea,Seoul,NULL,KR
+ARN,A,Stockholm Arlanda Apt,STO,Stockholm, Sweden,Stockholm,NULL,SE
+BMA,A,Stockholm Bromma Apt,STO,Stockholm, Sweden,Stockholm,NULL,SE
+NYO,A,Stockholm Skavsta Airport,STO,Stockholm, Sweden,Stockholm,NULL,SE
+VST,A,Stockholm Vasteras Apt,STO,Stockholm, Sweden,Stockholm,NULL,SE
+HND,A,Tokyo(Haneda) Japan,TYO,Tokyo, Japan,Tokyo,NULL,JP
+NRT,A,Tokyo(Narita) Japan,TYO,Tokyo, Japan,Tokyo,NULL,JP
+OKO,A,Tokyo Yokota AB,TYO,Tokyo, Japan,Tokyo,NULL,JP
+BOF,A,Washington Bolling AFB Heliport,WAS,Washington, DC, USA,Washington,DC,US
+BWI,A,Baltimore(Intl), MD USA,WAS,Washington, DC, USA,Washington,DC,US
+BZS,A,Buzzards Point S Airport,WAS,Washington, DC, USA,Washington,DC,US
+DCA,A,Washington (Reagan Natl), DC USA,WAS,Washington, DC, USA,Washington,DC,US
+IAD,A,Washington(Dulles Intl), DC USA,WAS,Washington, DC, USA,Washington,DC,US
+JPN,A,Washington Pentagon AHP,WAS,Washington, DC, USA,Washington,DC,US
+YHU,A,Montreal St Hubert Apt,YMQ,Montreal, QC, Canada,Montreal,QC,CA
+YMX,A,Montreal Mirabel Intl Apt,YMQ,Montreal, QC, Canada,Montreal,DC,CA
+YUL,A,Montreal Pierre Elliott Trudeau Int Apt,YMQ,Montreal, QC, Canada,Montreal,DC,CA
+YHM,A,Toronto John C Munro Hamilton,YTO,Toronto, ON, Canada,Toronto,ON,CA
+YKF,A,Toronto Region of Waterloo Int,YTO,Toronto, ON, Canada,Toronto,ON,CA
+YKZ,A,Buttonville Airport,YTO,Toronto, ON, Canada,Toronto,ON,CA
+YTZ,A,Toronto City Centre Apt,YTO,Toronto, ON, Canada,Toronto,ON,CA
+YYZ,A,Toronto Lester B Pearson Intl Apt,YTO,Toronto, ON, Canada,Toronto,ON,CA
